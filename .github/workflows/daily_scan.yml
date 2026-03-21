@@ -3,9 +3,10 @@ name: 每日機會分析
 on:
   schedule:
     # 台灣時間 09:00 = UTC 01:00
-    - cron: '0 1 * * 1-5'   # 週一到週五早上9點
+    - cron: '0 1 * * 1-7'   # 週一到週五早上9點
     # 台灣時間 16:30 = UTC 08:30（盤後外資數據）
-    - cron: '30 8 * * 1-5'  # 週一到週五下午4:30
+    - cron: '30 8 * * 1-7'  # 週一到週五下午4:30
+    - cron: '0 15 * * 1-7'
   workflow_dispatch:          # 允許手動觸發（隨時可以手動跑）
 
 jobs:
@@ -29,7 +30,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python daily_opportunity_v10.py
+        run: python AI_TEST_CLAUDE.py
 
       - name: 📤 推送 Telegram 通知
         env:
