@@ -52,4 +52,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add index.html 報告_*.html 機會分析_*.csv logs/
           git commit -m "📊 每日報告 $(date '+%Y-%m-%d %H:%M') CST" || echo "沒有變更"
-          git push
+          git pull --rebase && git push
