@@ -1,0 +1,54 @@
+name: 每日機會分析
+
+on:
+  schedule:
+    # 台灣時間 09:00 = UTC 01:00
+    - cron: '0 1 * * 1-5'   # 週一到週五早上9點
+    # 台灣時間 16:30 = UTC 08:30（盤後外資數據）
+    - cron: '30 8 * * 1-5'  # 週一到週五下午4:30
+  workflow_dispatch:          # 允許手動觸發（隨時可以手動跑）
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 📥 取得程式碼
+        uses: actions/checkout@v4
+
+      - name: 🐍 設定 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 安裝套件
+        run: pip install -r requirements.txt
+
+      - name: 🔥 執行分析腳本
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python daily_opportunity_v10.py
+
+      - name: 📤 推送 Telegram 通知
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python telegram_notify.py
+        continue-on-error: true   # Telegram 失敗不影響主流程
+
+      - name: 🌐 發布 HTML 報告到 GitHub Pages
+        run: |
+          # 把最新報告複製成 index.html（讓 GitHub Pages 顯示）
+          REPORT=$(ls 報告_*.html | sort | tail -1)
+          cp "$REPORT" index.html
+          echo "發布報告：$REPORT"
+
+      - name: 📝 提交報告到 repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html 報告_*.html 機會分析_*.csv logs/
+          git commit -m "📊 每日報告 $(date '+%Y-%m-%d %H:%M') CST" || echo "沒有變更"
+          git push
