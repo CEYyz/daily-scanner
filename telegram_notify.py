@@ -38,7 +38,7 @@ if not csv_files:
 
 import pandas as pd
 df = pd.read_csv(csv_files[-1], encoding="utf-8-sig")
-stocks = df[df["類型"].str.startswith("股票")]
+stocks = df
 
 now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 
