@@ -1,0 +1,130 @@
+17:02:45  INFO  ======================================================================
+17:02:45  INFO  🔥  每日機會分析系統 v10
+17:02:45  INFO  📅  2026-04-12 17:02
+17:02:45  INFO  ======================================================================
+17:02:45  INFO  
+① 🌕  CRYPTO
+17:02:46  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+17:02:46  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+17:02:47  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+17:02:48  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+17:02:48  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+17:02:49  INFO    ✅ Crypto 0 筆
+17:02:49  INFO  
+② 📈  股票
+17:02:49  INFO    [台] 3293.TWO     鈊象電子         $    769.00  +0.65% 偏多
+17:02:49  INFO             買入點：— 目前無買入信號  進場區：$704.4 ~ $718.5  止損：$691.6
+17:02:50  INFO    [台] 00909.TW     國泰智能電動車ETF   $     39.99  +0.88% 多空分歧
+17:02:50  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$35.1 ~ $35.8  止損：$34.2
+17:02:51  INFO    [台] 0056.TW      元大高股息        $     39.41  +0.84% 偏多
+17:02:51  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$36.9 ~ $37.6  止損：$35.9
+17:02:52  INFO    [台] 6111.TWO     6111擎亞       $     44.05  +0.92% 多空分歧
+17:02:52  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$39.7 ~ $40.5  止損：$38.7
+17:02:53  INFO    [台] 00878.TW     國泰永續高股息      $     23.02  +0.52% 偏多
+17:02:53  INFO             買入點：— 目前無買入信號  進場區：$21.7 ~ $22.1  止損：$21.1
+17:02:54  INFO    [台] 3017.TW      奇鋐           $  2,265.00  +1.34% 三線多頭
+17:02:54  INFO             買入點：— 目前無買入信號  進場區：$1,752.3 ~ $1,787.5  止損：$1,760.5
+17:02:54  INFO    [台] 00713.TW     元大高息低波       $     52.50  +0.19% 三線多頭
+17:02:54  INFO             買入點：— 目前無買入信號  進場區：$50.4 ~ $51.4  止損：$49.1
+17:02:56  INFO    [台] 00919.TW     群益台灣精選高息     $     22.93  +0.31% 偏多
+17:02:56  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$21.9 ~ $22.3  止損：$21.3
+17:02:57  INFO    [美] NVDA         NVIDIA       $    188.63  +2.57% 多空分歧
+17:02:57  INFO             買入點：— 目前無買入信號  進場區：$163.4 ~ $166.7  止損：$159.3
+17:02:57  INFO    [美] GEV          GE Vernova   $    991.32  +2.41% 三線多頭
+17:02:57  INFO             買入點：— 目前無買入信號  進場區：$785.1 ~ $800.9  止損：$778.2
+17:02:58  INFO    [台] 2330.TW      台積電          $  2,000.00  +2.30% 三線多頭
+17:02:58  INFO             買入點：— 目前無買入信號  進場區：$1,730.2 ~ $1,765.0  止損：$1,707.2
+17:02:59  INFO    [美] AMD          AMD          $    245.04  +3.55% 多空分歧
+17:02:59  INFO             買入點：— 目前無買入信號  進場區：$180.2 ~ $183.9  止損：$186.5
+17:03:00  INFO    [美] TSM          台積電ADR       $    370.60  +1.40% 三線多頭
+17:03:00  INFO             買入點：— 目前無買入信號  進場區：$312.2 ~ $318.5  止損：$304.4
+17:03:01  INFO    [台] 2317.TW      鴻海           $    200.50  +0.25% 多空分歧
+17:03:01  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$184.3 ~ $188.0  止損：$181.9
+17:03:03  INFO    [台] 2530.TW      華建           $     23.25  -1.27% 三線空頭
+17:03:03  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$22.9 ~ $23.3  止損：$22.3
+17:03:03  INFO    [美] MU           美光           $    420.59  -0.22% 多空分歧
+17:03:03  INFO             買入點：— 目前無買入信號  進場區：$309.9 ~ $316.2  止損：$302.1
+17:03:04  INFO    [美] LRCX         科林研發         $    263.66  +1.89% 三線多頭
+17:03:04  INFO             買入點：— 目前無買入信號  進場區：$194.2 ~ $198.1  止損：$192.6
+17:03:05  INFO    [台] 00631L.TW    元大台灣50正2     $     23.70  +3.90% 多空分歧
+17:03:05  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$-262.7 ~ $-268.0  止損：$18.5
+17:03:06  INFO    [台] 00910.TW     第一金太空衛星      $     65.70  -0.53% 三線多頭
+17:03:06  INFO             買入點：— 目前無買入信號  進場區：$51.2 ~ $52.2  止損：$52.9
+17:03:07  INFO    [台] 2308.TW      台達電          $  1,735.00  +5.47% 三線多頭
+17:03:07  INFO             買入點：— 目前無買入信號  進場區：$1,275.5 ~ $1,301.1  止損：$1,299.8
+17:03:09  INFO    ✅ 股票 20 筆
+17:03:09  INFO  
+③ 🌟  生活熱門趨勢
+17:03:09  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+17:03:10  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+17:03:13  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+17:03:17  WARNING    [居家生活] The request failed: Google returned a response with code 429
+17:03:20  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+17:03:24  WARNING    [健康運動] The request failed: Google returned a response with code 429
+17:03:27  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+17:03:30  INFO    💬 Dcard 熱門...
+17:03:30  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+17:03:30  INFO    📋 PTT 熱門...
+17:03:31  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+17:03:31  INFO    [PTT/Stock] [14] Re: [新聞] 川普：美國即日起封鎖進出荷莫茲海峽船隻
+17:03:31  INFO    [PTT/Stock] [11] [新聞] 特朗普威脅稱“將把伊朗的殘餘力量終結”
+17:03:31  INFO    [PTT/Stock] [20] Re: [新聞] 川普：美國即日起封鎖進出荷莫茲海峽船隻
+17:03:31  INFO    [PTT/Stock] [29] [新聞] 獨家／TVBS擬出售 傳不只辜仲諒、蔡明忠
+17:03:31  INFO    [PTT/Stock] [49] [標的] 00632R 50反1 (再加碼150張)
+17:03:33  INFO    [PTT/beauty] [1] [正妹] Cosplay 2684 中國 尼祿 虞美人 貴妃
+17:03:33  INFO    [PTT/beauty] [2] [公告] 水桶
+17:03:33  INFO    [PTT/beauty] [4] [正妹] 女僕裝天花板 Rakuten Girls 金佳垠 = =
+17:03:33  INFO    [PTT/beauty] [] [正妹] 學姐美穴蜜汁吞精夜
+17:03:33  INFO    [PTT/beauty] [94] [公告] 不願上表特 ＆ 優文推薦 ＆ 檢舉建議專區
+17:03:34  INFO    [PTT/movie] [3] [美麗雷] 生命之詩（韓影4K重映）
+17:03:34  INFO    [PTT/movie] [11] [普雷] 高雄有顆藍寶石
+17:03:34  INFO    [PTT/movie] [] [請益] 山羊巔峰中文配音歌
+17:03:34  INFO    [PTT/movie] [2] [情報] 降世神通:最後的氣宗疑似被外流
+17:03:34  INFO    [PTT/movie] [] [情報] 4/12 當週13部新片預告+Youtube觀看排行
+17:03:35  INFO    [PTT/food] [] [食記] 吉隆坡 甲洞興記肉骨茶(分店)
+17:03:35  INFO    [PTT/food] [] [食記] 桃園市中壢區。扯厚腿
+17:03:35  INFO    [PTT/food] [] [食記] 泰馬里 台北中正 參巴炸雞腿蝶豆花椰漿飯
+17:03:35  INFO    [PTT/food] [] [食記] 尚品甜湯 台中西屯 滑嫩薑香奶香薑汁撞奶
+17:03:35  INFO    [PTT/food] [] [食記] 桃園市中壢區。PUNJABI BISTRO & BAR
+17:03:35  INFO    📺 YouTube 台灣熱門...
+17:03:35  INFO    🎵 TikTok...
+17:03:36  WARNING      ⚠️  ads.tiktok.com → 503 Server Error: Service Unavailable for url: https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en
+17:03:38  INFO    [TikTok] #1 《TAIPEI TIMES》 TikTok users in Taiwan up significantly last 
+17:03:38  INFO    [TikTok] #2 Taiwan issues cold alert for eight regions amid chill
+17:03:38  INFO    [TikTok] #3 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+17:03:38  INFO    [TikTok] #4 Seeing is not believing (part II) - AI videos spread during 
+17:03:38  INFO    🛍️  Shopee 台灣熱銷...
+17:03:43  INFO    💬 Reddit 熱賣（本週）...
+17:03:43  INFO    ✅ 生活趨勢完成
+17:03:43  INFO  
+④ 📰  消息面
+17:03:43  INFO    [🇹🇼 台灣] 川普下令美國海軍封鎖荷莫茲海峽攔截向伊朗付通行費船隻| 國際
+17:03:43  INFO    [🇹🇼 台灣] 鄭習會後中共國台辦宣布10項涉台措施
+17:03:43  INFO    [🇹🇼 台灣] 獨家｜世界永和豆漿大王驚爆餐盤蛆蠕 衛生局抓「2缺失限改」恐罰2億
+17:03:43  INFO    [🇹🇼 台灣] 快訊／五股大火擴大！4工廠全燒「5676平方公尺火海」　濃煙沖天
+17:03:43  INFO    [🇹🇼 台灣] 白沙屯媽「急行軍」去回僅3.5天！14日到台中龍井 交通管制曝光
+17:03:43  INFO    [🇹🇼 台灣] 美伊談判破局後首發文！川普暗示仍握1王牌 可能波及中國印度
+17:03:46  INFO    [🇯🇵 日本] 京都・行方不明小6のスニーカーを発見》「府警は何かを掴んでいたのではないか」捜索が「自宅」と「小学校」を起点としたエリアへ移行…小川泰平氏が分析する“捜索計画の根拠”（NEWSポストセブン
+17:03:48  INFO    [🇯🇵 日本] 川普稱美軍關閉霍爾木茲海峽伊朗可望重返談判
+17:03:50  INFO    [🇯🇵 日本] 高市自民黨新願景「對抗民粹主義迎合」 社會保險改革的嚴肅性
+17:03:52  INFO    [🇯🇵 日本] 美伊談判未能達成協議；停火結果仍不明朗——川普提到“霍爾木茲封鎖”
+17:03:53  INFO    [🇯🇵 日本] 山中發現一具身份不明的屍體。这是根据一名被捕男子（58）的供述发现的。一名十幾歲的女性失蹤了。大分縣正在確認屍體身分和死因。
+17:03:57  INFO    [🇯🇵 日本] 吉田健一擊敗自民黨推薦的前東京都議員小島等，首次當選練馬區區長選舉【東京】
+17:03:59  INFO    [🇰🇷 韓國] 【突發新聞】川普：美國海軍開始封鎖霍爾木茲所有船隻
+17:03:59  INFO    [🇰🇷 韓國] 返回後3分鐘爆炸…1個兒子和2個女兒的父親、準丈夫、消防員在執行任務時喪生
+17:04:01  INFO    [🇰🇷 韓國] 繼歐洲主要國家之後，日本也批評以色列對黎巴嫩的攻擊，並表示「黎巴嫩的主權必須受到尊重」。
+17:04:03  INFO    [🇰🇷 韓國] 이란 혁명수비대 "호르무즈 완전 통제‥오판 시 죽음의 소용돌이"
+17:04:04  INFO    [🇰🇷 韓國] 這位總統對以色列的罪行進行了直接打擊……“我說了其他國家做不到的事情。”
+17:04:06  INFO    [🇰🇷 韓國] 噢，「祝魏成坤獲勝」的團結形成了…關注決賽的影響
+17:04:06  INFO    [🇺🇸 美國] Middle East crisis live: Trump says US will blockade the strait of Hormuz
+17:04:06  INFO    [🇺🇸 美國] Fraud accusations fly as Hungarians vote in contentious election
+17:04:06  INFO    [🇺🇸 美國] "Eric may have tipped the scale": Swalwell scandal threatens surge of House expulsions
+17:04:06  INFO    [🇺🇸 美國] Israeli strike kills infant girl in south Lebanon during father's funeral
+17:04:06  INFO    [🇺🇸 美國] A Hezbollah commander describes battling Israel in Lebanon
+17:04:06  INFO    [🇺🇸 美國] Cuban president says he has 'no fear' of US
+17:04:22  INFO  
+🖥️  產生 HTML 報告...
+17:04:22  INFO  
+✅  HTML：報告_20260412_1704.html
+17:04:22  INFO  ✅  CSV：機會分析_20260412_1704.csv
+17:04:22  INFO  📝  Log：logs/scan_20260412_170245.log
