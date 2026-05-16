@@ -1,0 +1,131 @@
+23:48:35  INFO  ======================================================================
+23:48:35  INFO  🔥  每日機會分析系統 v10
+23:48:35  INFO  📅  2026-05-16 23:48
+23:48:35  INFO  ======================================================================
+23:48:35  INFO  
+① 🌕  CRYPTO
+23:48:36  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+23:48:37  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+23:48:38  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+23:48:39  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+23:48:40  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+23:48:40  INFO    ✅ Crypto 0 筆
+23:48:40  INFO  
+② 📈  股票
+23:48:41  INFO    [台] 3293.TWO     鈊象電子         $    721.00  -0.41% 多空分歧
+23:48:41  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$701.2 ~ $715.3  止損：$695.5
+23:48:42  INFO    [台] 00909.TW     國泰智能電動車ETF   $     49.20  +1.19% 三線多頭
+23:48:42  INFO             買入點：— 目前無買入信號  進場區：$39.0 ~ $39.8  止損：$40.0
+23:48:43  INFO    [台] 0056.TW      元大高股息        $     44.45  -1.55% 多空分歧
+23:48:43  INFO             買入點：— 目前無買入信號  進場區：$38.4 ~ $39.1  止損：$38.6
+23:48:45  INFO    [台] 6111.TWO     6111擎亞       $     48.75  +1.77% 多空分歧
+23:48:45  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$43.3 ~ $44.2  止損：$42.2
+23:48:46  INFO    [台] 00878.TW     國泰永續高股息      $     27.90  -0.78% 偏多
+23:48:46  INFO             買入點：— 目前無買入信號  進場區：$23.1 ~ $23.6  止損：$23.1
+23:48:47  INFO    [台] 3017.TW      奇鋐           $  2,455.00  -3.91% 三線多頭
+23:48:47  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,271.0 ~ $2,316.6  止損：$2,279.5
+23:48:48  INFO    [台] 00713.TW     元大高息低波       $     55.40  -0.27% 三線多頭
+23:48:48  INFO             買入點：— 目前無買入信號  進場區：$52.0 ~ $53.0  止損：$51.1
+23:48:49  INFO    [台] 00919.TW     群益台灣精選高息     $     25.76  -0.50% 偏多
+23:48:49  INFO             買入點：— 目前無買入信號  進場區：$22.3 ~ $22.8  止損：$22.6
+23:48:51  INFO    [美] NVDA         NVIDIA       $    225.32  -4.42% 三線多頭
+23:48:51  INFO             買入點：— 目前無買入信號  進場區：$187.2 ~ $191.0  止損：$188.9
+23:48:52  INFO    [美] GEV          GE Vernova   $  1,049.23  -3.79% 偏多
+23:48:52  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$979.2 ~ $998.9  止損：$954.6
+23:48:53  INFO    [台] 2330.TW      台積電          $  2,265.00  -0.22% 偏多
+23:48:53  INFO             買入點：— 目前無買入信號  進場區：$1,991.7 ~ $2,031.8  止損：$1,964.2
+23:48:54  INFO    [美] AMD          AMD          $    424.10  -5.69% 多空分歧
+23:48:54  INFO             買入點：— 目前無買入信號  進場區：$247.7 ~ $252.6  止損：$263.8
+23:48:55  INFO    [美] TSM          台積電ADR       $    404.35  -3.20% 三線多頭
+23:48:55  INFO             買入點：— 目前無買入信號  進場區：$362.4 ~ $369.7  止損：$353.3
+23:48:57  INFO    [台] 2317.TW      鴻海           $    248.50  +1.64% 多空分歧
+23:48:57  INFO             買入點：— 目前無買入信號  進場區：$199.4 ~ $203.4  止損：$197.4
+23:48:58  INFO    [台] 2530.TW      華建           $     21.00  -0.24% 三線空頭
+23:48:58  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$19.9 ~ $20.3  止損：$19.4
+23:48:59  INFO    [美] MU           美光           $    724.66  -6.62% 偏多
+23:48:59  INFO             買入點：— 目前無買入信號  進場區：$353.3 ~ $360.4  止損：$422.8
+23:49:00  INFO    [美] LRCX         科林研發         $    284.72  -4.82% 偏多
+23:49:00  INFO             買入點：— 目前無買入信號  進場區：$236.8 ~ $241.6  止損：$234.4
+23:49:01  INFO    [台] 00631L.TW    元大台灣50正2     $     31.26  -2.19% 多空分歧
+23:49:01  INFO             買入點：— 目前無買入信號  進場區：$24.8 ~ $25.3  止損：$24.7
+23:49:03  INFO    [台] 00910.TW     第一金太空衛星      $     74.45  +1.64% 偏多
+23:49:03  INFO             買入點：— 目前無買入信號  進場區：$62.7 ~ $64.0  止損：$62.3
+23:49:04  INFO    [台] 2308.TW      台達電          $  2,075.00  -3.71% 多空分歧
+23:49:04  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,820.8 ~ $1,857.4  止損：$1,775.1
+23:49:06  WARNING      ⚠️  www.twse.com.tw → HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /rwd/zh/fund/T86?date=20260516&selectType=ALLBUT0999&response=json (Caused by NameResolutionError("HTTPSConnection(host='www.twse.com.tw', port=443): Failed to resolve 'www.twse.com.tw' ([Errno -5] No address associated with hostname)"))
+23:49:06  INFO    ✅ 股票 20 筆
+23:49:06  INFO  
+③ 🌟  生活熱門趨勢
+23:49:06  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+23:49:06  INFO    [食品飲料] 熱度:8 動能:-27% 最熱關鍵字：美食 ❄️
+23:49:09  INFO    [服飾美妝] 熱度:36 動能:+1% 最熱關鍵字：防曬 🔥
+23:49:11  INFO    [居家生活] 熱度:20 動能:-25% 最熱關鍵字：家具 ❄️
+23:49:14  INFO    [娛樂3C] 熱度:39 動能:+1% 最熱關鍵字：手機 🔥
+23:49:16  INFO    [健康運動] 熱度:38 動能:-10% 最熱關鍵字：健身 ❄️
+23:49:19  INFO    [旅遊交通] 熱度:28 動能:-3% 最熱關鍵字：機票 ❄️
+23:49:21  INFO    💬 Dcard 熱門...
+23:49:21  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+23:49:21  INFO    📋 PTT 熱門...
+23:49:21  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+23:49:22  INFO    [PTT/Stock] [6] [新聞] 荷姆茲又告急！伊朗將「指定路線」收取費
+23:49:22  INFO    [PTT/Stock] [27] [新聞] 俄羅斯經濟三年首見萎縮！首季GDP下滑0.2
+23:49:22  INFO    [PTT/Stock] [27] Re: [請益] 為什麼GG一直不做記憶體？
+23:49:22  INFO    [PTT/Stock] [28] Re: [請益] 真的有人敢貸款買股票嗎
+23:49:22  INFO    [PTT/Stock] [5] [情報] 中再保 2026年4月營收 年增605.14%
+23:49:23  INFO    [PTT/beauty] [2] [正妹] 王宣
+23:49:23  INFO    [PTT/beauty] [9] [正妹] 77_台大畢業正妹
+23:49:23  INFO    [PTT/beauty] [] [正妹] Cosplay 2744 日本 初音
+23:49:23  INFO    [PTT/beauty] [2] [正妹] Shiuan
+23:49:23  INFO    [PTT/beauty] [1] [正妹] Katie 香港老師
+23:49:24  INFO    [PTT/movie] [1] [情報] 梅姨回顧：穿著Prada的惡魔2、媽媽咪呀
+23:49:24  INFO    [PTT/movie] [1] [好雷]真人快打2：炫目決鬥一個接一個
+23:49:24  INFO    [PTT/movie] [2] [討論] 穿著prada的惡魔 2 2016 還是2021 拍得了
+23:49:24  INFO    [PTT/movie] [36] Re: [新聞]《奧德賽》找黑人演「海倫」被罵翻！馬斯克批：羞辱希
+23:49:24  INFO    [PTT/movie] [3] Re: [新聞]《奧德賽》找黑人演「海倫」被罵翻！馬斯克批：羞辱希
+23:49:25  INFO    [PTT/food] [] Fw: [食記] 廣島 焼肉ホルモン酒場 和牛燒肉推薦CP高
+23:49:25  INFO    [PTT/food] [] Fw: [食記] 茨城 市場壽司 那珂湊漁市場超便宜但味道
+23:49:25  INFO    [PTT/food] [] Fw: [食記] 富山 新湊漁港きときと食堂美味白蝦丼
+23:49:25  INFO    [PTT/food] [] [食記] 岡山｜披薩｜400℃ mori no machi
+23:49:25  INFO    [PTT/food] [] [食記] 日本忍野八海  丸天魚屋  虹鱒鹽烤
+23:49:26  INFO    📺 YouTube 台灣熱門...
+23:49:26  INFO    🎵 TikTok...
+23:49:29  INFO    [TikTok] #1 《TAIPEI TIMES》 TikTok users in Taiwan up significantly last 
+23:49:29  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+23:49:29  INFO    [TikTok] #3 Seeing is not believing (part II) - AI videos spread during 
+23:49:29  INFO    [TikTok] #4 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+23:49:29  INFO    [TikTok] #5 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+23:49:29  INFO    🛍️  Shopee 台灣熱銷...
+23:49:33  INFO    💬 Reddit 熱賣（本週）...
+23:49:33  INFO    ✅ 生活趨勢完成
+23:49:33  INFO  
+④ 📰  消息面
+23:49:33  INFO    [🇹🇼 台灣] 扣住軍售為看北京反應？川普又稱台灣「偷走晶片」，喊話台廠收行李搬去美國 | 李靖棠 | 新聞
+23:49:33  INFO    [🇹🇼 台灣] 不認為自己有罪！涉兩罪遭移送士檢 孫安佐：河邊不會引起火災
+23:49:33  INFO    [🇹🇼 台灣] 鄭麗文譏諷趙少康「沒人信很傷心」又抱怨前面的人把國民黨敗光光| 政治
+23:49:33  INFO    [🇹🇼 台灣] 密室逃脫29歲女扮「吊死鬼」喪命 哥悲痛怒轟：官僚是害死我妹幫凶
+23:49:33  INFO    [🇹🇼 台灣] 會考數學科 台中考生：題幹變長 證明要寫到10行「命題兩極化」
+23:49:33  INFO    [🇹🇼 台灣] 快訊／大雷雨即刻開炸 8縣市大雨特報
+23:49:35  INFO    [🇯🇵 日本] 逮捕4人目も16歳少年 “マルチ型の闇バイト”か 親子3人死傷の栃木強盗殺人事件
+23:49:35  INFO    [🇯🇵 日本] 中國同意降低與美國的關稅，並購買飛機 - 商務部
+23:49:35  INFO    [🇯🇵 日本] 今日5月17日(日)の天気予報 晴れて30℃の真夏日予想 熱中症に注意
+23:49:36  INFO    [🇯🇵 日本] 川普“不想要獨立”，稱與台灣保持距離；軍售是與中國“討價還價的籌碼”
+23:49:38  INFO    [🇯🇵 日本] 【爆料】俄羅斯巡航飛彈採用京瓷子公司產品
+23:49:39  INFO    [🇯🇵 日本] 在磐越高速巴士事故中，經理的學生指示學生“與親人聯繫”
+23:49:40  INFO    [🇰🇷 韓國] 首爾市中心繡出的蓮花燈…「消除世界黑暗的團結之光」（綜合）
+23:49:42  INFO    [🇰🇷 韓國] 前往北漢山後失蹤的50多歲女性被發現死亡
+23:49:43  INFO    [🇰🇷 韓國] “美 반도체 산업을 훔쳐갔다” 중국 다녀온 트럼프, 대만에 화살
+23:49:43  INFO    [🇰🇷 韓國] “三星電子罷工，別提緊急調整”…兩大工會“反應”
+23:49:45  INFO    [🇰🇷 韓國] 李總統故鄉安東預計韓日峰會再次出現“緊急狀態”
+23:49:46  INFO    [🇰🇷 韓國] 擊中納穆霍的飛機殘骸抵達韓國...韓國-杜拜「雙軌」同步調查
+23:49:47  INFO    [🇺🇸 美國] Trump returns from China with stability and a stalemate
+23:49:47  INFO    [🇺🇸 美國] Bill Cassidy: Republican senator who voted to convict Trump battles for re-election in Louisiana
+23:49:47  INFO    [🇺🇸 美國] Virginia’s new House map is dead. Democrats think they can still flip these seats.
+23:49:47  INFO    [🇺🇸 美國] Trump says Islamic State group leader was killed in a joint US-Nigerian mission
+23:49:47  INFO    [🇺🇸 美國] Israel Kills Hamas’s ‘Ghost’ After Years of Failed Attempts
+23:49:47  INFO    [🇺🇸 美國] Lauren Boebert suggests Trump withheld funds to Colorado over prosecution of election denier
+23:50:01  INFO  
+🖥️  產生 HTML 報告...
+23:50:01  INFO  
+✅  HTML：報告_20260516_2350.html
+23:50:01  INFO  ✅  CSV：機會分析_20260516_2350.csv
+23:50:01  INFO  📝  Log：logs/scan_20260516_234835.log
