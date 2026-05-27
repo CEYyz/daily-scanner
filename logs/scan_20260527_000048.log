@@ -1,0 +1,130 @@
+00:00:48  INFO  ======================================================================
+00:00:48  INFO  🔥  每日機會分析系統 v10
+00:00:48  INFO  📅  2026-05-27 00:00
+00:00:48  INFO  ======================================================================
+00:00:48  INFO  
+① 🌕  CRYPTO
+00:00:50  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+00:00:50  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+00:00:51  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+00:00:52  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+00:00:52  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+00:00:53  INFO    ✅ Crypto 0 筆
+00:00:53  INFO  
+② 📈  股票
+00:00:54  INFO    [台] 3293.TWO     鈊象電子         $    735.00  -0.81% 多空分歧
+00:00:54  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$706.5 ~ $720.6  止損：$688.7
+00:00:55  INFO    [台] 00909.TW     國泰智能電動車ETF   $       nan   +nan% 三線多頭
+00:00:55  INFO             買入點：— 目前無買入信號  進場區：$41.2 ~ $42.1  止損：$40.2
+00:00:56  INFO    [台] 0056.TW      元大高股息        $       nan   +nan% 三線多頭
+00:00:56  INFO             買入點：— 目前無買入信號  進場區：$40.5 ~ $41.3  止損：$39.5
+00:00:57  INFO    [台] 6111.TWO     6111擎亞       $     45.40  -0.98% 多空分歧
+00:00:57  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$43.3 ~ $44.2  止損：$42.2
+00:00:58  INFO    [台] 00878.TW     國泰永續高股息      $       nan   +nan% 三線多頭
+00:00:58  INFO             買入點：— 目前無買入信號  進場區：$24.3 ~ $24.8  止損：$23.7
+00:00:59  INFO    [台] 3017.TW      奇鋐           $  2,725.00  +5.83% 多空分歧
+00:00:59  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,233.1 ~ $2,278.0  止損：$2,231.0
+00:01:00  INFO    [台] 00713.TW     元大高息低波       $       nan   +nan% 三線多頭
+00:01:00  INFO             買入點：— 目前無買入信號  進場區：$52.4 ~ $53.5  止損：$51.1
+00:01:01  INFO    [台] 00919.TW     群益台灣精選高息     $       nan   +nan% 三線多頭
+00:01:01  INFO             買入點：— 目前無買入信號  進場區：$23.2 ~ $23.7  止損：$22.7
+00:01:02  INFO    [美] NVDA         NVIDIA       $    214.86  -0.22% 多空分歧
+00:01:02  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$192.6 ~ $196.5  止損：$188.9
+00:01:03  INFO    [美] GEV          GE Vernova   $  1,070.47  +3.05% 多空分歧
+00:01:03  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$975.2 ~ $994.8  止損：$950.7
+00:01:04  INFO    [台] 2330.TW      台積電          $  2,270.00  -1.73% 三線多頭
+00:01:04  INFO             買入點：— 目前無買入信號  進場區：$2,124.3 ~ $2,167.0  止損：$2,070.9
+00:01:05  INFO    [美] AMD          AMD          $    503.89  +7.78% 三線多頭
+00:01:05  INFO             買入點：— 目前無買入信號  進場區：$308.4 ~ $314.6  止損：$300.7
+00:01:06  INFO    [美] TSM          台積電ADR       $    412.32  +1.93% 三線多頭
+00:01:06  INFO             買入點：— 目前無買入信號  進場區：$382.8 ~ $390.5  止損：$373.2
+00:01:07  INFO    [台] 2317.TW      鴻海           $    259.00  -0.77% 多空分歧
+00:01:07  INFO             買入點：— 目前無買入信號  進場區：$218.4 ~ $222.8  止損：$212.9
+00:01:08  INFO    [台] 2530.TW      華建           $     19.00  -4.52% 三線空頭
+00:01:08  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$18.9 ~ $19.3  止損：$18.4
+00:01:09  INFO    [美] MU           美光           $    895.88 +19.29% 三線多頭
+00:01:09  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$465.8 ~ $475.1  止損：$473.6
+00:01:10  INFO    [美] LRCX         科林研發         $    322.68  +5.68% 三線多頭
+00:01:10  INFO             買入點：— 目前無買入信號  進場區：$240.4 ~ $245.2  止損：$234.4
+00:01:11  INFO    [台] 00631L.TW    元大台灣50正2     $       nan   +nan% 三線多頭
+00:01:11  INFO             買入點：— 目前無買入信號  進場區：$28.1 ~ $28.7  止損：$27.4
+00:01:12  INFO    [台] 00910.TW     第一金太空衛星      $       nan   +nan% 三線多頭
+00:01:12  INFO             買入點：— 目前無買入信號  進場區：$63.9 ~ $65.2  止損：$62.3
+00:01:13  INFO    [台] 2308.TW      台達電          $  2,350.00  +2.62% 三線多頭
+00:01:13  INFO             買入點：— 目前無買入信號  進場區：$1,870.6 ~ $1,908.2  止損：$1,823.6
+00:01:13  INFO    ⏰ 0:xx 外資 16:30 後更新
+00:01:13  INFO    ✅ 股票 20 筆
+00:01:13  INFO  
+③ 🌟  生活熱門趨勢
+00:01:13  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+00:01:14  INFO    [食品飲料] 熱度:7 動能:-41% 最熱關鍵字：美食 ❄️
+00:01:17  INFO    [服飾美妝] 熱度:29 動能:-4% 最熱關鍵字：防曬 ❄️
+00:01:19  INFO    [居家生活] 熱度:25 動能:-17% 最熱關鍵字：家具 ❄️
+00:01:22  INFO    [娛樂3C] 熱度:38 動能:-3% 最熱關鍵字：手機 ❄️
+00:01:24  INFO    [健康運動] 熱度:37 動能:-5% 最熱關鍵字：健身 ❄️
+00:01:27  INFO    [旅遊交通] 熱度:31 動能:-16% 最熱關鍵字：機票 ❄️
+00:01:29  INFO    💬 Dcard 熱門...
+00:01:29  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+00:01:29  INFO    📋 PTT 熱門...
+00:01:29  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+00:01:30  INFO    [PTT/Stock] [48] [新聞] 幾乎可以肯定 Trump T1 Phone 是改版的 HTC U24 Pro
+00:01:30  INFO    [PTT/Stock] [23] [新聞] 一夜蒸發17億美元！北京鐵腕封殺跨境炒
+00:01:30  INFO    [PTT/Stock] [32] [新聞] 大摩將聯發科目標價大幅上調70%到5,088
+00:01:30  INFO    [PTT/Stock] [3] [新聞] 杜文：中國陷嚴重通縮 蔡奇獨立調查數據
+00:01:30  INFO    [PTT/Stock] [29] [新聞] 聯發科攜手元太搶攻智慧教育商機！
+00:01:31  INFO    [PTT/beauty] [13] [正妹] Leni Luchs 快樂杯攤位的代言人
+00:01:31  INFO    [PTT/beauty] [1] [正妹] Cosplay 2761 日本 初音
+00:01:31  INFO    [PTT/beauty] [7] [正妹] 李多慧 福岡應援集
+00:01:31  INFO    [PTT/beauty] [] [正妹] 小君
+00:01:31  INFO    [PTT/beauty] [2] [正妹] 陽光沙灘海邊美人
+00:01:32  INFO    [PTT/movie] [4] [好雷] I SWEAR FUXKING GOOD!
+00:01:32  INFO    [PTT/movie] [3] [新聞] 塔提阿娜首度回應「女浩克」是否回歸！
+00:01:32  INFO    [PTT/movie] [14] [新聞]《超少女》首週票房預測低於6,500萬美元！
+00:01:32  INFO    [PTT/movie] [4] [好雷] 紐倫堡
+00:01:33  INFO    [PTT/food] [] [食記] 新竹市東區。老陳家中央市場糯米水餃
+00:01:33  INFO    [PTT/food] [4] [食記] 台北信義 初魚｜鮨 · 鉄板料亭-台北101 包手有差? 杜
+00:01:33  INFO    [PTT/food] [] [食記] 台北 儂安益麵館  入選500碗的70年老麵店
+00:01:33  INFO    [PTT/food] [] [食記] 台北信義 SALT & STONE
+00:01:33  INFO    [PTT/food] [] [食記] 仨椒麵 台中大里 椒麻香濃仨椒海老拉麵
+00:01:33  INFO    📺 YouTube 台灣熱門...
+00:01:34  INFO    🎵 TikTok...
+00:01:37  INFO    [TikTok] #1 《TAIPEI TIMES》 TikTok users in Taiwan up significantly last 
+00:01:37  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+00:01:37  INFO    [TikTok] #3 Seeing is not believing (part II) - AI videos spread during 
+00:01:37  INFO    [TikTok] #4 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+00:01:37  INFO    [TikTok] #5 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+00:01:37  INFO    🛍️  Shopee 台灣熱銷...
+00:01:41  INFO    💬 Reddit 熱賣（本週）...
+00:01:41  INFO    ✅ 生活趨勢完成
+00:01:41  INFO  
+④ 📰  消息面
+00:01:41  INFO    [🇹🇼 台灣] 紀念尹衍樑2》曾是進德中學打架首犯！「再造恩師」王金平當年「拉一把」造就千億潤泰帝國| 魏鑫陽 | 新聞
+00:01:41  INFO    [🇹🇼 台灣] 傳王光慈對馬英九下跪磕頭還送醫 李德維坦言聽聞陳述「很震驚」
+00:01:41  INFO    [🇹🇼 台灣] 出國注意！2國家疫情嚴重 外交部示警：儘速離境
+00:01:41  INFO    [🇹🇼 台灣] 今年首次！台北市發布重大警報
+00:01:41  INFO    [🇹🇼 台灣] 沈伯洋轟北士科「變電所到底要不要蓋」？​蔣萬安：問題在國家能源政策
+00:01:41  INFO    [🇹🇼 台灣] 賴總統拋家庭主婦月領5千元 主計長：國民年金7月1日起調整
+00:01:43  INFO    [🇯🇵 日本] 對栃木搶劫殺人案的主導者發出逮捕令，懷疑利用應用程式執行指令的夫婦……案發後他是否已離開該國或逃往東南亞？
+00:01:44  INFO    [🇯🇵 日本] 美國華盛頓州日本製紙子公司工廠儲槽破裂，造成多人死亡和受傷（TBS NEWS DIG Powered by JNN）
+00:01:45  INFO    [🇯🇵 日本] 九州、東海地區下雨。鹿兒島縣因大雨而進入山崩警戒狀態。今日天氣 5月27日（星期三）（氣象預報員、值班長）
+00:01:46  INFO    [🇯🇵 日本] 川普處境艱難，因對伊朗採取強硬立場而被迫在核問題上「讓步」…連他自己的共和黨也提出反對
+00:01:49  INFO    [🇯🇵 日本] 母女在兵庫縣被刺死，被問到工作時沒有智慧型手機，身上只有 550 日圓。他們可能乘坐火車等逃離。
+00:01:49  INFO    [🇯🇵 日本] 每週天氣預報：炎熱天氣將持續到六月初，預計將迎來仲夏。關注未來預計發生的颱風路徑。
+00:01:52  INFO    [🇰🇷 韓國] 西小門立體交叉拆除時頂部塌陷…3人死亡
+00:01:53  INFO    [🇰🇷 韓國] 「秘密32年」的核潛艇計畫現已公開……“它將極大地促進水下殺傷鏈的實施。”
+00:01:54  INFO    [🇰🇷 韓國] 承諾進行報復的伊朗繼續在幕後進行談判……“在抗議活動再次發生之前需要達成協議。”
+00:01:55  INFO    [🇰🇷 韓國] D-8 KBS民調...鄭元吳42%、吳世勳36%，誤差範圍內的勢均力敵
+00:01:57  INFO    [🇰🇷 韓國] “酷暑”，時斷時續的降雨…有史以來最熱的五月早晨
+00:01:58  INFO    [🇰🇷 韓國] 國民年金公團是否也因「星巴克」風波而有動作？ 2700億蒸發「超緊急」【庫存+】
+00:01:59  INFO    [🇺🇸 美國] Texas Senate Primary Runoff Election 2026 Live Results
+00:01:59  INFO    [🇺🇸 美國] South Carolina Senate Does Not Act on New Midterm Map, Defying Trump
+00:01:59  INFO    [🇺🇸 美國] Live Updates: Iran accuses U.S. of "grave violation" of ceasefire as Trump seeks "good deal or no deal"
+00:01:59  INFO    [🇺🇸 美國] Longview industrial implosion causes fatalities, critical injuries, officials confirm - Oregon Public Broadcasting
+00:01:59  INFO    [🇺🇸 美國] 5 ways Pope Leo says AI could warp humanity
+00:01:59  INFO    [🇺🇸 美國] To stop leaks, the Trump administration wants federal workers to sign NDAs
+00:02:14  INFO  
+🖥️  產生 HTML 報告...
+00:02:14  INFO  
+✅  HTML：報告_20260527_0002.html
+00:02:14  INFO  ✅  CSV：機會分析_20260527_0002.csv
+00:02:14  INFO  📝  Log：logs/scan_20260527_000048.log
