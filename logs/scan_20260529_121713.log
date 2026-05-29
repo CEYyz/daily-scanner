@@ -1,0 +1,135 @@
+12:17:13  INFO  ======================================================================
+12:17:13  INFO  🔥  每日機會分析系統 v10
+12:17:13  INFO  📅  2026-05-29 12:17
+12:17:13  INFO  ======================================================================
+12:17:13  INFO  
+① 🌕  CRYPTO
+12:17:14  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+12:17:14  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+12:17:15  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+12:17:15  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+12:17:16  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+12:17:16  INFO    ✅ Crypto 0 筆
+12:17:16  INFO  
+② 📈  股票
+12:17:17  INFO    [台] 3293.TWO     鈊象電子         $    754.00  +0.67% 多空分歧
+12:17:17  INFO             買入點：— 目前無買入信號  進場區：$706.5 ~ $720.6  止損：$688.7
+12:17:18  INFO    [台] 00909.TW     國泰智能電動車ETF   $     52.00  +4.90% 三線多頭
+12:17:18  INFO             買入點：— 目前無買入信號  進場區：$42.8 ~ $43.6  止損：$41.7
+12:17:18  INFO    [台] 0056.TW      元大高股息        $     50.20  +2.81% 三線多頭
+12:17:18  INFO             買入點：— 目前無買入信號  進場區：$40.9 ~ $41.8  止損：$40.3
+12:17:19  INFO    [台] 6111.TWO     6111擎亞       $     45.20  +2.03% 偏空
+12:17:19  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$44.0 ~ $44.9  止損：$43.0
+12:17:20  INFO    [台] 00878.TW     國泰永續高股息      $     30.76  +2.53% 三線多頭
+12:17:20  INFO             買入點：— 目前無買入信號  進場區：$24.8 ~ $25.3  止損：$24.5
+12:17:21  INFO    [台] 3017.TW      奇鋐           $  2,665.00  +3.29% 多空分歧
+12:17:21  INFO             買入點：— 目前無買入信號  進場區：$2,266.1 ~ $2,311.7  止損：$2,231.0
+12:17:22  INFO    [台] 00713.TW     元大高息低波       $     56.55  +1.43% 偏多
+12:17:22  INFO             買入點：— 目前無買入信號  進場區：$52.6 ~ $53.7  止損：$51.3
+12:17:22  INFO    [台] 00919.TW     群益台灣精選高息     $     29.01  +2.11% 三線多頭
+12:17:22  INFO             買入點：— 目前無買入信號  進場區：$23.3 ~ $23.8  止損：$23.1
+12:17:23  INFO    [美] NVDA         NVIDIA       $    214.25  +0.78% 多空分歧
+12:17:23  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$193.0 ~ $196.9  止損：$188.9
+12:17:24  INFO    [美] GEV          GE Vernova   $    996.00  -3.48% 多空分歧
+12:17:24  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$975.2 ~ $994.8  止損：$950.7
+12:17:25  INFO    [台] 2330.TW      台積電          $  2,355.00  +2.61% 三線多頭
+12:17:25  INFO             買入點：— 目前無買入信號  進場區：$2,172.3 ~ $2,216.0  止損：$2,119.4
+12:17:26  INFO    [美] AMD          AMD          $    518.09  +4.55% 三線多頭
+12:17:26  INFO             買入點：— 目前無買入信號  進場區：$330.9 ~ $337.6  止損：$322.6
+12:17:26  INFO    [美] TSM          台積電ADR       $    424.86  +0.50% 三線多頭
+12:17:26  INFO             買入點：— 目前無買入信號  進場區：$383.1 ~ $390.8  止損：$373.5
+12:17:27  INFO    [台] 2317.TW      鴻海           $    289.00  +9.89% 偏多
+12:17:27  INFO             買入點：— 目前無買入信號  進場區：$222.4 ~ $226.9  止損：$216.8
+12:17:28  INFO    [台] 2530.TW      華建           $     18.70  +3.89% 三線空頭
+12:17:28  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$17.6 ~ $18.0  止損：$17.2
+12:17:29  INFO    [美] MU           美光           $    923.52  -0.53% 三線多頭
+12:17:29  INFO             買入點：— 目前無買入信號  進場區：$498.8 ~ $508.8  止損：$487.5
+12:17:30  INFO    [美] LRCX         科林研發         $    318.00  -0.29% 三線多頭
+12:17:30  INFO             買入點：— 目前無買入信號  進場區：$247.4 ~ $252.4  止損：$241.2
+12:17:31  INFO    [台] 00631L.TW    元大台灣50正2     $     36.94  +7.17% 三線多頭
+12:17:31  INFO             買入點：— 目前無買入信號  進場區：$28.6 ~ $29.2  止損：$28.5
+12:17:31  INFO    [台] 00910.TW     第一金太空衛星      $     87.95  +2.33% 三線多頭
+12:17:31  INFO             買入點：— 目前無買入信號  進場區：$61.7 ~ $62.9  止損：$64.7
+12:17:32  INFO    [台] 2308.TW      台達電          $  2,445.00  +2.30% 三線多頭
+12:17:32  INFO             買入點：— 目前無買入信號  進場區：$1,862.7 ~ $1,900.2  止損：$1,823.6
+12:17:33  INFO    ⏰ 12:xx 外資 16:30 後更新
+12:17:33  INFO    ✅ 股票 20 筆
+12:17:33  INFO  
+③ 🌟  生活熱門趨勢
+12:17:33  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+12:17:34  INFO    [食品飲料] 熱度:13 動能:+20% 最熱關鍵字：美食 🔥🔥
+12:17:36  INFO    [服飾美妝] 熱度:23 動能:-21% 最熱關鍵字：防曬 ❄️
+12:17:39  INFO    [居家生活] 熱度:27 動能:-4% 最熱關鍵字：家具 ❄️
+12:17:41  INFO    [娛樂3C] 熱度:37 動能:-4% 最熱關鍵字：手機 ❄️
+12:17:44  INFO    [健康運動] 熱度:38 動能:-4% 最熱關鍵字：健身 ❄️
+12:17:46  INFO    [旅遊交通] 熱度:33 動能:-4% 最熱關鍵字：機票 ❄️
+12:17:48  INFO    💬 Dcard 熱門...
+12:17:49  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+12:17:49  INFO    📋 PTT 熱門...
+12:17:49  INFO    [PTT/Gossiping] [2] [問卦] Claude扣明天重置只用20%要做什麼
+12:17:49  INFO    [PTT/Gossiping] [] [新聞] 影／TOP女神感謝祭登場 15位日本AV女優現
+12:17:49  INFO    [PTT/Gossiping] [13] [問卦]Melody:女人談錢不是愛錢 是清楚自己價值
+12:17:49  INFO    [PTT/Gossiping] [8] [新聞] 第1季GDP成長14.55％創48年新高 預估全
+12:17:49  INFO    [PTT/Gossiping] [] [新聞] 保三總隊新莊破獲「喪屍菸彈」分裝廠 搜
+12:17:50  INFO    [PTT/Stock] [3] [新聞]  第1季GDP成長14.55％創48年新高 預估
+12:17:50  INFO    [PTT/Stock] [11] [公告] 交易工具異常回報區
+12:17:50  INFO    [PTT/Stock] [爆] [公告] 股東會紀念品 置底交流區
+12:17:50  INFO    [PTT/Stock] [] [公告] 股票板板規 v4.6 (2024/07/02 修正)
+12:17:51  INFO    [PTT/beauty] [2] [正妹] 新條由芽
+12:17:51  INFO    [PTT/beauty] [2] [正妹] Cosplay 2676 日本 妮姬 鳴潮 檔案
+12:17:51  INFO    [PTT/beauty] [16] [正妹] 短髮的
+12:17:51  INFO    [PTT/beauty] [5] [正妹] 裘安
+12:17:51  INFO    [PTT/beauty] [9] [正妹] 阿思
+12:17:52  INFO    [PTT/movie] [16] [負雷] 大濛
+12:17:52  INFO    [PTT/movie] [7] [ 有雷] 後室ー我出來了
+12:17:52  INFO    [PTT/movie] [1] [好雷] 《NEW GROUP》組體操疊出的同儕壓力和瘋
+12:17:52  INFO    [PTT/movie] [35] [新聞]希臘人投書批《奧德賽》好萊塢多元化虛偽！
+12:17:52  INFO    [PTT/movie] [47] [新聞]尼可拉斯凱吉改名了！「我是尼克凱吉」！
+12:17:53  INFO    [PTT/food] [] Fw: [食記] 沖繩那霸 あさとん食堂 適合長輩熱粥早餐
+12:17:53  INFO    [PTT/food] [] [食記] 新竹市北區。廟口鴨香飯
+12:17:53  INFO    [PTT/food] [] [食記] 三訪的無菜單料理 台中夏登法式鐵板燒
+12:17:53  INFO    [PTT/food] [] [食記] 台南永康 饗翻天臭臭鍋 附豐盛自助吧火鍋
+12:17:53  INFO    [PTT/food] [] [食記] 台南東區 燒肉smile 附自助吧無限享用
+12:17:53  INFO    📺 YouTube 台灣熱門...
+12:17:54  INFO    🎵 TikTok...
+12:17:58  INFO    [TikTok] #1 《TAIPEI TIMES》 TikTok users in Taiwan up significantly last 
+12:17:58  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+12:17:58  INFO    [TikTok] #3 Seeing is not believing (part II) - AI videos spread during 
+12:17:58  INFO    [TikTok] #4 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+12:17:58  INFO    [TikTok] #5 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+12:17:58  INFO    [TikTok] #6 Taiwan: Beijing's Global Media Influence 2022 Country Report
+12:17:58  INFO    🛍️  Shopee 台灣熱銷...
+12:18:01  INFO    💬 Reddit 熱賣（本週）...
+12:18:01  INFO    ✅ 生活趨勢完成
+12:18:01  INFO  
+④ 📰  消息面
+12:18:01  INFO    [🇹🇼 台灣] 強降雨「開啟水冷降溫模式」由北往南大降溫 粉專曝薔蜜颱風侵台機率
+12:18:01  INFO    [🇹🇼 台灣] 雨彈開轟！7縣市豪、大雨特報 水利署發布淹水警戒
+12:18:01  INFO    [🇹🇼 台灣] 馬英九決定了！基金會正式提告蕭旭岑、王光慈涉背信、侵占 馬辦風暴一次回顧 | 李瑋萱 | 新聞
+12:18:01  INFO    [🇹🇼 台灣] 周玉蔻開嗆黃仁勳用「Maybe」唱衰台灣？蔣萬安用一字回應
+12:18:01  INFO    [🇹🇼 台灣] 他沒簽所以川普也不簽! 傳美伊敲定60天停火備忘錄伊朗要求先給錢、美不允| 國際
+12:18:01  INFO    [🇹🇼 台灣] 獨／喪屍開車上路8分鐘奪1命！獨子騎士被撞死...身後悲留幼兒
+12:18:03  INFO    [🇯🇵 日本] 可能是栃木搶劫殺人事件的幕後主使，但案發後出境的嫌疑人增田和彥被通緝……涉嫌通過通訊應用程序指導“教官”
+12:18:06  INFO    [🇯🇵 日本] 「美化侵略」中國利用聯合國外交遏制日本
+12:18:07  INFO    [🇯🇵 日本] 東京女子醫科大學醫院2歲男童服用鎮靜劑致死，麻醉科醫師被判緩刑；實習醫師被判無罪釋放
+12:18:08  INFO    [🇯🇵 日本] 俄羅斯無人機襲擊東歐羅馬尼亞公寓大樓，造成2人受傷，遭到歐盟和北約嚴厲批評
+12:18:09  INFO    [🇯🇵 日本] 俄羅斯批評日本“重新軍事化”，聯合國大使山崎稱其“荒謬”......強調沒有理由批評
+12:18:11  INFO    [🇯🇵 日本] 美國與伊朗簽署開放霍爾木茲的臨時協議，等待川普批准
+12:18:15  INFO    [🇰🇷 韓國] 6月3日地方選舉第一天提前投票率為11.6%…支線有史以來最高
+12:18:16  INFO    [🇰🇷 韓國] 李總統：「提前投票只要半數票可以嗎？」…重新檢視發育障礙者「圖片投票」的命令
+12:18:16  INFO    [🇰🇷 韓國] LG電子“合作公司員工持刀持刀並被解僱通知的說法並不屬實”
+12:18:17  INFO    [🇰🇷 韓國] 美國宣布戰爭結束在即…國際社會會向450兆韓元的「伊朗重建基金」張開雙臂嗎？
+12:18:20  INFO    [🇰🇷 韓國] 【社論】距離地方選舉還有5天，我們希望對扭曲投票情緒的假訊息做出徹底回應。
+12:18:22  INFO    [🇰🇷 韓國] 半導體超額利潤的‘真面目’…產業大臣“再投資”-勞工大臣“分配”
+12:18:23  INFO    [🇺🇸 美國] Live Updates: Vance says it's "still TBD" whether Trump will sign a U.S.-Iran deal, as both sides try to extend truce
+12:18:23  INFO    [🇺🇸 美國] In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump
+12:18:23  INFO    [🇺🇸 美國] Former AG Pam Bondi to testify before Congress over handling of the Epstein files
+12:18:23  INFO    [🇺🇸 美國] California’s ‘Los Gatos party mom’ sentenced to 35 years in prison
+12:18:23  INFO    [🇺🇸 美國] In California's packed race to replace Newsom, Democrats are shrugging at their choices
+12:18:23  INFO    [🇺🇸 美國] Confirmed death toll climbs to 8 in Longview paper mill disaster - Oregon Public Broadcasting
+12:18:36  INFO  
+🖥️  產生 HTML 報告...
+12:18:36  INFO  
+✅  HTML：報告_20260529_1218.html
+12:18:36  INFO  ✅  CSV：機會分析_20260529_1218.csv
+12:18:36  INFO  📝  Log：logs/scan_20260529_121713.log
