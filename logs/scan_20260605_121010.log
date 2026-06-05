@@ -1,0 +1,130 @@
+12:10:10  INFO  ======================================================================
+12:10:10  INFO  🔥  每日機會分析系統 v10
+12:10:10  INFO  📅  2026-06-05 12:10
+12:10:10  INFO  ======================================================================
+12:10:10  INFO  
+① 🌕  CRYPTO
+12:10:10  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+12:10:11  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+12:10:11  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+12:10:12  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+12:10:13  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+12:10:13  INFO    ✅ Crypto 0 筆
+12:10:13  INFO  
+② 📈  股票
+12:10:14  INFO    [台] 3293.TWO     鈊象電子         $    790.00  -1.25% 三線多頭
+12:10:14  INFO             買入點：— 目前無買入信號  進場區：$692.1 ~ $706.0  止損：$688.7
+12:10:14  INFO    [台] 00909.TW     國泰智能電動車ETF   $     49.69  -0.72% 多空分歧
+12:10:14  INFO             買入點：— 目前無買入信號  進場區：$45.3 ~ $46.2  止損：$44.2
+12:10:15  INFO    [台] 0056.TW      元大高股息        $     51.80  -1.61% 三線多頭
+12:10:15  INFO             買入點：— 目前無買入信號  進場區：$41.1 ~ $41.9  止損：$42.4
+12:10:16  INFO    [台] 6111.TWO     6111擎亞       $     44.00  +1.15% 多空分歧
+12:10:16  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$42.3 ~ $43.1  止損：$41.5
+12:10:17  INFO    [台] 00878.TW     國泰永續高股息      $     32.32  -1.10% 三線多頭
+12:10:17  INFO             買入點：— 目前無買入信號  進場區：$24.8 ~ $25.3  止損：$25.8
+12:10:18  INFO    [台] 3017.TW      奇鋐           $  2,600.00  -4.06% 偏多
+12:10:18  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,288.5 ~ $2,334.5  止損：$2,231.0
+12:10:19  INFO    [台] 00713.TW     元大高息低波       $     59.65  -0.91% 三線多頭
+12:10:19  INFO             買入點：— 目前無買入信號  進場區：$52.7 ~ $53.7  止損：$52.8
+12:10:20  INFO    [台] 00919.TW     群益台灣精選高息     $     30.67  +0.49% 三線多頭
+12:10:20  INFO             買入點：— 目前無買入信號  進場區：$23.6 ~ $24.1  止損：$24.5
+12:10:21  INFO    [美] NVDA         NVIDIA       $    218.66  +1.94% 三線多頭
+12:10:21  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$205.2 ~ $209.4  止損：$200.1
+12:10:22  INFO    [美] GEV          GE Vernova   $       nan   +nan% 多空分歧
+12:10:22  INFO             買入點：— 目前無買入信號  進場區：$934.3 ~ $953.1  止損：$910.8
+12:10:23  INFO    [台] 2330.TW      台積電          $  2,365.00  -0.84% 三線多頭
+12:10:23  INFO             買入點：— 目前無買入信號  進場區：$2,144.6 ~ $2,187.7  止損：$2,119.4
+12:10:24  INFO    [美] AMD          AMD          $    523.20  -3.56% 三線多頭
+12:10:24  INFO             買入點：— 目前無買入信號  進場區：$386.1 ~ $393.8  止損：$381.6
+12:10:25  INFO    [美] TSM          台積電ADR       $    444.92  +1.88% 三線多頭
+12:10:25  INFO             買入點：— 目前無買入信號  進場區：$380.4 ~ $388.1  止損：$373.5
+12:10:26  INFO    [台] 2317.TW      鴻海           $    284.50  -2.90% 偏多
+12:10:26  INFO             買入點：— 目前無買入信號  進場區：$220.1 ~ $224.5  止損：$232.3
+12:10:27  INFO    [台] 2530.TW      華建           $     19.60  +2.62% 多空分歧
+12:10:27  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$17.6 ~ $18.0  止損：$17.2
+12:10:28  INFO    [美] MU           美光           $    996.00  -7.74% 三線多頭
+12:10:28  INFO             買入點：— 目前無買入信號  進場區：$565.4 ~ $576.8  止損：$616.4
+12:10:29  INFO    [美] LRCX         科林研發         $    336.41  -2.12% 三線多頭
+12:10:29  INFO             買入點：— 目前無買入信號  進場區：$262.4 ~ $267.7  止損：$255.8
+12:10:29  INFO    [台] 00631L.TW    元大台灣50正2     $     36.67  -4.26% 三線多頭
+12:10:29  INFO             買入點：— 目前無買入信號  進場區：$27.9 ~ $28.5  止損：$28.5
+12:10:30  INFO    [台] 00910.TW     第一金太空衛星      $     76.55  +1.80% 多空分歧
+12:10:30  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$67.9 ~ $69.3  止損：$68.8
+12:10:31  INFO    [台] 2308.TW      台達電          $  2,300.00  -5.15% 多空分歧
+12:10:31  INFO             買入點：— 目前無買入信號  進場區：$1,857.5 ~ $1,894.9  止損：$1,823.6
+12:10:32  INFO    ⏰ 12:xx 外資 16:30 後更新
+12:10:32  INFO    ✅ 股票 20 筆
+12:10:32  INFO  
+③ 🌟  生活熱門趨勢
+12:10:32  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+12:10:32  INFO    [食品飲料] 熱度:14 動能:+25% 最熱關鍵字：美食 🔥🔥🔥
+12:10:35  INFO    [服飾美妝] 熱度:20 動能:-28% 最熱關鍵字：防曬 ❄️
+12:10:37  INFO    [居家生活] 熱度:26 動能:-3% 最熱關鍵字：家具 ❄️
+12:10:40  INFO    [娛樂3C] 熱度:31 動能:-8% 最熱關鍵字：手機 ❄️
+12:10:42  INFO    [健康運動] 熱度:35 動能:-7% 最熱關鍵字：健身 ❄️
+12:10:45  INFO    [旅遊交通] 熱度:29 動能:-7% 最熱關鍵字：機票 ❄️
+12:10:47  INFO    💬 Dcard 熱門...
+12:10:47  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+12:10:47  INFO    📋 PTT 熱門...
+12:10:47  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+12:10:48  INFO    [PTT/Stock] [29] [情報] 宜鼎5月營收 YOY641% MOM13.4%
+12:10:48  INFO    [PTT/Stock] [23] Re: [請益] 關於今天記憶體鬼故事
+12:10:48  INFO    [PTT/Stock] [16] [情報] 6/5  台股主動ETF買賣超
+12:10:48  INFO    [PTT/Stock] [6] [新聞] 力成營收 5月79.17億元年增30%登歷史次高
+12:10:48  INFO    [PTT/Stock] [3] [情報] 6739 竹陞科技5月營收
+12:10:49  INFO    [PTT/beauty] [1] [正妹] Nastya 精緻臉蛋
+12:10:49  INFO    [PTT/beauty] [2] [正妹] 韓女直播主 alswl2208
+12:10:49  INFO    [PTT/beauty] [94] [公告] 不願上表特 ＆ 優文推薦 ＆ 檢舉建議專區
+12:10:49  INFO    [PTT/beauty] [2] [公告] 口罩文會退文
+12:10:49  INFO    [PTT/beauty] [] [公告] 表特板板規(2022.10.22)
+12:10:50  INFO    [PTT/movie] [1] [好無雷] 盜音天才
+12:10:50  INFO    [PTT/movie] [] [好微雷] 【後室】還不錯！
+12:10:50  INFO    [PTT/movie] [13] [無雷] 驚聲尖笑，各種元素塞好塞滿
+12:10:50  INFO    [PTT/movie] [6] [普好雷] 太空超人
+12:10:51  INFO    [PTT/food] [] [食記] 台南東區 譚媽媽蔥油餅涼麵 崇誨市場美食
+12:10:51  INFO    [PTT/food] [1] [食記] 台南東區 阿牛牛肉湯 肉燥飯好吃的老店
+12:10:51  INFO    [PTT/food] [] [食記] 屏東 恆春 墾丁 山男咖啡
+12:10:51  INFO    [PTT/food] [] [食記] 台南中西 裕生魚片專賣店 平價好吃新開幕
+12:10:51  INFO    [PTT/food] [] [食記] 台南東區 焗的飽平價義式焗烤 100元起跳
+12:10:51  INFO    📺 YouTube 台灣熱門...
+12:10:52  INFO    🎵 TikTok...
+12:10:56  INFO    [TikTok] #1 《TAIPEI TIMES》 TikTok users in Taiwan up significantly last 
+12:10:56  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+12:10:56  INFO    [TikTok] #3 Seeing is not believing (part II) - AI videos spread during 
+12:10:56  INFO    [TikTok] #4 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+12:10:56  INFO    🛍️  Shopee 台灣熱銷...
+12:11:00  INFO    💬 Reddit 熱賣（本週）...
+12:11:00  INFO    ✅ 生活趨勢完成
+12:11:00  INFO  
+④ 📰  消息面
+12:11:00  INFO    [🇹🇼 台灣] 暴雨還只是前菜！專家示警雨會下到「這時」恐釀水患 南部水庫告急緩解
+12:11:00  INFO    [🇹🇼 台灣] 「高雄碎屍魔」法庭上被揍！ 張介宗遭受害者家屬打倒在地
+12:11:00  INFO    [🇹🇼 台灣] 凶嫌中午曾當街持刀怒吼 警證實「家屬拒送醫」釀砍死郵務士悲劇
+12:11:00  INFO    [🇹🇼 台灣] 國中會考數學非選第二題 空白率創歷史紀錄
+12:11:00  INFO    [🇹🇼 台灣] 獨家》你上當了嗎？中國操弄日本菲律賓「瓜分」我經濟海域認知戰
+12:11:00  INFO    [🇹🇼 台灣] 「鄭麗文選2028就是保送賴清德！」黃揚明曝她上次選舉戰績：總統不是喊喊就能選| 張大任| 新聞
+12:11:04  INFO    [🇯🇵 日本] 立憲派杉尾先生對NHK新聞7的「不合情理的內容」感到憤怒，而首相高市早苗只是找藉口，稱「沒有新聞精神」。
+12:11:06  INFO    [🇯🇵 日本] 連「殺人」的人都被送回父母家…送去保護合適嗎？母女被殺及嫌疑犯死亡事件有待進一步調查
+12:11:07  INFO    [🇯🇵 日本] 前皇室的收養提案：「精心設計制度」由總統和副委員長編制的提案公開【皇室法的修改】
+12:11:09  INFO    [🇯🇵 日本] 真主黨領袖拒絕黎巴嫩與以色列停火協議
+12:11:11  INFO    [🇯🇵 日本] 「我感覺我想自殺。」【大學生幫派攻擊致死】受害者妹妹在法庭上要求死刑 被檢察官要求判處無期徒刑的川村哈農（21歲）的辯護，相當於13年監禁。
+12:11:13  INFO    [🇯🇵 日本] 7日（週日）至8日（週一），受鋒面低氣壓影響，又將出現災害級大暴雨。注意河流氾濫和山體滑坡（天氣預報員伊藤恭子 2026年6月5日）
+12:11:16  INFO    [🇰🇷 韓國] 國家選舉委員會：“全國50個投票站缺票…22個投票站暫停投票”
+12:11:17  INFO    [🇰🇷 韓國] 松坡區選票清點時，喜憂參半…首爾市議會1席按比例“民主→國家權力”
+12:11:19  INFO    [🇰🇷 韓國] [照片]國會首任官員韓東勳“我將重返國家權力”
+12:11:21  INFO    [🇰🇷 韓國] 「心中升起謙卑之情」…宋彥錫含淚辭去院內代表職務
+12:11:24  INFO    [🇰🇷 韓國] 即使投票也不會投院長…100萬張無效選票引發爭議
+12:11:27  INFO    [🇰🇷 韓國] 高成國“吳世勳，要求連任”…國家權力不說“要求連任”
+12:11:27  INFO    [🇺🇸 美國] Senate passes reconciliation bill to fund ICE for 3 years, without ban on DOJ fund
+12:11:27  INFO    [🇺🇸 美國] House passes Ukraine security aid bill over objections of GOP leaders
+12:11:27  INFO    [🇺🇸 美國] Iran Update Special Report, June 4, 2026
+12:11:27  INFO    [🇺🇸 美國] Most K-12 teachers say AI's impact on education will eclipse the internet or computers
+12:11:27  INFO    [🇺🇸 美國] Democrats are furious after latest Platner revelations
+12:11:27  INFO    [🇺🇸 美國] John Bolton expected to plead guilty in classified documents case, sources confirm
+12:11:50  WARNING      ⚠️  koreajoongangdaily.joins.com → HTTPSConnectionPool(host='koreajoongangdaily.joins.com', port=443): Max retries exceeded with url: /section/business (Caused by ConnectTimeoutError(<HTTPSConnection(host='koreajoongangdaily.joins.com', port=443) at 0x7f7dc286aa50>, 'Connection to koreajoongangdaily.joins.com timed out. (connect timeout=14)'))
+12:11:57  INFO  
+🖥️  產生 HTML 報告...
+12:11:57  INFO  
+✅  HTML：報告_20260605_1211.html
+12:11:57  INFO  ✅  CSV：機會分析_20260605_1211.csv
+12:11:57  INFO  📝  Log：logs/scan_20260605_121010.log
