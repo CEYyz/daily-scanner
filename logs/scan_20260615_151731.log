@@ -1,0 +1,132 @@
+15:17:31  INFO  ======================================================================
+15:17:31  INFO  🔥  每日機會分析系統 v10
+15:17:31  INFO  📅  2026-06-15 15:17
+15:17:31  INFO  ======================================================================
+15:17:31  INFO  
+① 🌕  CRYPTO
+15:17:32  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+15:17:32  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+15:17:33  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+15:17:33  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+15:17:34  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+15:17:34  INFO    ✅ Crypto 0 筆
+15:17:34  INFO  
+② 📈  股票
+15:17:35  INFO    [台] 3293.TWO     鈊象電子         $    751.00  -0.53% 多空分歧
+15:17:35  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$709.7 ~ $724.0  止損：$693.5
+15:17:36  INFO    [台] 00909.TW     國泰智能電動車ETF   $     50.50  +4.32% 多空分歧
+15:17:36  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$45.0 ~ $45.9  止損：$44.2
+15:17:37  INFO    [台] 0056.TW      元大高股息        $     51.50  +1.78% 三線多頭
+15:17:37  INFO             買入點：— 目前無買入信號  進場區：$43.7 ~ $44.6  止損：$42.7
+15:17:37  INFO    [台] 6111.TWO     6111擎亞       $     44.90  +0.00% 多空分歧
+15:17:37  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$41.1 ~ $41.9  止損：$40.1
+15:17:38  INFO    [台] 00878.TW     國泰永續高股息      $     32.61  +1.75% 三線多頭
+15:17:38  INFO             買入點：— 目前無買入信號  進場區：$26.6 ~ $27.2  止損：$26.1
+15:17:39  INFO    [台] 3017.TW      奇鋐           $  2,410.00  +0.21% 多空分歧
+15:17:39  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,242.5 ~ $2,287.6  止損：$2,192.2
+15:17:40  INFO    [台] 00713.TW     元大高息低波       $     60.55  +1.25% 三線多頭
+15:17:40  INFO             買入點：— 目前無買入信號  進場區：$53.6 ~ $54.7  止損：$53.3
+15:17:41  INFO    [台] 00919.TW     群益台灣精選高息     $     30.69  +1.66% 三線多頭
+15:17:41  INFO             買入點：— 目前無買入信號  進場區：$25.5 ~ $26.0  止損：$24.9
+15:17:42  INFO    [美] NVDA         NVIDIA       $    211.01  +2.84% 多空分歧
+15:17:42  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$198.3 ~ $202.3  止損：$193.4
+15:17:42  INFO    [美] GEV          GE Vernova   $    970.99  +3.22% 多空分歧
+15:17:42  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$851.7 ~ $868.9  止損：$830.3
+15:17:43  INFO    [台] 2330.TW      台積電          $  2,375.00  +2.81% 三線多頭
+15:17:43  INFO             買入點：— 目前無買入信號  進場區：$2,159.9 ~ $2,203.3  止損：$2,113.8
+15:17:44  INFO    [美] AMD          AMD          $    548.21  +7.16% 三線多頭
+15:17:44  INFO             買入點：— 目前無買入信號  進場區：$391.4 ~ $399.3  止損：$381.6
+15:17:45  INFO    [美] TSM          台積電ADR       $    438.10  +3.34% 三線多頭
+15:17:45  INFO             買入點：— 目前無買入信號  進場區：$382.2 ~ $389.9  止損：$372.6
+15:17:46  INFO    [台] 2317.TW      鴻海           $    267.50  +2.69% 多空分歧
+15:17:46  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$229.7 ~ $234.3  止損：$232.3
+15:17:47  INFO    [台] 2530.TW      華建           $     19.95  -0.25% 多空分歧
+15:17:47  INFO             買入點：— 目前無買入信號  進場區：$17.6 ~ $18.0  止損：$17.2
+15:17:48  INFO    [美] MU           美光           $  1,071.52  +9.16% 三線多頭
+15:17:48  INFO             買入點：— 目前無買入信號  進場區：$648.9 ~ $662.0  止損：$632.6
+15:17:49  INFO    [美] LRCX         科林研發         $    387.60  +5.67% 三線多頭
+15:17:49  INFO             買入點：— 目前無買入信號  進場區：$262.4 ~ $267.7  止損：$255.8
+15:17:50  INFO    [台] 00631L.TW    元大台灣50正2     $     37.07  +6.43% 三線多頭
+15:17:50  INFO             買入點：— 目前無買入信號  進場區：$29.2 ~ $29.8  止損：$28.5
+15:17:51  INFO    [台] 00910.TW     第一金太空衛星      $     70.45  -6.38% 多空分歧
+15:17:51  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$64.3 ~ $65.6  止損：$64.3
+15:17:52  INFO    [台] 2308.TW      台達電          $  2,210.00  -0.23% 多空分歧
+15:17:52  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,870.6 ~ $1,908.2  止損：$1,823.6
+15:17:52  INFO    ⏰ 15:xx 外資 16:30 後更新
+15:17:52  INFO    ✅ 股票 20 筆
+15:17:52  INFO  
+③ 🌟  生活熱門趨勢
+15:17:52  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+15:17:53  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+15:17:56  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+15:17:59  WARNING    [居家生活] The request failed: Google returned a response with code 429
+15:18:03  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+15:18:06  WARNING    [健康運動] The request failed: Google returned a response with code 429
+15:18:09  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+15:18:12  INFO    💬 Dcard 熱門...
+15:18:12  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+15:18:12  INFO    📋 PTT 熱門...
+15:18:13  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+15:18:14  INFO    [PTT/Stock] [60] [新聞] 不接受美伊協議 以色列誓言續駐黎南：伊
+15:18:14  INFO    [PTT/Stock] [70] [情報] 115年06月15日信用交易統計
+15:18:14  INFO    [PTT/Stock] [82] [請益] 本週華許在FOMC宣布降息的機率有多高
+15:18:14  INFO    [PTT/Stock] [21] [情報] 115年【5月份金控股】EPS排名(全已公布)
+15:18:14  INFO    [PTT/Stock] [73] [新聞] 伊朗：協議能達成 關鍵在於川普被迫讓步
+15:18:15  INFO    [PTT/beauty] [34] [正妹] 台大財金所高材生好身材
+15:18:15  INFO    [PTT/beauty] [6] [正妹] 真．從小看著長大
+15:18:15  INFO    [PTT/beauty] [7] [正妹] 四個膝蓋
+15:18:15  INFO    [PTT/beauty] [6] [正妹] 墨西哥的天氣如何?
+15:18:15  INFO    [PTT/beauty] [11] [正妹] 韓國撞球 張佳妍
+15:18:16  INFO    [PTT/movie] [6] [好雷]為一切人，成為一切 我不知道的台灣史
+15:18:16  INFO    [PTT/movie] [2] [新聞] 李滄東《可能的愛情》可能先於韓國影
+15:18:16  INFO    [PTT/movie] [41] [好雷] 大家看火遮眼最有印象的片段？
+15:18:16  INFO    [PTT/movie] [9] [  雷] 揭秘日到底在說啥
+15:18:16  INFO    [PTT/movie] [] [新聞] 《電影蠟筆小新：奇奇怪怪！我的妖怪假期
+15:18:17  INFO    [PTT/food] [] [食記] 台北市中正區。游記蟹殼黃
+15:18:17  INFO    [PTT/food] [] [食記] 台北 Sconeholic 司康中毒
+15:18:17  INFO    [PTT/food] [] [食記] 花蓮美食 十六食堂麵食飯食~超推紅油炒手
+15:18:17  INFO    [PTT/food] [] [食記] Shake Shack 菲律賓馬尼拉 漢堡紫薯奶昔
+15:18:17  INFO    [PTT/food] [] [食記] 屏東 枋寮 珈琲朗 隱密看海咖啡店
+15:18:17  INFO    📺 YouTube 台灣熱門...
+15:18:18  INFO    🎵 TikTok...
+15:18:21  INFO    [TikTok] #1 《TAIPEI TIMES》 TikTok users in Taiwan up significantly last 
+15:18:21  INFO    [TikTok] #2 Short videos overtake social media as top media format in Ta
+15:18:21  INFO    [TikTok] #3 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+15:18:21  INFO    [TikTok] #4 Seeing is not believing (part II) - AI videos spread during 
+15:18:21  INFO    [TikTok] #5 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+15:18:21  INFO    [TikTok] #6 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+15:18:21  INFO    🛍️  Shopee 台灣熱銷...
+15:18:25  INFO    💬 Reddit 熱賣（本週）...
+15:18:26  INFO    ✅ 生活趨勢完成
+15:18:26  INFO  
+④ 📰  消息面
+15:18:26  INFO    [🇹🇼 台灣] 美伊和談14點備忘錄草案曝光！美承諾不干涉伊朗內政 砸3000億重建費
+15:18:26  INFO    [🇹🇼 台灣] 快訊／雨區再擴大！10縣市豪大雨狂炸
+15:18:26  INFO    [🇹🇼 台灣] 陳玉珍曬同框張凌赫合照！嗨喊：我有統戰他對不對
+15:18:26  INFO    [🇹🇼 台灣] 公車司機停刈包店買午餐！「乘客跟下去」全笑翻：太會帶貨
+15:18:26  INFO    [🇹🇼 台灣] 日經：川普政權冷落鄭麗文主因是拒絕傳遞錯誤訊息| 國際
+15:18:26  INFO    [🇹🇼 台灣] 抓到了！國民黨1縣長不甩禁令「錄影參與統戰論壇」 本人急回應
+15:18:28  INFO    [🇯🇵 日本] 川普宣布“協議完成”，伊朗也做出結束敵對行動的“最終決定”
+15:18:30  INFO    [🇯🇵 日本] 高市首相會同意派遣自衛隊嗎？ G7將聚焦在「深入」應對中東問題
+15:18:31  INFO    [🇯🇵 日本] 俄羅斯無人機襲擊破壞了烏克蘭的世界遺產修道院，澤連斯基總統表示：“這是一個悲慘的場景。”
+15:18:32  INFO    [🇯🇵 日本] 以「工作、工作…」成為熱門話題的高市首相介紹了一些觸動我心的意大利語單詞
+15:18:33  INFO    [🇯🇵 日本] 長崎市擔心學校午餐試驗期間“將浪費 20,000 份餐點”；指出“糧食損失”
+15:18:34  INFO    [🇯🇵 日本] 大分縣警方公開了兩張別府肇事逃逸犯罪嫌疑人八田洋一的新照片……22歲也戴著墨鏡
+15:18:36  INFO    [🇰🇷 韓國] 「張東赫的教條主義」…國家力量黨領導層要求連任決定的內部反對
+15:18:39  INFO    [🇰🇷 韓國] “明天擊劍比賽，我連劍都拿不出來了”…體育團體呼籲“不能工作，公權力支持”
+15:18:40  INFO    [🇰🇷 韓國] 伊朗媒體“諒解備忘錄中規定了收取霍爾木茲通行費的權利……導彈和代理人部隊被刪除。”
+15:18:41  INFO    [🇰🇷 韓國] 倉促建立的和平…與伊朗的戰爭在 106 天後結束
+15:18:43  INFO    [🇰🇷 韓國] 【突發新聞】前參謀長聯席會議主席金明洙因涉嫌參與內戰被駁回
+15:18:44  INFO    [🇰🇷 韓國] 李總統會見教宗討論南北韓問題...似乎要求訪問朝鮮
+15:18:45  INFO    [🇺🇸 美國] Live updates: US and Iran reach agreement but key questions remain
+15:18:45  INFO    [🇺🇸 美國] At G-7, allies plan for a world less reliant on the U.S.
+15:18:45  INFO    [🇺🇸 美國] How will the under-16s social media ban work and what apps will it hit? We answer your questions
+15:18:45  INFO    [🇺🇸 美國] El Niño has arrived: 5 ways California could get pummeled
+15:18:45  INFO    [🇺🇸 美國] Supreme Court rejects former Trump adviser Carter Page’s bid to revive James Comey lawsuit
+15:18:45  INFO    [🇺🇸 美國] In Israel, Broad Discontent Even Before Deal’s Details Are Known
+15:18:58  INFO  
+🖥️  產生 HTML 報告...
+15:18:58  INFO  
+✅  HTML：報告_20260615_1518.html
+15:18:58  INFO  ✅  CSV：機會分析_20260615_1518.csv
+15:18:58  INFO  📝  Log：logs/scan_20260615_151731.log
