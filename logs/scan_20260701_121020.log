@@ -1,0 +1,130 @@
+12:10:20  INFO  ======================================================================
+12:10:20  INFO  🔥  每日機會分析系統 v10
+12:10:20  INFO  📅  2026-07-01 12:10
+12:10:20  INFO  ======================================================================
+12:10:20  INFO  
+① 🌕  CRYPTO
+12:10:20  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+12:10:21  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+12:10:21  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+12:10:22  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+12:10:23  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+12:10:23  INFO    ✅ Crypto 0 筆
+12:10:23  INFO  
+② 📈  股票
+12:10:24  INFO    [台] 3293.TWO     鈊象電子         $    819.00  +3.80% 三線多頭
+12:10:24  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$733.7 ~ $748.5  止損：$717.8
+12:10:25  INFO    [台] 00909.TW     國泰智能電動車ETF   $     48.09  -2.06% 多空分歧
+12:10:25  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$45.7 ~ $46.6  止損：$44.5
+12:10:25  INFO    [台] 0056.TW      元大高股息        $     52.75  -0.94% 偏多
+12:10:25  INFO             買入點：— 目前無買入信號  進場區：$47.4 ~ $48.4  止損：$46.2
+12:10:27  INFO    [台] 6111.TWO     6111擎亞       $     43.20  -2.26% 多空分歧
+12:10:27  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$41.1 ~ $41.9  止損：$40.1
+12:10:27  INFO    [台] 00878.TW     國泰永續高股息      $     33.32  -0.54% 偏多
+12:10:27  INFO             買入點：— 目前無買入信號  進場區：$29.9 ~ $30.5  止損：$29.1
+12:10:28  INFO    [台] 3017.TW      奇鋐           $  2,620.00  +3.76% 多空分歧
+12:10:28  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,169.9 ~ $2,213.5  止損：$2,153.4
+12:10:29  INFO    [台] 00713.TW     元大高息低波       $     59.90  -0.50% 偏多
+12:10:29  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$55.4 ~ $56.5  止損：$54.0
+12:10:30  INFO    [台] 00919.TW     群益台灣精選高息     $     29.37  -0.44% 多空分歧
+12:10:30  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$27.6 ~ $28.1  止損：$26.9
+12:10:31  INFO    [美] NVDA         NVIDIA       $    200.09  +2.63% 多空分歧
+12:10:31  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$188.9 ~ $192.6  止損：$184.1
+12:10:32  INFO    [美] GEV          GE Vernova   $  1,174.86  +6.56% 三線多頭
+12:10:32  INFO             買入點：— 目前無買入信號  進場區：$834.1 ~ $850.9  止損：$829.9
+12:10:33  INFO    [台] 2330.TW      台積電          $  2,505.00  +3.94% 三線多頭
+12:10:33  INFO             買入點：— 目前無買入信號  進場區：$2,198.9 ~ $2,243.1  止損：$2,143.7
+12:10:34  INFO    [美] AMD          AMD          $    580.91  +7.68% 三線多頭
+12:10:34  INFO             買入點：— 目前無買入信號  進場區：$435.0 ~ $443.8  止損：$424.1
+12:10:35  INFO    [美] TSM          台積電ADR       $    477.57  +4.94% 三線多頭
+12:10:35  INFO             買入點：— 目前無買入信號  進場區：$400.3 ~ $408.4  止損：$392.4
+12:10:37  INFO    [台] 2317.TW      鴻海           $    248.00  -1.20% 多空分歧
+12:10:37  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$233.9 ~ $238.6  止損：$238.6
+12:10:38  INFO    [台] 2530.TW      華建           $     20.20  +4.66% 多空分歧
+12:10:38  INFO             買入點：— 目前無買入信號  進場區：$18.3 ~ $18.6  止損：$17.8
+12:10:39  INFO    [美] MU           美光           $  1,154.29  +0.79% 三線多頭
+12:10:39  INFO             買入點：— 目前無買入信號  進場區：$849.4 ~ $866.4  止損：$828.7
+12:10:40  INFO    [美] LRCX         科林研發         $    433.33  +5.46% 三線多頭
+12:10:40  INFO             買入點：— 目前無買入信號  進場區：$295.3 ~ $301.2  止損：$293.5
+12:10:41  INFO    [台] 00631L.TW    元大台灣50正2     $     39.48  +2.76% 三線多頭
+12:10:41  INFO             買入點：— 目前無買入信號  進場區：$31.7 ~ $32.3  止損：$30.9
+12:10:41  INFO    [台] 00910.TW     第一金太空衛星      $     65.35  +1.87% 多空分歧
+12:10:41  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$55.3 ~ $56.4  止損：$55.6
+12:10:43  INFO    [台] 2308.TW      台達電          $  1,990.00  +2.05% 多空分歧
+12:10:43  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,781.0 ~ $1,816.8  止損：$1,736.3
+12:10:43  INFO    ⏰ 12:xx 外資 16:30 後更新
+12:10:43  INFO    ✅ 股票 20 筆
+12:10:43  INFO  
+③ 🌟  生活熱門趨勢
+12:10:43  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+12:10:44  INFO    [食品飲料] 熱度:13 動能:+12% 最熱關鍵字：美食 🔥🔥
+12:10:47  INFO    [服飾美妝] 熱度:28 動能:-17% 最熱關鍵字：防曬 ❄️
+12:10:49  INFO    [居家生活] 熱度:22 動能:-15% 最熱關鍵字：家具 ❄️
+12:10:52  INFO    [娛樂3C] 熱度:34 動能:-9% 最熱關鍵字：手機 ❄️
+12:10:54  INFO    [健康運動] 熱度:42 動能:+5% 最熱關鍵字：健身 🔥🔥
+12:10:57  INFO    [旅遊交通] 熱度:34 動能:+10% 最熱關鍵字：機票 🔥🔥
+12:10:59  INFO    💬 Dcard 熱門...
+12:10:59  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+12:10:59  INFO    📋 PTT 熱門...
+12:10:59  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+12:11:00  INFO    [PTT/Stock] [34] [新聞] 00918千億規模換股！增刪13檔砍國巨、聯
+12:11:00  INFO    [PTT/Stock] [32] [情報] 2303聯電 第一次處置 7/2～7/15
+12:11:00  INFO    [PTT/Stock] [87] [新聞] 快檢查你家的油！知名大廠「12款食用油」原料檢驗未達標準，
+12:11:00  INFO    [PTT/Stock] [5] Re: [心得] 30yrs 小資期貨勸世半年報
+12:11:00  INFO    [PTT/Stock] [1] [標的] 2344 華邦電空
+12:11:01  INFO    [PTT/beauty] [1] [正妹] Cosplay 2738 日本 妮姬
+12:11:01  INFO    [PTT/beauty] [2] [正妹] Purple Lee
+12:11:01  INFO    [PTT/beauty] [] [正妹] 誰 = =
+12:11:01  INFO    [PTT/beauty] [53] [正妹] 紫堂るい
+12:11:02  INFO    [PTT/movie] [3] Fw: [討論] 小小兵與大怪獸 RT89% 照明歷年成績最高
+12:11:02  INFO    [PTT/movie] [8] Re: [情報] Milly Alcock出演超少女的片酬是40萬美
+12:11:02  INFO    [PTT/movie] [29] [討論] 盧皮塔解釋「奧德賽」的海倫如何詮釋
+12:11:02  INFO    [PTT/movie] [] Re: [新聞] 新任「蝙蝠俠」人選被爆已選定！DC總裁
+12:11:02  INFO    [PTT/movie] [25] [好雷] 千鈞一髮 GATTACA
+12:11:03  INFO    [PTT/food] [3] [食記] 台北 Popeyes 嗨醬杯吃吃
+12:11:03  INFO    [PTT/food] [1] [食記] 香港 油麻地興記菜館/興記煲仔飯
+12:11:03  INFO    [PTT/food] [] [食記] 台北大安 育成蕃薯藤餐廳改裝 午餐吃到飽
+12:11:03  INFO    [PTT/food] [] [食記] 台南東區 活飲子異國料理 百元義大利麵
+12:11:03  INFO    [PTT/food] [1] [食記] 台南中西 鼎饌坊鍋燒專賣 南洋叻沙很讚
+12:11:04  INFO    📺 YouTube 台灣熱門...
+12:11:04  INFO    🎵 TikTok...
+12:11:08  INFO    [TikTok] #1 Short videos overtake social media as top media format in Ta
+12:11:08  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+12:11:08  INFO    [TikTok] #3 Seeing is not believing (part II) - AI videos spread during 
+12:11:08  INFO    [TikTok] #4 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+12:11:08  INFO    [TikTok] #5 Chinese cuisines gain popularity in Taiwan
+12:11:08  INFO    🛍️  Shopee 台灣熱銷...
+12:11:11  INFO    💬 Reddit 熱賣（本週）...
+12:11:12  INFO    ✅ 生活趨勢完成
+12:11:12  INFO  
+④ 📰  消息面
+12:11:12  INFO    [🇹🇼 台灣] 顏慶章發表聲明「把顏慧欣未竟志業，變成國家制度」
+12:11:12  INFO    [🇹🇼 台灣] 獨／欠台糖1.7億吳乃仁關12天就獲釋 理由曝光「台糖撤回聲請」
+12:11:12  INFO    [🇹🇼 台灣] 違規油品流竄全台！知名大廠12款食用油「驗出致癌物」超標，問題品項、 退貨流程一次看
+12:11:12  INFO    [🇹🇼 台灣] 孫安佐100萬交保回家！狄鶯不忍了 首鬆口真實心聲：受罰應該的
+12:11:12  INFO    [🇹🇼 台灣] 2熱帶低壓生成！日氣象廳估「24小時內恐成雙颱」路徑曝
+12:11:12  INFO    [🇹🇼 台灣] 國際重大消息 美軍出動救援了
+12:11:15  INFO    [🇯🇵 日本] <社論> 皇室法修正案是對立法機關的背叛行為。
+12:11:18  INFO    [🇯🇵 日本] 登山者們在富士山的開口處「被太陽的景象所感動」…靜岡-須走路線已經提前，並將與山梨-吉田路線保持一致。
+12:11:20  INFO    [🇯🇵 日本] [突發新聞]石川/小松市10歲男孩失蹤；在瀑布發現具有相似特徵的孩子；狀況不明
+12:11:22  INFO    [🇯🇵 日本] 父親因涉嫌砍傷兒子而被捕；長野縣東禦市家中發現前妻和女兒的屍體[長野縣]
+12:11:25  INFO    [🇯🇵 日本] 明天天氣預報 7月2日（四） 東北～九州大範圍降雨 關東早上出現雨峰
+12:11:28  INFO    [🇯🇵 日本] 【突發新聞】雙重颱風或將影響沖繩
+12:11:31  INFO    [🇰🇷 韓國] 國度：「如果懲罰裴在高，那就是共產國家」…星巴克加油歌
+12:11:34  INFO    [🇰🇷 韓國] [社論]強調一體化的李在明和文在寅在執政黨的權力競爭中不應越界
+12:11:37  INFO    [🇰🇷 韓國] 韓總理緊急指示做好雨季準備…“強化山體滑坡、洪澇災害頻發地區治理”
+12:11:38  INFO    [🇰🇷 韓國] 【維內蘇地震報導】加勒比天堂被毀…“我很幸運有一個女兒或孫女。”
+12:11:40  INFO    [🇰🇷 韓國] 儘管美國警告“我們將轟炸”，阿曼和伊朗仍推動收取“霍爾木茲服務費”
+12:11:43  INFO    [🇰🇷 韓國] 國家選舉委員會：“朝野黨和民間團體支持松坡區投票箱公開核查”
+12:11:43  INFO    [🇺🇸 美國] Democratic socialist Melat Kiros defeats 15-term incumbent in Colorado House primary
+12:11:43  INFO    [🇺🇸 美國] Months after he sent a harsh email to ICE, agents tracked him to his home and a hotel
+12:11:43  INFO    [🇺🇸 美國] Poll: Majority of Americans are proud but worry about direction of the country
+12:11:43  INFO    [🇺🇸 美國] Venezuela: Three-year-old rescued and taken to hospital six days after quake
+12:11:43  INFO    [🇺🇸 美國] Trump calls on Congress to end birthright citizenship after court defeat
+12:11:43  INFO    [🇺🇸 美國] US envoys in Doha to meet mediators but not Iranians, Qatar says
+12:11:58  INFO  
+🖥️  產生 HTML 報告...
+12:11:58  INFO  
+✅  HTML：報告_20260701_1211.html
+12:11:58  INFO  ✅  CSV：機會分析_20260701_1211.csv
+12:11:58  INFO  📝  Log：logs/scan_20260701_121020.log
