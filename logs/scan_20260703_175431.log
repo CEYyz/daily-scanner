@@ -1,0 +1,122 @@
+17:54:31  INFO  ======================================================================
+17:54:31  INFO  🔥  每日機會分析系統 v10
+17:54:31  INFO  📅  2026-07-03 17:54
+17:54:31  INFO  ======================================================================
+17:54:31  INFO  
+① 🌕  CRYPTO
+17:54:32  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+17:54:32  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+17:54:33  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+17:54:33  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+17:54:34  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+17:54:34  INFO    ✅ Crypto 0 筆
+17:54:34  INFO  
+② 📈  股票
+17:54:35  INFO    [台] 3293.TWO     鈊象電子         $       nan   +nan% 三線多頭
+17:54:35  INFO             買入點：— 目前無買入信號  進場區：$736.3 ~ $751.1  止損：$717.8
+17:54:35  ERROR    00909.TW: float division by zero
+17:54:36  ERROR    0056.TW: float division by zero
+17:54:37  INFO    [台] 6111.TWO     6111擎亞       $       nan   +nan% 多空分歧
+17:54:37  INFO             買入點：— 目前無買入信號  進場區：$41.1 ~ $41.9  止損：$40.1
+17:54:37  ERROR    00878.TW: float division by zero
+17:54:38  INFO    [台] 3017.TW      奇鋐           $       nan   +nan% 多空分歧
+17:54:38  INFO             買入點：— 目前無買入信號  進場區：$2,208.9 ~ $2,253.3  止損：$2,153.4
+17:54:39  ERROR    00713.TW: float division by zero
+17:54:39  ERROR    00919.TW: float division by zero
+17:54:40  INFO    [美] NVDA         NVIDIA       $    194.83  -1.39% 多空分歧
+17:54:40  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$188.9 ~ $192.6  止損：$184.1
+17:54:41  INFO    [美] GEV          GE Vernova   $  1,113.11  -1.87% 三線多頭
+17:54:41  INFO             買入點：— 目前無買入信號  進場區：$838.8 ~ $855.6  止損：$829.9
+17:54:42  INFO    [台] 2330.TW      台積電          $       nan   +nan% 三線多頭
+17:54:42  INFO             買入點：— 目前無買入信號  進場區：$2,198.9 ~ $2,243.1  止損：$2,143.7
+17:54:43  INFO    [美] AMD          AMD          $    517.82  -4.26% 三線多頭
+17:54:43  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$435.0 ~ $443.8  止損：$424.1
+17:54:44  INFO    [美] TSM          台積電ADR       $    434.16  -2.27% 三線多頭
+17:54:44  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$400.2 ~ $408.3  止損：$392.4
+17:54:44  INFO    [台] 2317.TW      鴻海           $       nan   +nan% 多空分歧
+17:54:44  INFO             買入點：— 目前無買入信號  進場區：$236.8 ~ $241.6  止損：$230.9
+17:54:45  INFO    [台] 2530.TW      華建           $       nan   +nan% 多空分歧
+17:54:45  INFO             買入點：— 目前無買入信號  進場區：$18.3 ~ $18.6  止損：$17.8
+17:54:46  INFO    [美] MU           美光           $    975.56  -5.49% 多空分歧
+17:54:46  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$840.5 ~ $857.4  止損：$828.7
+17:54:47  INFO    [美] LRCX         科林研發         $    351.41 -10.19% 多空分歧
+17:54:47  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$299.9 ~ $305.9  止損：$293.5
+17:54:48  ERROR    00631L.TW: float division by zero
+17:54:48  ERROR    00910.TW: float division by zero
+17:54:49  INFO    [台] 2308.TW      台達電          $       nan   +nan% 多空分歧
+17:54:49  INFO             買入點：— 目前無買入信號  進場區：$1,781.0 ~ $1,816.8  止損：$1,736.3
+17:54:51  INFO    ✅ 股票 13 筆
+17:54:51  INFO  
+③ 🌟  生活熱門趨勢
+17:54:51  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+17:54:52  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+17:54:55  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+17:54:58  WARNING    [居家生活] The request failed: Google returned a response with code 429
+17:55:02  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+17:55:05  WARNING    [健康運動] The request failed: Google returned a response with code 429
+17:55:08  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+17:55:11  INFO    💬 Dcard 熱門...
+17:55:11  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+17:55:11  INFO    📋 PTT 熱門...
+17:55:12  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+17:55:12  INFO    [PTT/Stock] [67] [心得] 現在應該把台股部位轉到mag7
+17:55:12  INFO    [PTT/Stock] [26] Re: [新聞] 致癌沙拉油下游流向包含晶華　業者：
+17:55:12  INFO    [PTT/Stock] [10] [標的] 2498 宏達電 數位元宇宙多
+17:55:12  INFO    [PTT/Stock] [6] Re: [心得] 2026期貨冒險半年報
+17:55:12  INFO    [PTT/Stock] [18] [新聞] 中國很缺錢！A股和港股逾80公司被下令補
+17:55:14  INFO    [PTT/beauty] [18] [正妹] 每次攝影會都讓人受不了! るるたんRuruka
+17:55:14  INFO    [PTT/beauty] [2] [正妹] Cosplay 2742 韓國 海夢
+17:55:14  INFO    [PTT/beauty] [7] [正妹] 廉世彬
+17:55:14  INFO    [PTT/beauty] [8] [正妹] 淺野心
+17:55:14  INFO    [PTT/beauty] [7] [正妹] 文慧真
+17:55:15  INFO    [PTT/movie] [10] [問片] 找一部華語主角吃狗食的電影
+17:55:15  INFO    [PTT/movie] [11] [新聞] 超少女米莉外貌遭酸 機械公敵導演幫反擊
+17:55:15  INFO    [PTT/movie] [3] [新聞] 【後室】驚喜上映大銀幕限定"彩蛋加長版"
+17:55:15  INFO    [PTT/movie] [33] [討論] 諾蘭《奧德賽》電影海倫的劇照出來了！
+17:55:15  INFO    [PTT/movie] [1] [情報] 《吉伊卡哇 人魚島的秘密》本篇特別影像
+17:55:16  INFO    [PTT/food] [3] [食記] 台北 Popeyes 嗨醬杯吃吃
+17:55:16  INFO    [PTT/food] [1] [食記] 香港 油麻地興記菜館/興記煲仔飯
+17:55:16  INFO    [PTT/food] [] [食記] 台北大安 育成蕃薯藤餐廳改裝 午餐吃到飽
+17:55:16  INFO    [PTT/food] [] [食記] 台南東區 活飲子異國料理 百元義大利麵
+17:55:16  INFO    [PTT/food] [1] [食記] 台南中西 鼎饌坊鍋燒專賣 南洋叻沙很讚
+17:55:16  INFO    📺 YouTube 台灣熱門...
+17:55:17  INFO    🎵 TikTok...
+17:55:21  INFO    [TikTok] #1 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+17:55:21  INFO    [TikTok] #2 Seeing is not believing (part II) - AI videos spread during 
+17:55:21  INFO    [TikTok] #3 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+17:55:21  INFO    [TikTok] #4 Chinese cuisines gain popularity in Taiwan
+17:55:21  INFO    🛍️  Shopee 台灣熱銷...
+17:55:25  INFO    💬 Reddit 熱賣（本週）...
+17:55:25  INFO    ✅ 生活趨勢完成
+17:55:25  INFO  
+④ 📰  消息面
+17:55:25  INFO    [🇹🇼 台灣] 巴威颱風長眼挑戰今年風王！最新颱風路徑出現分歧：歐美預測直撲台灣 | 洪煜勛 | 風生活
+17:55:25  INFO    [🇹🇼 台灣] 沙拉油致癌物超標波及 味王8款逾2.5萬箱泡麵、聯華2飯糰下架回收
+17:55:25  INFO    [🇹🇼 台灣] 兒子佀廣洋想選議員！黑歷史連環爆 立委萬美玲被問霸凌 面無表情離去
+17:55:25  INFO    [🇹🇼 台灣] 靠GD、鄧紫棋演場會撈翻 警逮全台最大黃牛「強妮」北檢聲押禁見
+17:55:25  INFO    [🇹🇼 台灣] 全民普發3800元？賴清德批無人機在野版違憲 他考古「消費券條例」：你們也幹過 | 李瑋萱 | 新聞
+17:55:25  INFO    [🇹🇼 台灣] 中國新法上路！導演揭台灣影視困境：演員不敢演、投資人不敢投
+17:55:28  INFO    [🇯🇵 日本] 阿亞圖拉哈梅內伊的國葬，孫女的小棺材包括......估計有1200-2000萬人參加
+17:55:29  INFO    [🇯🇵 日本] 準備開始審議《皇室法修正案》…在野黨實際上拒絕在國會會議上進行審議，顯示出看不見的改善跡象
+17:55:31  INFO    [🇯🇵 日本] 在台場舉辦的慶祝活動，紀念美國建國250週年；防衛大臣小泉等致賀詞
+17:55:32  INFO    [🇯🇵 日本] 6月下旬，法國等三個受熱浪攻擊的歐洲國家超額死亡3,700人
+17:55:34  INFO    [🇯🇵 日本] 【爆料】令和議員山本太郎違反道路交通法，在法定時速80公里/小時的道路上以149公里/小時的速度行駛 | TBS 新聞挖掘
+17:55:36  INFO    [🇯🇵 日本] 自民黨和反對派的聲明稱審議「過時」：時事網
+17:55:38  INFO    [🇰🇷 韓國] 連白宮都說「李在明政府歧視Coupang」…政府連續兩天反駁
+17:55:39  INFO    [🇰🇷 韓國] 金珉錫、鄭清來、宋英吉齊聚…圍繞補充調查權的“間接神經戰”
+17:55:40  INFO    [🇰🇷 韓國] 姜勳植：“民主黨，請成為一個不可替代的政黨……它必須很好地回應公眾的要求。”
+17:55:42  INFO    [🇰🇷 韓國] 首爾教育廳：“首先對百才高中學生進行紀律處分……然後審查包括校長在內的管理責任。”
+17:55:43  INFO    [🇰🇷 韓國] 三週後總統支持率反彈至54%…民主41%，國家力量26%
+17:55:45  INFO    [🇰🇷 韓國] 「雨季末期」持續至下週初…高溫高濕約攝氏31度
+17:55:45  INFO    [🇺🇸 美國] U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused
+17:55:45  INFO    [🇺🇸 美國] Trump’s Freedom 250 draws corporate sponsors with business before his administration
+17:55:45  INFO    [🇺🇸 美國] Philadelphia's Salute to Independence Parade canceled due to dangerous heat
+17:55:45  INFO    [🇺🇸 美國] Trump kicks off Fourth of July weekend with symbolic salute to America’s legacy
+17:55:45  INFO    [🇺🇸 美國] A new plan to keep the Reflecting Pool clean – including annual purge of ‘nasty’ muck
+17:55:45  INFO    [🇺🇸 美國] El Niño is 'strengthening rapidly,' forecasters warn. Here's what it could mean for your weather.
+17:55:59  INFO  
+🖥️  產生 HTML 報告...
+17:55:59  INFO  
+✅  HTML：報告_20260703_1755.html
+17:55:59  INFO  ✅  CSV：機會分析_20260703_1755.csv
+17:55:59  INFO  📝  Log：logs/scan_20260703_175431.log
