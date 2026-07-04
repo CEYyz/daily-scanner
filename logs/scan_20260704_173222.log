@@ -1,0 +1,120 @@
+17:32:22  INFO  ======================================================================
+17:32:22  INFO  🔥  每日機會分析系統 v10
+17:32:22  INFO  📅  2026-07-04 17:32
+17:32:22  INFO  ======================================================================
+17:32:22  INFO  
+① 🌕  CRYPTO
+17:32:24  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+17:32:25  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+17:32:26  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+17:32:27  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+17:32:28  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+17:32:28  INFO    ✅ Crypto 0 筆
+17:32:28  INFO  
+② 📈  股票
+17:32:29  INFO    [台] 3293.TWO     鈊象電子         $    797.00  -0.38% 三線多頭
+17:32:29  INFO             買入點：— 目前無買入信號  進場區：$733.4 ~ $748.2  止損：$717.8
+17:32:30  ERROR    00909.TW: float division by zero
+17:32:31  INFO    [台] 0056.TW      元大高股息        $     52.85  +0.48% 三線多頭
+17:32:31  INFO             買入點：— 目前無買入信號  進場區：$47.4 ~ $48.4  止損：$46.2
+17:32:32  INFO    [台] 6111.TWO     6111擎亞       $     43.70  +1.63% 多空分歧
+17:32:32  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$41.1 ~ $41.9  止損：$40.1
+17:32:33  ERROR    00878.TW: float division by zero
+17:32:34  INFO    [台] 3017.TW      奇鋐           $  2,760.00  +0.73% 多空分歧
+17:32:34  INFO             買入點：— 目前無買入信號  進場區：$2,184.4 ~ $2,228.3  止損：$2,153.4
+17:32:35  ERROR    00713.TW: float division by zero
+17:32:36  ERROR    00919.TW: float division by zero
+17:32:37  INFO    [美] NVDA         NVIDIA       $    194.83  -1.39% 多空分歧
+17:32:37  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$188.9 ~ $192.6  止損：$184.1
+17:32:38  INFO    [美] GEV          GE Vernova   $  1,113.11  -1.87% 三線多頭
+17:32:38  INFO             買入點：— 目前無買入信號  進場區：$838.8 ~ $855.6  止損：$829.9
+17:32:40  INFO    [台] 2330.TW      台積電          $  2,445.00  -0.81% 三線多頭
+17:32:40  INFO             買入點：— 目前無買入信號  進場區：$2,198.9 ~ $2,243.1  止損：$2,143.7
+17:32:41  INFO    [美] AMD          AMD          $    517.82  -4.26% 三線多頭
+17:32:41  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$435.0 ~ $443.8  止損：$424.1
+17:32:42  INFO    [美] TSM          台積電ADR       $    434.16  -2.27% 三線多頭
+17:32:42  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$400.2 ~ $408.3  止損：$392.4
+17:32:43  INFO    [台] 2317.TW      鴻海           $    240.50  +0.63% 多空分歧
+17:32:43  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$230.8 ~ $235.5  止損：$228.9
+17:32:45  INFO    [台] 2530.TW      華建           $     19.40  +2.37% 多空分歧
+17:32:45  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$18.3 ~ $18.6  止損：$17.8
+17:32:46  INFO    [美] MU           美光           $    975.56  -5.49% 多空分歧
+17:32:46  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$840.5 ~ $857.4  止損：$828.7
+17:32:47  INFO    [美] LRCX         科林研發         $    351.41 -10.19% 多空分歧
+17:32:47  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$299.9 ~ $305.9  止損：$293.5
+17:32:48  ERROR    00631L.TW: float division by zero
+17:32:49  ERROR    00910.TW: float division by zero
+17:32:50  INFO    [台] 2308.TW      台達電          $  2,075.00  +5.33% 多空分歧
+17:32:50  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,781.0 ~ $1,816.8  止損：$1,736.3
+17:32:52  INFO    ✅ 股票 14 筆
+17:32:52  INFO  
+③ 🌟  生活熱門趨勢
+17:32:52  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+17:32:53  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+17:32:57  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+17:33:00  INFO    [居家生活] 熱度:27 動能:+1% 最熱關鍵字：家具 🔥
+17:33:03  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+17:33:07  INFO    [健康運動] 熱度:40 動能:+4% 最熱關鍵字：健身 🔥
+17:33:10  INFO    [旅遊交通] 熱度:35 動能:+8% 最熱關鍵字：機票 🔥🔥
+17:33:12  INFO    💬 Dcard 熱門...
+17:33:12  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+17:33:12  INFO    📋 PTT 熱門...
+17:33:12  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+17:33:13  INFO    [PTT/Stock] [26] [新聞] 三星電子第三季DRAM擬漲價20% 廠家：已
+17:33:13  INFO    [PTT/Stock] [49] [新聞] 軟銀公司和軟銀集團成立「SB Neo」，在
+17:33:13  INFO    [PTT/Stock] [爆] [新聞] 0050規模已達台灣房市整年交易量！　謝金
+17:33:13  INFO    [PTT/Stock] [爆] [請益] 存一年的買車基金，買0050適當嗎？
+17:33:14  INFO    [PTT/beauty] [3] [正妹] 朴韓星 游泳
+17:33:14  INFO    [PTT/beauty] [1] [正妹] Cosplay 2746 日本 明日香
+17:33:14  INFO    [PTT/beauty] [5] [正妹] GEN.G Ruler 的前女友身材真棒！
+17:33:14  INFO    [PTT/beauty] [12] [正妹] 邊荷律的律動
+17:33:14  INFO    [PTT/beauty] [7] [正妹] 釣魚不穿褲子的
+17:33:15  INFO    [PTT/movie] [2] [新聞] 翁曉玲大砍4700萬預算 億萬導演怒轟：以
+17:33:15  INFO    [PTT/movie] [] [公告] 電影板板規 2025/10/26
+17:33:15  INFO    [PTT/movie] [] [公告] 政治電影新聞張貼規範
+17:33:16  INFO    [PTT/food] [] [廣宣] 新北永和—Aposo艾波索｜開心果控的夢幻盛宴 三款限定開心果
+17:33:16  INFO    [PTT/food] [] [食記] 布查花園法式料理
+17:33:16  INFO    [PTT/food] [] [食記] 台北。小巨蛋早餐咖啡廳-EGG BUN爆漿漢堡
+17:33:16  INFO    [PTT/food] [] [公告] Food板 板規 V3.91
+17:33:16  INFO    [PTT/food] [18] [公告] 發文請在標題加上地區及提供地址電話。^^
+17:33:16  INFO    📺 YouTube 台灣熱門...
+17:33:17  INFO    🎵 TikTok...
+17:33:21  INFO    [TikTok] #1 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+17:33:21  INFO    [TikTok] #2 Seeing is not believing (part II) - AI videos spread during 
+17:33:21  INFO    [TikTok] #3 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+17:33:21  INFO    [TikTok] #4 Chinese cuisines gain popularity in Taiwan
+17:33:21  INFO    🛍️  Shopee 台灣熱銷...
+17:33:24  INFO    💬 Reddit 熱賣（本週）...
+17:33:25  INFO    ✅ 生活趨勢完成
+17:33:25  INFO  
+④ 📰  消息面
+17:33:25  INFO    [🇹🇼 台灣] 苯駢芘超標4倍禍首？美國黃豆換巴西豆爆疑雲 中聯油脂：產季輪換
+17:33:25  INFO    [🇹🇼 台灣] 各國路徑有共識了！巴威颱風北轉預測地點出爐　台灣2地風雨最強
+17:33:25  INFO    [🇹🇼 台灣] 俄軍高調宣布「拿下重鎮」！普丁親視察狂讚：戰略大勝| 國際
+17:33:25  INFO    [🇹🇼 台灣] 委內瑞拉強震罹難增至2645人 數千人仍下落不明
+17:33:25  INFO    [🇹🇼 台灣] 恐怖畫面曝光！13歲男童遭10多隻浪犬「圍攻獵殺」　慘摔滿身傷
+17:33:25  INFO    [🇹🇼 台灣] 全民普發3800元？賴清德批無人機在野版違憲 他考古「消費券條例」：你們也幹過 | 李瑋萱 | 新聞
+17:33:27  INFO    [🇯🇵 日本] 【突發新聞】美國總統川普演講開始
+17:33:29  INFO    [🇯🇵 日本] 9號強颱風（芭比）：關島和塞班島進入高度戒備狀態；沖繩以南航線
+17:33:30  INFO    [🇯🇵 日本] 伊朗的葬禮有一段動盪的歷史：滾動的屍體和暗殺關鍵人物的陰謀
+17:33:32  INFO    [🇯🇵 日本] 東京北區小學火災；校長不知道老師帶爐灶...病房召開會議核實疏散情況
+17:33:34  INFO    [🇯🇵 日本] 下週後半週天氣晴朗，雨季酷熱。從12日開始，將再次下雨兩週（氣象預報員堂本幸世2026年7月4日）
+17:33:35  INFO    [🇯🇵 日本] 大阪守口建築工人因交通事故毆打小學生被捕
+17:33:36  INFO    [🇰🇷 韓國] 崔敏熙回應李秉泰“言論自由”主張“詆毀5月18日，侮辱人民”
+17:33:38  INFO    [🇰🇷 韓國] 哈梅內伊葬禮開始…哀悼者抽泣著“美國之死”
+17:33:39  INFO    [🇰🇷 韓國] 週日全國大雨...全羅南道南部海岸及濟州山區謹防大雨
+17:33:39  INFO    [🇰🇷 韓國] 吳世勳“我們需要與支持尹的人保持關係......公民對保守主義的期望仍然存在。”
+17:33:41  INFO    [🇰🇷 韓國] 鄭清來是 DJ 的出生地，金珉錫的家在益山…這個週末在湖南興奮起來
+17:33:42  INFO    [🇰🇷 韓國] “美伊談判預計將於11日在巴基斯坦恢復…包括核討論”
+17:33:43  INFO    [🇺🇸 美國] Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th
+17:33:43  INFO    [🇺🇸 美國] America250: How the US heatwave will affect Fourth of July celebrations
+17:33:43  INFO    [🇺🇸 美國] ‘All men are created equal’: America has lost its values. It’s time to go back to the founding text | Ted Widmer
+17:33:43  INFO    [🇺🇸 美國] Massive Crowds Gather in Tehran for Khamenei’s Six-Day Funeral
+17:33:43  INFO    [🇺🇸 美國] 'Cautiously optimistic': Swing voters describe their view of America at 250
+17:33:43  INFO    [🇺🇸 美國] Fourth of July Live Updates: America Celebrates Its 250th Birthday
+17:33:59  INFO  
+🖥️  產生 HTML 報告...
+17:33:59  INFO  
+✅  HTML：報告_20260704_1733.html
+17:33:59  INFO  ✅  CSV：機會分析_20260704_1733.csv
+17:33:59  INFO  📝  Log：logs/scan_20260704_173222.log
