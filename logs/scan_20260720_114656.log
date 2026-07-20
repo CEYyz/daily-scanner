@@ -1,0 +1,105 @@
+11:46:56  INFO  ======================================================================
+11:46:56  INFO  🔥  每日機會分析系統 v10
+11:46:56  INFO  📅  2026-07-20 11:46
+11:46:56  INFO  ======================================================================
+11:46:56  INFO  
+① 🌕  CRYPTO
+11:46:57  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+11:46:57  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+11:46:58  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+11:46:59  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+11:47:00  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+11:47:01  INFO    ✅ Crypto 0 筆
+11:47:01  INFO  
+② 📈  股票
+11:47:01  INFO    [台] 3293.TWO     鈊象電子         $    706.00  +2.92% 多空分歧
+11:47:01  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$678.6 ~ $692.2  止損：$661.5
+11:47:03  INFO    [台] 00909.TW     國泰智能電動車ETF   $     43.27  +0.53% 多空分歧
+11:47:03  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$42.3 ~ $43.1  止損：$41.7
+11:47:04  INFO    [台] 0056.TW      元大高股息        $     49.95  -1.58% 多空分歧
+11:47:04  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$48.8 ~ $49.8  止損：$47.6
+11:47:05  INFO    [台] 6111.TWO     6111擎亞       $     40.80  +2.00% 多空分歧
+11:47:05  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$39.0 ~ $39.7  止損：$38.0
+11:47:06  INFO    [台] 00878.TW     國泰永續高股息      $     31.36  -1.41% 多空分歧
+11:47:06  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$30.9 ~ $31.6  止損：$30.2
+11:47:07  INFO    [台] 3017.TW      奇鋐           $  2,135.00  -2.95% 多空分歧
+11:47:07  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,984.0 ~ $2,023.9  止損：$1,954.5
+11:47:09  INFO    [台] 00713.TW     元大高息低波       $     60.20  -0.08% 多空分歧
+11:47:09  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$59.3 ~ $60.5  止損：$57.8
+11:47:10  INFO    [台] 00919.TW     群益台灣精選高息     $     28.55  -1.31% 多空分歧
+11:47:10  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$28.3 ~ $28.8  止損：$27.6
+11:47:11  INFO    [美] NVDA         NVIDIA       $    202.81  -2.21% 多空分歧
+11:47:11  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$188.4 ~ $192.2  止損：$184.1
+11:47:12  INFO    [美] GEV          GE Vernova   $  1,057.84  +2.09% 多空分歧
+11:47:12  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$977.1 ~ $996.7  止損：$952.5
+11:47:13  INFO    [台] 2330.TW      台積電          $  2,320.00  +1.31% 多空分歧
+11:47:13  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,278.6 ~ $2,324.3  止損：$2,221.3
+11:47:14  INFO    [美] AMD          AMD          $    495.76  -1.03% 多空分歧
+11:47:14  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$457.9 ~ $467.1  止損：$446.4
+11:47:15  INFO    [美] TSM          台積電ADR       $    398.37  -2.77% 多空分歧
+11:47:15  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$384.1 ~ $391.8  止損：$374.4
+11:47:17  INFO    [台] 2317.TW      鴻海           $    234.50  +0.21% 多空分歧
+11:47:17  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$228.8 ~ $233.4  止損：$223.1
+11:47:18  INFO    [台] 2530.TW      華建           $     20.05  +2.82% 多空分歧
+11:47:18  INFO             買入點：— 目前無買入信號  進場區：$18.3 ~ $18.6  止損：$17.8
+11:47:19  INFO    [美] MU           美光           $    848.95  -0.50% 多空分歧
+11:47:19  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$798.8 ~ $814.9  止損：$779.9
+11:47:20  INFO    [美] LRCX         科林研發         $    313.30  -2.39% 多空分歧
+11:47:20  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$294.0 ~ $299.9  止損：$289.7
+11:47:22  INFO    [台] 00631L.TW    元大台灣50正2     $     32.06  -0.34% 多空分歧
+11:47:22  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$31.5 ~ $32.2  止損：$30.7
+11:47:23  INFO    [台] 00910.TW     第一金太空衛星      $     54.65  +2.34% 多空分歧
+11:47:23  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$53.0 ~ $54.0  止損：$51.7
+11:47:24  INFO    [台] 2308.TW      台達電          $  1,705.00  -2.01% 多空分歧
+11:47:24  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,656.7 ~ $1,690.0  止損：$1,615.0
+11:47:24  INFO    ⏰ 11:xx 外資 16:30 後更新
+11:47:24  INFO    ✅ 股票 20 筆
+11:47:24  INFO  
+③ 🌟  生活熱門趨勢
+11:47:24  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+11:47:25  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+11:47:28  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+11:47:32  WARNING    [居家生活] The request failed: Google returned a response with code 429
+11:47:35  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+11:47:38  WARNING    [健康運動] The request failed: Google returned a response with code 429
+11:47:42  INFO    [旅遊交通] 熱度:28 動能:-11% 最熱關鍵字：機票 ❄️
+11:47:44  INFO    💬 Dcard 熱門...
+11:47:44  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+11:47:44  INFO    📋 PTT 熱門...
+11:47:44  WARNING      ⚠️  www.ptt.cc → ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+11:47:45  INFO    [PTT/Stock] [爆] [情報] 0720 上市外資買賣超排行
+11:47:45  INFO    [PTT/Stock] [6] Re: [新聞] 聯電接單爆滿評估南科擴廠 受惠高通、英
+11:47:45  INFO    [PTT/Stock] [7] [情報] 5328 華容 6月自結:0.27 年增:237.50%
+11:47:45  INFO    [PTT/Stock] [爆] [新聞] 國巨開盤15分鐘跌停打破瑤池金母金身　00
+11:47:46  INFO    [PTT/beauty] [14] [神人] 中職明星賽day2工作人員
+11:47:46  INFO    [PTT/beauty] [] [正妹] Ela Beeri 以色列女孩
+11:47:46  INFO    [PTT/beauty] [爆] [公告] 不願上表特 ＆ 優文推薦 ＆ 檢舉建議專區
+11:47:46  INFO    [PTT/beauty] [2] [公告] 口罩文會退文
+11:47:46  INFO    [PTT/beauty] [] [公告] 表特板板規(2022.10.22)
+11:47:47  INFO    [PTT/movie] [] [新聞] 千黛亞《奧德賽》宣傳造型一次看！多套
+11:47:47  INFO    [PTT/movie] [1] [新聞] 《決勝時刻》真人電影確定設定 現代戰爭
+11:47:47  INFO    [PTT/movie] [] [公告] 電影板板規 2025/10/26
+11:47:47  INFO    [PTT/movie] [] [公告] 政治電影新聞張貼規範
+11:47:48  INFO    [PTT/food] [] [食記] 八德興仁花園夜市。久米大稻 麻油雞飯
+11:47:48  INFO    [PTT/food] [] [食記] 韓國首爾 Le Café Louis Vuitton Maison 品牌溢價
+11:47:48  INFO    [PTT/food] [] [公告] Food板 板規 V3.91
+11:47:48  INFO    [PTT/food] [18] [公告] 發文請在標題加上地區及提供地址電話。^^
+11:47:48  INFO    [PTT/food] [] [公告] 文章被刪除者請洽精華區的資源回收桶
+11:47:48  INFO    📺 YouTube 台灣熱門...
+11:47:49  INFO    🎵 TikTok...
+11:47:59  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=tiktok+trending+products+taiwan&hl=zh-TW&gl=TW&ceid=TW:zh-Hant&tbs=qdr:d
+11:47:59  INFO    🛍️  Shopee 台灣熱銷...
+11:48:02  INFO    💬 Reddit 熱賣（本週）...
+11:48:02  INFO    ✅ 生活趨勢完成
+11:48:02  INFO  
+④ 📰  消息面
+11:48:08  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+11:48:18  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja
+11:48:26  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko
+11:48:32  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+11:48:44  INFO  
+🖥️  產生 HTML 報告...
+11:48:44  INFO  
+✅  HTML：報告_20260720_1148.html
+11:48:44  INFO  ✅  CSV：機會分析_20260720_1148.csv
+11:48:44  INFO  📝  Log：logs/scan_20260720_114656.log
