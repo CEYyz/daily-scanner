@@ -1,0 +1,133 @@
+10:18:23  INFO  ======================================================================
+10:18:23  INFO  🔥  每日機會分析系統 v10
+10:18:23  INFO  📅  2026-08-10 10:18
+10:18:23  INFO  ======================================================================
+10:18:23  INFO  
+① 🌕  CRYPTO
+10:18:23  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+10:18:23  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+10:18:24  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+10:18:24  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+10:18:25  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+10:18:25  INFO    ✅ Crypto 0 筆
+10:18:25  INFO  
+② 📈  股票
+10:18:26  INFO    [台] 3293.TWO     鈊象電子         $    792.00  -0.88% 三線多頭
+10:18:26  INFO             買入點：— 目前無買入信號  進場區：$664.3 ~ $677.6  止損：$661.5
+10:18:27  INFO    [台] 00909.TW     國泰智能電動車ETF   $     44.42  +0.29% 多空分歧
+10:18:27  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$41.4 ~ $42.2  止損：$40.3
+10:18:27  INFO    [台] 0056.TW      元大高股息        $     52.45  +2.74% 偏多
+10:18:27  INFO             買入點：— 目前無買入信號  進場區：$45.6 ~ $46.5  止損：$44.5
+10:18:28  INFO    [台] 6111.TWO     6111擎亞       $     37.50  +1.35% 三線空頭
+10:18:28  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$35.6 ~ $36.3  止損：$34.7
+10:18:29  INFO    [台] 00878.TW     國泰永續高股息      $     33.40  +1.80% 偏多
+10:18:29  INFO             買入點：— 目前無買入信號  進場區：$30.1 ~ $30.8  止損：$29.4
+10:18:30  INFO    [台] 3017.TW      奇鋐           $  2,765.00  -0.72% 三線多頭
+10:18:30  INFO             買入點：— 目前無買入信號  進場區：$1,866.4 ~ $1,903.9  止損：$1,954.5
+10:18:31  INFO    [台] 00713.TW     元大高息低波       $     61.25  -0.08% 偏多
+10:18:31  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$59.0 ~ $60.2  止損：$57.5
+10:18:31  INFO    [台] 00919.TW     群益台灣精選高息     $     30.03  +0.98% 三線多頭
+10:18:31  INFO             買入點：— 目前無買入信號  進場區：$27.8 ~ $28.4  止損：$27.1
+10:18:32  INFO    [美] NVDA         NVIDIA       $    223.96  +2.27% 三線多頭
+10:18:32  INFO             買入點：— 目前無買入信號  進場區：$188.6 ~ $192.4  止損：$184.3
+10:18:33  INFO    [美] GEV          GE Vernova   $    990.32  -1.00% 多空分歧
+10:18:33  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$893.2 ~ $911.1  止損：$870.7
+10:18:34  INFO    [台] 2330.TW      台積電          $  2,380.00  +0.42% 偏多
+10:18:34  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,169.1 ~ $2,212.7  止損：$2,114.6
+10:18:34  INFO    [美] AMD          AMD          $    483.36  -1.21% 多空分歧
+10:18:34  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$421.9 ~ $430.4  止損：$411.3
+10:18:35  INFO    [美] TSM          台積電ADR       $    420.04  +0.44% 多空分歧
+10:18:35  INFO             買入點：— 目前無買入信號  進場區：$370.9 ~ $378.3  止損：$361.5
+10:18:36  INFO    [台] 2317.TW      鴻海           $    264.50  +1.73% 三線多頭
+10:18:36  INFO             買入點：— 目前無買入信號  進場區：$225.0 ~ $229.5  止損：$219.7
+10:18:37  INFO    [台] 2530.TW      華建           $     19.40  -0.26% 偏空
+10:18:37  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$18.6 ~ $19.0  止損：$18.4
+10:18:38  INFO    [美] MU           美光           $    877.57  -0.44% 多空分歧
+10:18:38  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$734.2 ~ $748.9  止損：$715.7
+10:18:39  INFO    [美] LRCX         科林研發         $    311.35  +1.82% 多空分歧
+10:18:39  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$249.2 ~ $254.3  止損：$243.0
+10:18:40  INFO    [台] 00631L.TW    元大台灣50正2     $     34.70  +3.03% 多空分歧
+10:18:40  INFO             買入點：— 目前無買入信號  進場區：$27.2 ~ $27.8  止損：$26.5
+10:18:40  INFO    [台] 00910.TW     第一金太空衛星      $     64.05  +4.91% 多空分歧
+10:18:40  INFO             買入點：— 目前無買入信號  進場區：$50.1 ~ $51.1  止損：$50.0
+10:18:41  INFO    [台] 2308.TW      台達電          $  1,815.00 +10.00% 多空分歧
+10:18:41  INFO             買入點：— 目前無買入信號  進場區：$1,417.9 ~ $1,446.4  止損：$1,382.2
+10:18:42  INFO    ⏰ 10:xx 外資 16:30 後更新
+10:18:42  INFO    ✅ 股票 20 筆
+10:18:42  INFO  
+③ 🌟  生活熱門趨勢
+10:18:42  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+10:18:42  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+10:18:45  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+10:18:49  WARNING    [居家生活] The request failed: Google returned a response with code 429
+10:18:52  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+10:18:55  WARNING    [健康運動] The request failed: Google returned a response with code 429
+10:18:58  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+10:19:01  INFO    💬 Dcard 熱門...
+10:19:01  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+10:19:01  INFO    📋 PTT 熱門...
+10:19:02  INFO    [PTT/Gossiping] [4] [問卦] 跑步幫妹子擋風有加分嗎
+10:19:02  INFO    [PTT/Gossiping] [2] [新聞] 加薪跑贏通膨！上半年實質月薪年增1.16％
+10:19:02  INFO    [PTT/Gossiping] [6] [問卦] 台灣人是不是該去靖國神社拉屎了？？？
+10:19:02  INFO    [PTT/Gossiping] [1] [問卦] 猛健樂森友會關站的八卦?
+10:19:02  INFO    [PTT/Gossiping] [9] [新聞] 殘殺40隻倉鼠！虐鼠男大生考取研究所 成大
+10:19:03  INFO    [PTT/Stock] [31] [情報] 2316 楠梓電 7月營收 年增74%
+10:19:03  INFO    [PTT/Stock] [15] [情報] 毒油三龍～ 115年7月營收
+10:19:03  INFO    [PTT/Stock] [22] [新聞]台積電傳砸逾300億元買友達中科廠 「面板
+10:19:03  INFO    [PTT/Stock] [1] [情報] 健和興 3003    7月營收
+10:19:03  INFO    [PTT/Stock] [12] [情報] 8112至上 7月營收
+10:19:04  INFO    [PTT/beauty] [9] [正妹] 安琪
+10:19:04  INFO    [PTT/beauty] [4] [正妹] 大 蜘蛛人
+10:19:04  INFO    [PTT/beauty] [] [正妹] 茉莉
+10:19:04  INFO    [PTT/beauty] [] [正妹] 羽娜
+10:19:04  INFO    [PTT/beauty] [] [正妹] 小雲
+10:19:05  INFO    [PTT/movie] [19] [討論]《奧德賽》全球票房11億美元！諾蘭最賣電影
+10:19:05  INFO    [PTT/movie] [30] [新聞]《蜘蛛人》北美6.5億美元全球票房16.7億！
+10:19:05  INFO    [PTT/movie] [16] [討論] 新烏龍院這部當年的卡司
+10:19:05  INFO    [PTT/movie] [1] [好雷] 《再生家族》「新自然」世界倫理的可能
+10:19:07  INFO    [PTT/food] [1] [食記] 桃園市中壢區。好食在好吃雞肉
+10:19:07  INFO    [PTT/food] [1] [食記] 東京 MoMo Paradise | A5和牛無限享用
+10:19:07  INFO    [PTT/food] [6] [食記] 韓國首爾 金豬食堂 排隊實測 米其林必比登
+10:19:07  INFO    [PTT/food] [] [食記] 日本名古屋大須商店街。新雀本店
+10:19:07  INFO    [PTT/food] [] [食記] 日本 Bakery&Restaurant 澤村 名古屋
+10:19:07  INFO    📺 YouTube 台灣熱門...
+10:19:07  INFO    🎵 TikTok...
+10:19:11  INFO    [TikTok] #1 Seeing is not believing (part II) - AI videos spread during 
+10:19:11  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+10:19:11  INFO    [TikTok] #3 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+10:19:11  INFO    [TikTok] #4 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+10:19:11  INFO    🛍️  Shopee 台灣熱銷...
+10:19:15  INFO    💬 Reddit 熱賣（本週）...
+10:19:15  INFO    ✅ 生活趨勢完成
+10:19:15  INFO  
+④ 📰  消息面
+10:19:15  INFO    [🇹🇼 台灣] 巴威、白海豚雙颱1個月內登陸同地中國小粉紅崩潰：美帝氣象武器- 國際
+10:19:15  INFO    [🇹🇼 台灣] 首次行動斷網演習來了！時間地區、影響一次看 NCC提醒先做好3件事
+10:19:15  INFO    [🇹🇼 台灣] 在日內瓦吃法國米其林大餐延誤班機又重買機票？ 王育敏：問外交部
+10:19:15  INFO    [🇹🇼 台灣] 蔣萬安再喊政府擋疫苗綠委搬時間序轟：為了選舉造謠本質全都露| 政治
+10:19:15  INFO    [🇹🇼 台灣] 風暴延燒 兆基案6000包租代管社宅燙手
+10:19:15  INFO    [🇹🇼 台灣] 台北選戰鬆動訊號：蔣萬安支持聲量「動員疲乏」，沈伯洋持續跨出同溫層| 政治
+10:19:18  INFO    [🇯🇵 日本] 15號颱風從東部穿越本州？如果它從福島/茨城登陸，這將是有史以來的第一次
+10:19:19  INFO    [🇯🇵 日本] 琵琶湖煙火大會宣布取消；無須申請使用火藥 - 滋賀縣：Jiji.com
+10:19:21  INFO    [🇯🇵 日本] 水災：新潟市角田濱海灘附近兩名男子、一名婦女和一名男孩心肺驟停（2026 年 8 月 9 日發布）| NTV 新聞 NNN
+10:19:23  INFO    [🇯🇵 日本] 美國報紙報道，美國尋求在沒有核協議的情況下結束“勝利宣言”，但伊朗提出的“六個條件”的要求使其變得困難
+10:19:24  INFO    [🇯🇵 日本] 熊本地震：39人死亡，其中疑似因災死亡； 6,165人被疏散至疏散中心
+10:19:25  INFO    [🇯🇵 日本] 我的寵物山羊失踪了，當我用無人機檢查它時…我發現它在灌木叢中被棕熊襲擊了。
+10:19:27  INFO    [🇰🇷 韓國] [突發新聞]姜勳植「年內推動大型特區特別法」…工會需要討論每週工作52小時的例外情況
+10:19:28  INFO    [🇰🇷 韓國] 金珉錫“我容忍了在野黨的胡言亂語，但鄭清來的‘選舉勝利’言論讓我非常生氣。”
+10:19:29  INFO    [🇰🇷 韓國] 即使民主黨內部也有反對聲…黃熙“無論規劃公車站的原因如何都道歉”
+10:19:31  INFO    [🇰🇷 韓國] 【爆料】第15號颱風「燦宏」路徑經過日本前往東海…海豚和飛柔呢？
+10:19:32  INFO    [🇰🇷 韓國] 金健熙：“第一夫人的每一種顏色的衣服都需要一個手拿包……我買了很多假貨。”
+10:19:34  INFO    [🇰🇷 韓國] 一名在教會長大 11 年的孩子死亡…“已被舉報 4 次涉嫌虐待”
+10:19:34  INFO    [🇺🇸 美國] Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal
+10:19:34  INFO    [🇺🇸 美國] Oil Prices Climb and Stocks Dip on Stalemate in Iran War
+10:19:34  INFO    [🇺🇸 美國] An arts school where Epstein allegedly preyed on students reveals decades of abuse
+10:19:34  INFO    [🇺🇸 美國] Live Updates: Trump says U.S. only "semi-negotiating" with Iran after Tehran sets demands to reopen Strait of Hormuz
+10:19:34  INFO    [🇺🇸 美國] Bernie's revolution gets a test run for 2028 in Michigan and Wisconsin
+10:19:34  INFO    [🇺🇸 美國] Western Europe sets new temperature record as heat waves pummel the region
+10:19:48  INFO  
+🖥️  產生 HTML 報告...
+10:19:48  INFO  
+✅  HTML：報告_20260810_1019.html
+10:19:48  INFO  ✅  CSV：機會分析_20260810_1019.csv
+10:19:48  INFO  📝  Log：logs/scan_20260810_101823.log
