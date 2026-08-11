@@ -1,0 +1,134 @@
+10:01:28  INFO  ======================================================================
+10:01:28  INFO  🔥  每日機會分析系統 v10
+10:01:28  INFO  📅  2026-08-11 10:01
+10:01:28  INFO  ======================================================================
+10:01:28  INFO  
+① 🌕  CRYPTO
+10:01:28  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+10:01:29  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+10:01:29  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+10:01:30  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+10:01:31  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+10:01:31  INFO    ✅ Crypto 0 筆
+10:01:31  INFO  
+② 📈  股票
+10:01:32  INFO    [台] 3293.TWO     鈊象電子         $    804.00  +1.52% 三線多頭
+10:01:32  INFO             買入點：— 目前無買入信號  進場區：$664.4 ~ $677.8  止損：$661.5
+10:01:33  INFO    [台] 00909.TW     國泰智能電動車ETF   $     43.63  -1.78% 多空分歧
+10:01:33  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$41.4 ~ $42.2  止損：$40.3
+10:01:34  INFO    [台] 0056.TW      元大高股息        $     52.30  -0.29% 三線多頭
+10:01:34  INFO             買入點：— 目前無買入信號  進場區：$45.6 ~ $46.5  止損：$44.5
+10:01:35  INFO    [台] 6111.TWO     6111擎亞       $     37.60  +0.27% 偏空
+10:01:35  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$35.4 ~ $36.1  止損：$34.7
+10:01:36  INFO    [台] 00878.TW     國泰永續高股息      $     33.47  +0.21% 三線多頭
+10:01:36  INFO             買入點：— 目前無買入信號  進場區：$30.1 ~ $30.8  止損：$29.4
+10:01:37  INFO    [台] 3017.TW      奇鋐           $  2,760.00  -0.18% 偏多
+10:01:37  INFO             買入點：— 目前無買入信號  進場區：$1,889.2 ~ $1,927.2  止損：$1,954.5
+10:01:39  INFO    [台] 00713.TW     元大高息低波       $     61.05  -0.33% 偏多
+10:01:39  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$59.0 ~ $60.2  止損：$57.5
+10:01:40  INFO    [台] 00919.TW     群益台灣精選高息     $     30.12  +0.30% 三線多頭
+10:01:40  INFO             買入點：— 目前無買入信號  進場區：$27.8 ~ $28.4  止損：$27.1
+10:01:41  INFO    [美] NVDA         NVIDIA       $    217.55  -2.86% 三線多頭
+10:01:41  INFO             買入點：— 目前無買入信號  進場區：$188.8 ~ $192.6  止損：$184.3
+10:01:42  INFO    [美] GEV          GE Vernova   $    990.85  +0.05% 多空分歧
+10:01:42  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$893.2 ~ $911.1  止損：$870.7
+10:01:43  INFO    [台] 2330.TW      台積電          $  2,395.00  +0.63% 三線多頭
+10:01:43  INFO             買入點：— 目前無買入信號  進場區：$2,169.1 ~ $2,212.7  止損：$2,114.6
+10:01:44  INFO    [美] AMD          AMD          $    469.56  -2.86% 多空分歧
+10:01:44  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$421.9 ~ $430.4  止損：$411.3
+10:01:45  INFO    [美] TSM          台積電ADR       $    418.47  -0.37% 三線多頭
+10:01:45  INFO             買入點：— 目前無買入信號  進場區：$370.9 ~ $378.3  止損：$361.5
+10:01:46  INFO    [台] 2317.TW      鴻海           $    263.00  -0.57% 三線多頭
+10:01:46  INFO             買入點：— 目前無買入信號  進場區：$225.4 ~ $229.9  止損：$219.7
+10:01:47  INFO    [台] 2530.TW      華建           $     19.25  -0.77% 偏空
+10:01:47  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$18.6 ~ $19.0  止損：$18.4
+10:01:48  INFO    [美] MU           美光           $    861.00  -1.89% 多空分歧
+10:01:48  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$734.2 ~ $748.9  止損：$715.7
+10:01:50  INFO    [美] LRCX         科林研發         $    306.40  -1.59% 多空分歧
+10:01:50  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$249.2 ~ $254.3  止損：$243.0
+10:01:51  INFO    [台] 00631L.TW    元大台灣50正2     $     34.87  +0.49% 偏多
+10:01:51  INFO             買入點：— 目前無買入信號  進場區：$27.2 ~ $27.8  止損：$26.5
+10:01:52  INFO    [台] 00910.TW     第一金太空衛星      $     63.00  -1.64% 多空分歧
+10:01:52  INFO             買入點：— 目前無買入信號  進場區：$49.8 ~ $50.8  止損：$50.0
+10:01:53  INFO    [台] 2308.TW      台達電          $  1,805.00  -0.55% 多空分歧
+10:01:53  INFO             買入點：— 目前無買入信號  進場區：$1,417.9 ~ $1,446.4  止損：$1,382.2
+10:01:53  INFO    ⏰ 10:xx 外資 16:30 後更新
+10:01:53  INFO    ✅ 股票 20 筆
+10:01:53  INFO  
+③ 🌟  生活熱門趨勢
+10:01:53  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+10:01:54  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+10:01:57  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+10:02:00  WARNING    [居家生活] The request failed: Google returned a response with code 429
+10:02:03  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+10:02:07  WARNING    [健康運動] The request failed: Google returned a response with code 429
+10:02:10  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+10:02:13  INFO    💬 Dcard 熱門...
+10:02:13  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+10:02:13  INFO    📋 PTT 熱門...
+10:02:14  INFO    [PTT/Gossiping] [] [問卦] 阿北老婆帶兒子去禁區會發生什麼事？
+10:02:14  INFO    [PTT/Gossiping] [3] [問卦] 崑山龍哥正當防衛案在台灣可能嗎
+10:02:14  INFO    [PTT/Gossiping] [] [問卦] 南部兜風的好地點?
+10:02:14  INFO    [PTT/Gossiping] [4] [問卦] 台中持刀阿伯，判決參考昆山龍哥案吧？
+10:02:14  INFO    [PTT/Gossiping] [] [問卦] 幸福者退讓原則都是對的吧
+10:02:14  INFO    [PTT/Stock] [31] [情報] 2383 台光電 7月營收
+10:02:14  INFO    [PTT/Stock] [98] [情報] 0811 上市外資買賣超排行
+10:02:14  INFO    [PTT/Stock] [27] [情報] 2353 宏碁 7月營收
+10:02:14  INFO    [PTT/Stock] [7] [情報] 7711 永擎 7月自結:7.18 年增:1032.47%
+10:02:14  INFO    [PTT/Stock] [10] [情報] 5351 鈺創 7月自結:2.32 年增:2,678%
+10:02:15  INFO    [PTT/beauty] [46] [正妹] 安琪
+10:02:15  INFO    [PTT/beauty] [3] [正妹] 大 蜘蛛人
+10:02:15  INFO    [PTT/beauty] [1] [正妹] 茉莉
+10:02:15  INFO    [PTT/beauty] [2] [正妹] 羽娜
+10:02:15  INFO    [PTT/beauty] [12] [正妹] 小雲
+10:02:16  INFO    [PTT/movie] [8] [請益] 銀翼殺手戴克最後被救是因為他是XXX?(雷)
+10:02:16  INFO    [PTT/movie] [57] [新聞] 「奧德賽」、「蜘蛛人」都有她  千黛亞
+10:02:16  INFO    [PTT/movie] [16] [新聞] 《英雄本色》上映40周年：一部電影如何
+10:02:16  INFO    [PTT/movie] [6] [新聞] 布萊德彼特:AI可以幫更多中等預算電影
+10:02:16  INFO    [PTT/movie] [10] [ 負雷] 橡樹街末日 美麗華首映感想 . . .有雷
+10:02:17  INFO    [PTT/food] [] [食記] 日本名古屋—熱田蓬萊軒｜傳承百年的鰻魚飯三吃元祖 備長炭
+10:02:17  INFO    [PTT/food] [] [食記] 台北中山 夏慕尼
+10:02:17  INFO    [PTT/food] [] [食記] 桃園市桃園區。神明神明雞蛋糕
+10:02:17  INFO    [PTT/food] [] [公告] Food板 板規 V3.91
+10:02:17  INFO    [PTT/food] [18] [公告] 發文請在標題加上地區及提供地址電話。^^
+10:02:18  INFO    📺 YouTube 台灣熱門...
+10:02:18  INFO    🎵 TikTok...
+10:02:22  INFO    [TikTok] #1 Seeing is not believing (part II) - AI videos spread during 
+10:02:22  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+10:02:22  INFO    [TikTok] #3 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+10:02:22  INFO    [TikTok] #4 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+10:02:22  INFO    🛍️  Shopee 台灣熱銷...
+10:02:25  INFO    💬 Reddit 熱賣（本週）...
+10:02:26  INFO    ✅ 生活趨勢完成
+10:02:26  INFO  
+④ 📰  消息面
+10:02:26  INFO    [🇹🇼 台灣] 朝野協商傅崐萁又缺席！韓國瑜震怒 要他辭掉總召
+10:02:26  INFO    [🇹🇼 台灣] 為「眾量級」頻道開撕Andy！家寧一審判無罪 爸媽、妹妹下場出爐
+10:02:26  INFO    [🇹🇼 台灣] 快訊／雨彈開炸！「7縣市」大雨特報　一路下到晚上
+10:02:26  INFO    [🇹🇼 台灣] 大陸橡皮艇又登陸北部海岸 海巡署證實2偷渡客羈押、署長道歉
+10:02:26  INFO    [🇹🇼 台灣] 神鬼律師詐慈濟2／騙慈濟十億還不夠　神鬼律師又盯上郭台銘
+10:02:26  INFO    [🇹🇼 台灣] 虐殺40隻倉鼠 成大準研究生惹議
+10:02:27  INFO    [🇯🇵 日本] 熊本永旺購物中心發生爆炸，造成7人死亡，地震後「我們暫時允許進入」是事實…員工要求收走貴重物品
+10:02:28  INFO    [🇯🇵 日本] 15號颱風11日對交通運輸（鐵路、高速公路、航空服務）的影響
+10:02:29  INFO    [🇯🇵 日本] 由於伊朗暗殺威脅，川普秘密使用另一架飛機離開土耳其 - 美國報紙
+10:02:30  INFO    [🇯🇵 日本] 一位母親和兩個兒子住在儲藏室裡……他們的家在熊本地震中受損，緊張和焦慮將他們的精神和體力推向了極限。
+10:02:32  INFO    [🇯🇵 日本] 總理感言（關於 H3 9 號火箭成功發射 Michibiki 7 號）
+10:02:33  INFO    [🇯🇵 日本] 哥倫比亞M7.4地震為近年來最大地震，已造成130多人死亡
+10:02:36  INFO    [🇰🇷 韓國] [社論] 儘管收到了 4 起虐待兒童的報告，但天安市一座教堂的一名兒童死亡事件仍無法避免。
+10:02:37  INFO    [🇰🇷 韓國] 李：“有沒有100%不需要修改的方案？如果有異議，我們就應該接受。”
+10:02:39  INFO    [🇰🇷 韓國] 中國航運公司在北極航線上開通首條定期貨櫃服務 - 韓國國際貿易協會-KITA.NET
+10:02:40  INFO    [🇰🇷 韓國] 「健康保險國庫支持」10年來缺口19.4兆韓元…不符合法律標準
+10:02:41  INFO    [🇰🇷 韓國] 川普：“我還要求伊朗賠償”…霍爾木茲協議“讓事情變得更糟”
+10:02:43  INFO    [🇰🇷 韓國] 민주 당심, 호남서도 갈린다…광주·전남 ‘명분’, 전북 ‘실리’
+10:02:44  INFO    [🇺🇸 美國] Live updates: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia
+10:02:44  INFO    [🇺🇸 美國] Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat
+10:02:44  INFO    [🇺🇸 美國] Wisconsin and Minnesota primaries next to feature clashes between progressive and establishment Democrats
+10:02:44  INFO    [🇺🇸 美國] Trump demands compensation from Iran as talks on Strait of Hormuz continue
+10:02:44  INFO    [🇺🇸 美國] Trump signs executive order to split up MMR vaccine
+10:02:44  INFO    [🇺🇸 美國] Jackie, the California bald eagle who became an internet sensation, dies after illness
+10:02:57  INFO  
+🖥️  產生 HTML 報告...
+10:02:57  INFO  
+✅  HTML：報告_20260811_1002.html
+10:02:57  INFO  ✅  CSV：機會分析_20260811_1002.csv
+10:02:57  INFO  📝  Log：logs/scan_20260811_100128.log
