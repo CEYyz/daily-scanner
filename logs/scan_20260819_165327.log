@@ -1,0 +1,132 @@
+16:53:27  INFO  ======================================================================
+16:53:27  INFO  🔥  每日機會分析系統 v10
+16:53:27  INFO  📅  2026-08-19 16:53
+16:53:27  INFO  ======================================================================
+16:53:27  INFO  
+① 🌕  CRYPTO
+16:53:28  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+16:53:29  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+16:53:29  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+16:53:30  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+16:53:31  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+16:53:31  INFO    ✅ Crypto 0 筆
+16:53:31  INFO  
+② 📈  股票
+16:53:32  INFO    [台] 3293.TWO     鈊象電子         $       nan   +nan% 多空分歧
+16:53:32  INFO             買入點：— 目前無買入信號  進場區：$704.5 ~ $718.6  止損：$686.8
+16:53:33  INFO    [台] 00909.TW     國泰智能電動車ETF   $       nan   +nan% 多空分歧
+16:53:33  INFO             買入點：— 目前無買入信號  進場區：$41.4 ~ $42.2  止損：$40.3
+16:53:34  INFO    [台] 0056.TW      元大高股息        $       nan   +nan% 三線多頭
+16:53:34  INFO             買入點：— 目前無買入信號  進場區：$45.6 ~ $46.5  止損：$44.5
+16:53:35  INFO    [台] 6111.TWO     6111擎亞       $       nan   +nan% 三線空頭
+16:53:35  INFO             買入點：— 目前無買入信號  進場區：$35.6 ~ $36.3  止損：$34.7
+16:53:36  INFO    [台] 00878.TW     國泰永續高股息      $       nan   +nan% 偏多
+16:53:36  INFO             買入點：— 目前無買入信號  進場區：$29.2 ~ $29.8  止損：$28.5
+16:53:37  INFO    [台] 3017.TW      奇鋐           $       nan   +nan% 多空分歧
+16:53:37  INFO             買入點：— 目前無買入信號  進場區：$1,998.0 ~ $2,038.2  止損：$1,947.8
+16:53:39  INFO    [台] 00713.TW     元大高息低波       $       nan   +nan% 多空分歧
+16:53:39  INFO             買入點：— 目前無買入信號  進場區：$59.0 ~ $60.2  止損：$57.5
+16:53:40  INFO    [台] 00919.TW     群益台灣精選高息     $       nan   +nan% 三線多頭
+16:53:40  INFO             買入點：— 目前無買入信號  進場區：$27.8 ~ $28.4  止損：$27.1
+16:53:41  INFO    [美] NVDA         NVIDIA       $    219.17  -0.26% 多空分歧
+16:53:41  INFO             買入點：— 目前無買入信號  進場區：$188.5 ~ $192.3  止損：$184.3
+16:53:42  INFO    [美] GEV          GE Vernova   $    980.35  -2.41% 多空分歧
+16:53:42  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$893.2 ~ $911.1  止損：$870.7
+16:53:43  INFO    [台] 2330.TW      台積電          $       nan   +nan% 多空分歧
+16:53:43  INFO             買入點：— 目前無買入信號  進場區：$2,169.1 ~ $2,212.7  止損：$2,114.6
+16:53:44  INFO    [美] AMD          AMD          $    468.17  -3.35% 多空分歧
+16:53:44  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$421.9 ~ $430.4  止損：$411.3
+16:53:45  INFO    [美] TSM          台積電ADR       $    413.51  +0.02% 多空分歧
+16:53:45  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$370.9 ~ $378.3  止損：$361.5
+16:53:46  INFO    [台] 2317.TW      鴻海           $       nan   +nan% 多空分歧
+16:53:46  INFO             買入點：— 目前無買入信號  進場區：$225.4 ~ $229.9  止損：$219.7
+16:53:47  INFO    [台] 2530.TW      華建           $       nan   +nan% 偏空
+16:53:47  INFO             買入點：— 目前無買入信號  進場區：$18.9 ~ $19.2  止損：$18.4
+16:53:48  INFO    [美] MU           美光           $    937.16  -0.38% 三線多頭
+16:53:48  INFO             買入點：— 目前無買入信號  進場區：$734.2 ~ $748.9  止損：$715.7
+16:53:49  INFO    [美] LRCX         科林研發         $    309.01  -5.77% 多空分歧
+16:53:49  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$249.2 ~ $254.3  止損：$243.0
+16:53:50  INFO    [台] 00631L.TW    元大台灣50正2     $       nan   +nan% 三線多頭
+16:53:50  INFO             買入點：— 目前無買入信號  進場區：$27.2 ~ $27.8  止損：$26.5
+16:53:51  INFO    [台] 00910.TW     第一金太空衛星      $       nan   +nan% 多空分歧
+16:53:51  INFO             買入點：— 目前無買入信號  進場區：$51.2 ~ $52.3  止損：$50.0
+16:53:52  INFO    [台] 2308.TW      台達電          $       nan   +nan% 多空分歧
+16:53:52  INFO             買入點：— 目前無買入信號  進場區：$1,417.9 ~ $1,446.4  止損：$1,382.2
+16:53:54  INFO    ✅ 股票 20 筆
+16:53:54  INFO  
+③ 🌟  生活熱門趨勢
+16:53:54  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+16:53:54  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+16:53:58  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+16:54:01  WARNING    [居家生活] The request failed: Google returned a response with code 429
+16:54:04  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+16:54:08  WARNING    [健康運動] The request failed: Google returned a response with code 429
+16:54:11  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+16:54:14  INFO    💬 Dcard 熱門...
+16:54:14  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+16:54:14  INFO    📋 PTT 熱門...
+16:54:15  INFO    [PTT/Gossiping] [1] [問卦] 是什麼時後開始要穿襪子的？
+16:54:15  INFO    [PTT/Gossiping] [4] [問卦] 王大陸算是最笨的藝人嗎?
+16:54:15  INFO    [PTT/Gossiping] [4] [問卦] 問一部學生打殭屍的片
+16:54:15  INFO    [PTT/Gossiping] [] [新聞] 擴大或遷校？中壢家商校地僅1.21公頃
+16:54:15  INFO    [PTT/Gossiping] [] Re: [問卦] 清朝時廣東、兩江的海都比福建的好嗎？
+16:54:16  INFO    [PTT/Stock] [3] [情報] 2850 新產 Q2 EPS 4.52 累積EPS 8.51
+16:54:16  INFO    [PTT/Stock] [21] Re: [新聞] 美國財政部宣佈：將長期國債回購操作規
+16:54:16  INFO    [PTT/Stock] [64] [請益] 有交易有料的教學嗎
+16:54:16  INFO    [PTT/Stock] [12] Re: [心得] 一個多月指數跌8000點 一堆個股腰斬
+16:54:16  INFO    [PTT/Stock] [42] [新聞] 莫德納聯合默克抗癌疫苗突破 intismeran
+16:54:17  INFO    [PTT/beauty] [] [正妹] Milet
+16:54:17  INFO    [PTT/beauty] [] [正妹] XinU
+16:54:17  INFO    [PTT/beauty] [] [正妹] 秋田そな
+16:54:17  INFO    [PTT/beauty] [1] [正妹] 朴旻曙
+16:54:17  INFO    [PTT/beauty] [] [正妹] 吳瑞律
+16:54:18  INFO    [PTT/movie] [1] [情報] D23有關星戰Starfighter星際戰機導演訪談
+16:54:18  INFO    [PTT/movie] [17] [討論] 漫威的超英電影,不能同角色不同演員繼承?
+16:54:18  INFO    [PTT/movie] [3] [討論] 復聯5 美隊一問
+16:54:18  INFO    [PTT/movie] [19] [討論] 復仇者聯盟5 北美預售大賣
+16:54:18  INFO    [PTT/movie] [6] Re: [討論] 漫威的超英電影,不能同角色不同演員繼承?
+16:54:19  INFO    [PTT/food] [1] [食記] 台北信義 FUGU Japanese Gastropub
+16:54:19  INFO    [PTT/food] [] [食記] 高雄第一豆漿燒餅堡 高雄鼓山 厚實漢堡排
+16:54:19  INFO    [PTT/food] [] [食記] 台北。忠孝Sogo-吉天麩羅~日本天婦羅
+16:54:19  INFO    [PTT/food] [] [食記] 寮國-龍坡邦|Chez Auguste-CaféCreperie
+16:54:19  INFO    [PTT/food] [] [食記] 桃園市新屋區。高平52年老店
+16:54:20  INFO    📺 YouTube 台灣熱門...
+16:54:20  INFO    🎵 TikTok...
+16:54:24  INFO    [TikTok] #1 Seeing is not believing (part II) - AI videos spread during 
+16:54:24  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+16:54:24  INFO    [TikTok] #3 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+16:54:24  INFO    🛍️  Shopee 台灣熱銷...
+16:54:28  INFO    💬 Reddit 熱賣（本週）...
+16:54:28  INFO    ✅ 生活趨勢完成
+16:54:28  INFO  
+④ 📰  消息面
+16:54:29  INFO    [🇹🇼 台灣] 鄭麗文七夕大爆料 曝提名不是王惠美的白馬王子
+16:54:29  INFO    [🇹🇼 台灣] 「沙德爾」颱風生成！ 對台影響、最新路徑曝光- 生活
+16:54:29  INFO    [🇹🇼 台灣] 震傳媒民調／賴清德施政滿意度46.9％　「這縣市」衝破54％成六都最高
+16:54:29  INFO    [🇹🇼 台灣] 天氣／國家警報響！大雷雨猛轟地區曝 17縣市豪大雨特報防雷擊
+16:54:29  INFO    [🇹🇼 台灣] 退撫基金負債2.9兆將枯竭？公教看普發一萬轟：對內砍年資補償金、10年撥補變20年 | 李瑋萱 | 新聞
+16:54:29  INFO    [🇹🇼 台灣] 快新聞／盧秀燕2028選總統夢碎了？藍營四天王最新民調出爐 他支持度最高
+16:54:30  INFO    [🇯🇵 日本] 千葉大暴雨一週後，3000多輛廢棄車輛正在快速拆除…2700間房屋被淹
+16:54:30  INFO    [🇯🇵 日本] 竹中公司員工因世博會建設成本虛增和房屋裝修違反信任罪被捕
+16:54:31  INFO    [🇯🇵 日本] 歐盟「堅定支持」國際刑事法院主任「在沒有外部壓力的情況下運作」以回應美國制裁：時事網
+16:54:32  INFO    [🇯🇵 日本] 一名男子因在東武野田線鐵路道口攔截跟隨車輛而涉嫌謀殺未遂而被捕[埼玉縣]
+16:54:33  INFO    [🇯🇵 日本] 福岡縣議會主席倉內功9月辭職，被指控為混亂負責，否認辭去議員職務
+16:54:33  INFO    [🇯🇵 日本] 韓國軍方宣布「美韓聯合軍演至21日」將縮短至一半左右
+16:54:35  INFO    [🇰🇷 韓國] 李總統“減少韓美演習，尊重川普的決定…期待朝鮮半島和平”
+16:54:37  INFO    [🇰🇷 韓國] 李總統，與金珉錫、鄭清來、宋英吉共進晚餐……金，“為我在戰爭期間的過度表達道歉”，鄭，“我們是在內戰時期跨越火線的同志。”
+16:54:37  INFO    [🇰🇷 韓國] 「希望它不要消失」…據說人跡罕至的龍山公園「逆轉」[現場+]
+16:54:38  INFO    [🇰🇷 韓國] 被稱為「打內戰的公職人員」的兩人…第二名特別檢察官因參與叛亂罪被起訴
+16:54:40  INFO    [🇰🇷 韓國] 民主黨對曹熙大的書面建議感到憤怒...對拒絕任命動議等回應進行審查
+16:54:41  INFO    [🇰🇷 韓國] 我已經迴避了一段時間了…第18號颱風「薩德爾」會影響朝鮮半島嗎？
+16:54:42  INFO    [🇺🇸 美國] A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries
+16:54:42  INFO    [🇺🇸 美國] ‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?
+16:54:42  INFO    [🇺🇸 美國] Losses are piling up for Trump-backed candidates
+16:54:42  INFO    [🇺🇸 美國] Lindsay Clancy was ‘begging for help’ before killing her children, former mother-in-law testifies
+16:54:42  INFO    [🇺🇸 美國] U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries
+16:54:42  INFO    [🇺🇸 美國] U.S. Senate race will have two Dan Sullivans and a Mary Peltola
+16:54:56  INFO  
+🖥️  產生 HTML 報告...
+16:54:56  INFO  
+✅  HTML：報告_20260819_1654.html
+16:54:56  INFO  ✅  CSV：機會分析_20260819_1654.csv
+16:54:56  INFO  📝  Log：logs/scan_20260819_165327.log
