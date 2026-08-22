@@ -1,0 +1,134 @@
+09:28:43  INFO  ======================================================================
+09:28:43  INFO  🔥  每日機會分析系統 v10
+09:28:43  INFO  📅  2026-08-22 09:28
+09:28:43  INFO  ======================================================================
+09:28:43  INFO  
+① 🌕  CRYPTO
+09:28:44  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+09:28:45  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+09:28:45  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+09:28:46  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+09:28:46  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+09:28:47  INFO    ✅ Crypto 0 筆
+09:28:47  INFO  
+② 📈  股票
+09:28:47  INFO    [台] 3293.TWO     鈊象電子         $    732.00  -3.43% 三線多頭
+09:28:47  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$705.7 ~ $719.9  止損：$691.6
+09:28:48  INFO    [台] 00909.TW     國泰智能電動車ETF   $       nan   +nan% 多空分歧
+09:28:48  INFO             買入點：— 目前無買入信號  進場區：$41.4 ~ $42.2  止損：$40.3
+09:28:49  INFO    [台] 0056.TW      元大高股息        $       nan   +nan% 多空分歧
+09:28:49  INFO             買入點：— 目前無買入信號  進場區：$45.6 ~ $46.5  止損：$44.5
+09:28:50  INFO    [台] 6111.TWO     6111擎亞       $     36.15  -1.09% 三線空頭
+09:28:50  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$35.2 ~ $35.9  止損：$34.3
+09:28:51  INFO    [台] 00878.TW     國泰永續高股息      $       nan   +nan% 多空分歧
+09:28:51  INFO             買入點：— 目前無買入信號  進場區：$29.2 ~ $29.8  止損：$28.5
+09:28:52  INFO    [台] 3017.TW      奇鋐           $  2,865.00  -4.02% 多空分歧
+09:28:52  INFO             買入點：— 目前無買入信號  進場區：$1,998.0 ~ $2,038.2  止損：$1,947.8
+09:28:52  INFO    [台] 00713.TW     元大高息低波       $       nan   +nan% 偏多
+09:28:52  INFO             買入點：— 目前無買入信號  進場區：$59.0 ~ $60.2  止損：$57.5
+09:28:53  INFO    [台] 00919.TW     群益台灣精選高息     $       nan   +nan% 偏多
+09:28:53  INFO             買入點：— 目前無買入信號  進場區：$27.8 ~ $28.4  止損：$27.1
+09:28:54  INFO    [美] NVDA         NVIDIA       $    214.72  -0.98% 多空分歧
+09:28:54  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$189.1 ~ $192.9  止損：$184.3
+09:28:55  INFO    [美] GEV          GE Vernova   $    956.85  -0.95% 多空分歧
+09:28:55  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$893.2 ~ $911.1  止損：$870.7
+09:28:56  INFO    [台] 2330.TW      台積電          $  2,410.00  +1.47% 多空分歧
+09:28:56  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,169.1 ~ $2,212.7  止損：$2,114.6
+09:28:57  INFO    [美] AMD          AMD          $    473.25  +0.81% 多空分歧
+09:28:57  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$421.9 ~ $430.4  止損：$411.3
+09:28:58  INFO    [美] TSM          台積電ADR       $    418.95  +0.71% 多空分歧
+09:28:58  INFO             買入點：— 目前無買入信號  進場區：$370.9 ~ $378.3  止損：$361.5
+09:28:59  INFO    [台] 2317.TW      鴻海           $    245.50  -0.41% 多空分歧
+09:28:59  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$225.4 ~ $229.9  止損：$219.7
+09:29:00  INFO    [台] 2530.TW      華建           $     19.90  +1.79% 偏空
+09:29:00  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$18.6 ~ $18.9  止損：$18.4
+09:29:01  INFO    [美] MU           美光           $    966.78  -0.77% 多空分歧
+09:29:01  INFO             買入點：— 目前無買入信號  進場區：$734.2 ~ $748.9  止損：$715.7
+09:29:02  INFO    [美] LRCX         科林研發         $    314.00  +1.12% 多空分歧
+09:29:02  INFO             買入點：— 目前無買入信號  進場區：$249.2 ~ $254.3  止損：$243.0
+09:29:03  INFO    [台] 00631L.TW    元大台灣50正2     $       nan   +nan% 多空分歧
+09:29:03  INFO             買入點：— 目前無買入信號  進場區：$27.2 ~ $27.8  止損：$26.5
+09:29:03  INFO    [台] 00910.TW     第一金太空衛星      $       nan   +nan% 多空分歧
+09:29:03  INFO             買入點：— 目前無買入信號  進場區：$51.2 ~ $52.3  止損：$50.0
+09:29:04  INFO    [台] 2308.TW      台達電          $  1,750.00  +0.29% 多空分歧
+09:29:04  INFO             買入點：— 目前無買入信號  進場區：$1,417.9 ~ $1,446.4  止損：$1,382.2
+09:29:05  INFO    ⏰ 9:xx 外資 16:30 後更新
+09:29:05  INFO    ✅ 股票 20 筆
+09:29:05  INFO  
+③ 🌟  生活熱門趨勢
+09:29:05  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+09:29:06  INFO    [食品飲料] 熱度:18 動能:+63% 最熱關鍵字：美食 🔥🔥🔥
+09:29:08  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+09:29:11  WARNING    [居家生活] The request failed: Google returned a response with code 429
+09:29:14  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+09:29:18  WARNING    [健康運動] The request failed: Google returned a response with code 429
+09:29:21  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+09:29:24  INFO    💬 Dcard 熱門...
+09:29:24  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+09:29:24  INFO    📋 PTT 熱門...
+09:29:25  INFO    [PTT/Gossiping] [3] [問卦] 後花園不是應該好好愛惜的嗎
+09:29:25  INFO    [PTT/Gossiping] [4] [問卦] 台南高雄都被種蘑菇怎麼辦
+09:29:25  INFO    [PTT/Gossiping] [6] [新聞] 輕便雨衣換1200元罰單！隨手丟垃圾桶慘了
+09:29:25  INFO    [PTT/Gossiping] [2] [問卦] 大戶屋吃什麼才內行？
+09:29:25  INFO    [PTT/Gossiping] [] [問卦] 炸的驚天地 泣鬼神
+09:29:26  INFO    [PTT/Stock] [] Re: [標的] 2609陽明 開船 多輾爆群創屍體
+09:29:26  INFO    [PTT/Stock] [1] [新聞] 歐盟關稅生效 中國小包裹湧入立陶宛數量
+09:29:26  INFO    [PTT/Stock] [2] [新聞] 《熱門族群》國旅補助開跑 餐旅觀光股吃
+09:29:26  INFO    [PTT/Stock] [] [新聞] 投信由買轉賣台股資金風向變了！砍電子、
+09:29:26  INFO    [PTT/Stock] [3] [公告] 交易工具異常回報區
+09:29:27  INFO    [PTT/beauty] [] [正妹] JZ
+09:29:27  INFO    [PTT/beauty] [4] [正妹] 畫家_泰會畫了
+09:29:27  INFO    [PTT/beauty] [2] [正妹] Milla Borsanyi
+09:29:27  INFO    [PTT/beauty] [] [正妹] hya.0923
+09:29:27  INFO    [PTT/beauty] [2] [正妹] 允娜
+09:29:28  INFO    [PTT/movie] [21] [新聞]真人《火影忍者》選出首個要角「卡卡西」！
+09:29:28  INFO    [PTT/movie] [4] [討論] Avantgardey恭賀功夫女足票房達23億RMB
+09:29:28  INFO    [PTT/movie] [] [負雷] 陽光女子合唱團 - 抄襲又濫情的爛片
+09:29:28  INFO    [PTT/movie] [4] Re: [新聞] 爛片奇蹟！中國3D動畫《牛來》票房狂
+09:29:28  INFO    [PTT/movie] [] [好雷] 娜塔莎，幾乎是空姐 (2025 法國片)
+09:29:29  INFO    [PTT/food] [1] [食記] 台北信義 FUGU Japanese Gastropub
+09:29:29  INFO    [PTT/food] [] [食記] 高雄第一豆漿燒餅堡 高雄鼓山 厚實漢堡排
+09:29:29  INFO    [PTT/food] [] [食記] 台北。忠孝Sogo-吉天麩羅~日本天婦羅
+09:29:29  INFO    [PTT/food] [1] [食記] 寮國-龍坡邦|Chez Auguste-CaféCreperie
+09:29:29  INFO    [PTT/food] [] [食記] 桃園市新屋區。高平52年老店
+09:29:30  INFO    📺 YouTube 台灣熱門...
+09:29:30  INFO    🎵 TikTok...
+09:29:34  INFO    [TikTok] #1 《TAIPEI TIMES》 TikTok users in Taiwan up significantly last 
+09:29:34  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+09:29:34  INFO    [TikTok] #3 Seeing is not believing (part II) - AI videos spread during 
+09:29:34  INFO    [TikTok] #4 “Male god” Gong Yoo’s first overseas fan meeting in Taiwan t
+09:29:34  INFO    🛍️  Shopee 台灣熱銷...
+09:29:38  INFO    💬 Reddit 熱賣（本週）...
+09:29:38  INFO    ✅ 生活趨勢完成
+09:29:38  INFO  
+④ 📰  消息面
+09:29:38  INFO    [🇹🇼 台灣] 台南安南區非法廢棄物爆炸起火 來源是高雄正追查涉案業者
+09:29:38  INFO    [🇹🇼 台灣] 地震速報！ 08/22 11:40左右 東北地區發生有感地震
+09:29:38  INFO    [🇹🇼 台灣] 快訊/暴雨猛下放假了！2地區宣布「今天下午停班停課」，19 縣市發豪大雨特報
+09:29:38  INFO    [🇹🇼 台灣] 沙德爾颱風最快明成強颱！最新路徑南修不排除接近台灣| 生活
+09:29:38  INFO    [🇹🇼 台灣] 搭捷運注意！8/22明天北捷1車站可能「過站不停」，官方曝原因： 小心上下車受影響
+09:29:38  INFO    [🇹🇼 台灣] 像長毛象陷入瀝青坑！拿伊朗沒轍川普猛找盟友出氣癥結在哪- 國際
+09:29:41  INFO    [🇯🇵 日本] 東京、埼玉縣每小時約100毫米暴雨 天氣防災通報－創紀錄短時間內大暴雨
+09:29:43  INFO    [🇯🇵 日本] 橋本先生：「每個人都可以支持的政黨」 玉木先生：「三年的執政準備」 民主黨代表選舉中「徹底分離」引發的火花
+09:29:43  INFO    [🇯🇵 日本] 熊本地震支援：考量「支援折扣」刺激旅遊需求的措施 內閣官房長官木原
+09:29:45  INFO    [🇯🇵 日本] 88歲偏癱丈夫為87歲失智症妻子提供“超級養老”，其中近40%是老人…根深蒂固的“家庭責任”
+09:29:46  INFO    [🇯🇵 日本] 川普尚未準備好與伊朗達成“正確協議”
+09:29:48  INFO    [🇯🇵 日本] 千葉大雨損壞的車輛需要花費40萬日元才能被拖走……在現場或臨時存放區都沒有找到它們，有些還被盜了。
+09:29:50  INFO    [🇰🇷 韓國] 吳世勳反對龍山公園住房供應...建議替代地點
+09:29:51  INFO    [🇰🇷 韓國] 巨濟、統營洪水現場週末...1400名志工揮汗如雨
+09:29:54  INFO    [🇰🇷 韓國] 批評MB政權的明真和尚過世...西歸浦海上事故
+09:29:56  INFO    [🇰🇷 韓國] 自稱沒有「支付民調費用」罪名的民主黨議員吳世勳表示，「我們只關注無辜者的框架，把人們的生命拋在腦後」。
+09:29:59  INFO    [🇰🇷 韓國] 野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회”
+09:29:59  INFO    [🇰🇷 韓國] 韓東勳“假裝對‘盧雄來無罪’感到委屈……在國會播放錄音吧。”
+09:30:00  INFO    [🇺🇸 美國] With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!
+09:30:00  INFO    [🇺🇸 美國] Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion
+09:30:00  INFO    [🇺🇸 美國] Supreme Court allows Trump's ballroom construction to proceed for now
+09:30:00  INFO    [🇺🇸 美國] U.S.-Iran Live Updates: Trump says Iran "not ready to make the right deal" as U.S. turns to economic warfare
+09:30:00  INFO    [🇺🇸 美國] Pentagon fires Stars and Stripes leaders who criticized DOD’s interference
+09:30:00  INFO    [🇺🇸 美國] WATCH: Lindsay Clancy's defense rests after testimony on postpartum psychosis
+09:30:15  INFO  
+🖥️  產生 HTML 報告...
+09:30:15  INFO  
+✅  HTML：報告_20260822_0930.html
+09:30:15  INFO  ✅  CSV：機會分析_20260822_0930.csv
+09:30:15  INFO  📝  Log：logs/scan_20260822_092843.log
