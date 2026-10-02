@@ -1,0 +1,113 @@
+20:50:08  INFO  ======================================================================
+20:50:08  INFO  🔥  每日機會分析系統 v10
+20:50:08  INFO  📅  2026-10-02 20:50
+20:50:08  INFO  ======================================================================
+20:50:08  INFO  
+① 🌕  CRYPTO
+20:50:08  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+20:50:09  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+20:50:09  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+20:50:10  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+20:50:10  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+20:50:11  INFO    ✅ Crypto 0 筆
+20:50:11  INFO  
+② 📈  股票
+20:50:12  INFO    [台] 3293.TWO     鈊象電子         $    791.00  -2.83% 三線多頭
+20:50:12  INFO             買入點：— 目前無買入信號  進場區：$654.8 ~ $667.9  止損：$666.4
+20:50:12  INFO    [台] 00909.TW     國泰智能電動車ETF   $       nan   +nan% 多空分歧
+20:50:12  INFO             買入點：— 目前無買入信號  進場區：$43.9 ~ $44.8  止損：$42.8
+20:50:13  INFO    [台] 0056.TW      元大高股息        $       nan   +nan% 偏多
+20:50:13  INFO             買入點：— 目前無買入信號  進場區：$54.2 ~ $55.3  止損：$52.9
+20:50:14  INFO    [台] 6111.TWO     6111擎亞       $     38.40  +0.79% 多空分歧
+20:50:14  INFO             買入點：— 目前無買入信號  進場區：$32.9 ~ $33.6  止損：$32.1
+20:50:15  INFO    [台] 00878.TW     國泰永續高股息      $       nan   +nan% 多空分歧
+20:50:15  INFO             買入點：— 目前無買入信號  進場區：$33.4 ~ $34.1  止損：$32.6
+20:50:16  INFO    [台] 3017.TW      奇鋐           $  3,440.00  -1.99% 偏多
+20:50:16  INFO             買入點：— 目前無買入信號  進場區：$3,084.5 ~ $3,146.5  止損：$3,007.0
+20:50:17  INFO    [台] 00713.TW     元大高息低波       $       nan   +nan% 多空分歧
+20:50:17  INFO             買入點：— 目前無買入信號  進場區：$60.7 ~ $61.9  止損：$59.1
+20:50:17  INFO    [台] 00919.TW     群益台灣精選高息     $       nan   +nan% 偏多
+20:50:17  INFO             買入點：— 目前無買入信號  進場區：$30.9 ~ $31.5  止損：$30.1
+20:50:18  INFO    [美] NVDA         NVIDIA       $    233.95  +1.34% 三線多頭
+20:50:18  INFO             買入點：— 目前無買入信號  進場區：$207.9 ~ $212.1  止損：$202.7
+20:50:19  INFO    [美] GEV          GE Vernova   $    988.70  +0.13% 多空分歧
+20:50:19  INFO             買入點：— 目前無買入信號  進場區：$863.9 ~ $881.3  止損：$842.2
+20:50:20  INFO    [台] 2330.TW      台積電          $  2,500.00  -0.40% 三線多頭
+20:50:20  INFO             買入點：— 目前無買入信號  進場區：$2,344.8 ~ $2,391.9  止損：$2,301.8
+20:50:21  INFO    [美] AMD          AMD          $    633.91  +2.95% 三線多頭
+20:50:21  INFO             買入點：— 目前無買入信號  進場區：$450.7 ~ $459.7  止損：$444.3
+20:50:22  INFO    [美] TSM          台積電ADR       $    472.78  +2.96% 三線多頭
+20:50:22  INFO             買入點：— 目前無買入信號  進場區：$406.5 ~ $414.7  止損：$399.1
+20:50:23  INFO    [台] 2317.TW      鴻海           $    251.00  -1.18% 偏空
+20:50:23  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$242.3 ~ $247.2  止損：$236.2
+20:50:24  INFO    [台] 2530.TW      華建           $     20.05  +0.00% 偏多
+20:50:24  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$18.7 ~ $19.1  止損：$18.2
+20:50:25  INFO    [美] MU           美光           $  1,074.89  -2.05% 三線多頭
+20:50:25  INFO             買入點：— 目前無買入信號  進場區：$898.1 ~ $916.1  止損：$875.5
+20:50:25  INFO    [美] LRCX         科林研發         $    347.49  +2.17% 多空分歧
+20:50:25  INFO             買入點：— 目前無買入信號  進場區：$258.7 ~ $263.9  止損：$257.1
+20:50:26  INFO    [台] 00631L.TW    元大台灣50正2     $       nan   +nan% 偏多
+20:50:26  INFO             買入點：— 目前無買入信號  進場區：$34.7 ~ $35.4  止損：$33.8
+20:50:27  INFO    [台] 00910.TW     第一金太空衛星      $       nan   +nan% 多空分歧
+20:50:27  INFO             買入點：— 目前無買入信號  進場區：$55.0 ~ $56.1  止損：$53.6
+20:50:28  INFO    [台] 2308.TW      台達電          $  1,885.00  -1.05% 多空分歧
+20:50:28  INFO             買入點：— 目前無買入信號  進場區：$1,552.2 ~ $1,583.4  止損：$1,513.2
+20:50:29  INFO    ✅ 股票 20 筆
+20:50:29  INFO  
+③ 🌟  生活熱門趨勢
+20:50:29  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+20:50:30  INFO    [食品飲料] 熱度:7 動能:-27% 最熱關鍵字：美食 ❄️
+20:50:33  INFO    [服飾美妝] 熱度:40 動能:+10% 最熱關鍵字：穿搭 🔥🔥
+20:50:35  INFO    [居家生活] 熱度:17 動能:-29% 最熱關鍵字：家具 ❄️
+20:50:37  INFO    [娛樂3C] 熱度:44 動能:+10% 最熱關鍵字：手機 🔥🔥
+20:50:40  INFO    [健康運動] 熱度:30 動能:-20% 最熱關鍵字：健身 ❄️
+20:50:42  INFO    [旅遊交通] 熱度:36 動能:+2% 最熱關鍵字：機票 🔥
+20:50:44  INFO    💬 Dcard 熱門...
+20:50:44  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+20:50:44  INFO    📋 PTT 熱門...
+20:50:44  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Gossiping/index.html
+20:50:44  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Stock/index.html
+20:50:44  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/beauty/index.html
+20:50:44  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/movie/index.html
+20:50:44  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/food/index.html
+20:50:44  INFO    📺 YouTube 台灣熱門...
+20:50:45  INFO    🎵 TikTok...
+20:50:49  INFO    [TikTok] #1 Short videos overtake social media as top media format in Ta
+20:50:49  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+20:50:49  INFO    [TikTok] #3 Seeing is not believing (part II) - AI videos spread during 
+20:50:49  INFO    🛍️  Shopee 台灣熱銷...
+20:50:53  INFO    💬 Reddit 熱賣（本週）...
+20:50:53  INFO    ✅ 生活趨勢完成
+20:50:53  INFO  
+④ 📰  消息面
+20:50:53  INFO    [🇹🇼 台灣] 直擊師大夜市洋流　支持者舉手板樂喊：很幸運有沈伯洋來當市長
+20:50:53  INFO    [🇹🇼 台灣] 鄭麗文澄清「不要幫竹北站台」爭議 邱臣遠、徐欣瑩陣營也發聲了
+20:50:53  INFO    [🇹🇼 台灣] 變天有感！下週更強冷空氣襲台 下探20度
+20:50:53  INFO    [🇹🇼 台灣] 全新F-16V預計今抵達！外媒曝差異　台灣爭取「延宕交機」2補償
+20:50:53  INFO    [🇹🇼 台灣] 藍版普發現金2萬、6千億追加預算、116年總預算 立院今付委
+20:50:53  INFO    [🇹🇼 台灣] 平時愛看《空中浩劫》 杜拜航空乘客拉桿救回機上174 人
+20:50:54  INFO    [🇯🇵 日本] 操縦室で「必死で戦った」とインド人機長 イスラエル行き航空機事件 入院先から印首相に
+20:50:55  INFO    [🇯🇵 日本] 簗和生農相、予算カット発言を認める 辞任は否定 自民内には支援しなかったことへの「報復」当然視する声
+20:50:55  INFO    [🇯🇵 日本] 「私は下手な対応した」珍しく弱気トランプ氏 物価高打つ手なく
+20:50:55  INFO    [🇯🇵 日本] 「蔵内会」ゴルフ代など６００万円超負担と明かした樋口明・福岡県議「経験しないと、主要ポストにつけないと判断」
+20:50:56  INFO    [🇯🇵 日本] 「副首都」要件案を公表 4道府県に指定可能性
+20:50:56  INFO    [🇯🇵 日本] 三重・津で住宅火災、４遺体見つかる 子ども４人と連絡取れず
+20:50:58  INFO    [🇰🇷 韓國] 청와대, “광대극 절정” 김여정 비난에 “비방 멈추고 평화 노력 동참해야”
+20:50:58  INFO    [🇰🇷 韓國] 김지용 재산 38억 신고… 분당에 아파트 두 채 보유
+20:50:59  INFO    [🇰🇷 韓國] 우크라 외교장관 '태세 전환'?‥"심각한 유감" 李 정색
+20:50:59  INFO    [🇰🇷 韓國] 개천절 아침 쌀쌀…내일 낮 경상권 동해안에 비
+20:50:59  INFO    [🇰🇷 韓國] “부캉아, 조금만 더 가자”…그물로 몰았지만 바다 100m 앞에서 멈춰
+20:51:00  INFO    [🇰🇷 韓國] ‘검찰범죄’ 특검을 해야 하는 50가지 이유⑪ 검찰청은 사라졌으나 검찰범죄는 남아있다…뉴스타파 케이스
+20:51:00  INFO    [🇺🇸 美國] Christa Pike unconscious, on ventilator at Nashville hospital, her lawyers say
+20:51:00  INFO    [🇺🇸 美國] Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident
+20:51:00  INFO    [🇺🇸 美國] Cornell 'gang rape' case: Hochul, Letitia James give update after AG appointed special prosecutor
+20:51:00  INFO    [🇺🇸 美國] Trump’s motorcade neared 100 mph en route to Oklahoma after helicopter, airplane ruled out
+20:51:00  INFO    [🇺🇸 美國] Riot police clash with students as education protests rage in France
+20:51:00  INFO    [🇺🇸 美國] White House claims tepid jobs report is proof that Trump’s ‘reindustrialization agenda is working’ – US politics live
+20:51:03  WARNING      ⚠️  apnews.com → 403 Client Error: Forbidden for url: https://apnews.com/business
+20:51:15  INFO  
+🖥️  產生 HTML 報告...
+20:51:15  INFO  
+✅  HTML：報告_20261002_2051.html
+20:51:15  INFO  ✅  CSV：機會分析_20261002_2051.csv
+20:51:15  INFO  📝  Log：logs/scan_20261002_205008.log
