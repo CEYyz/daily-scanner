@@ -1,0 +1,91 @@
+21:04:54  INFO  ======================================================================
+21:04:54  INFO  🔥  每日機會分析系統 v10
+21:04:54  INFO  📅  2026-10-06 21:04
+21:04:54  INFO  ======================================================================
+21:04:54  INFO  
+① 🌕  CRYPTO
+21:04:55  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+21:04:56  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+21:04:57  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+21:04:58  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+21:04:59  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+21:05:00  INFO    ✅ Crypto 0 筆
+21:05:00  INFO  
+② 📈  股票
+21:05:01  INFO    [台] 3293.TWO     鈊象電子         $    780.00  -1.76% 多空分歧
+21:05:01  INFO             買入點：— 目前無買入信號  進場區：$657.2 ~ $670.4  止損：$666.4
+21:05:02  INFO    [台] 00909.TW     國泰智能電動車ETF   $       nan   +nan% 多空分歧
+21:05:02  INFO             買入點：— 目前無買入信號  進場區：$45.2 ~ $46.1  止損：$44.0
+21:05:03  INFO    [台] 0056.TW      元大高股息        $       nan   +nan% 偏多
+21:05:03  INFO             買入點：— 目前無買入信號  進場區：$54.3 ~ $55.4  止損：$52.9
+21:05:04  INFO    [台] 6111.TWO     6111擎亞       $     36.25  -2.03% 多空分歧
+21:05:04  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$32.9 ~ $33.6  止損：$32.1
+21:05:06  INFO    [台] 00878.TW     國泰永續高股息      $       nan   +nan% 偏多
+21:05:06  INFO             買入點：— 目前無買入信號  進場區：$33.4 ~ $34.1  止損：$32.6
+21:05:07  INFO    [台] 3017.TW      奇鋐           $  3,685.00  +2.79% 三線多頭
+21:05:07  INFO             買入點：— 目前無買入信號  進場區：$3,084.5 ~ $3,146.5  止損：$3,007.0
+21:05:08  INFO    [台] 00713.TW     元大高息低波       $       nan   +nan% 多空分歧
+21:05:08  INFO             買入點：— 目前無買入信號  進場區：$61.4 ~ $62.7  止損：$59.9
+21:05:09  INFO    [台] 00919.TW     群益台灣精選高息     $       nan   +nan% 多空分歧
+21:05:09  INFO             買入點：— 目前無買入信號  進場區：$30.9 ~ $31.5  止損：$30.1
+21:05:11  INFO    [美] NVDA         NVIDIA       $    239.24  +0.14% 三線多頭
+21:05:11  INFO             買入點：— 目前無買入信號  進場區：$207.9 ~ $212.1  止損：$202.7
+21:05:12  INFO    [美] GEV          GE Vernova   $  1,029.21  +3.96% 多空分歧
+21:05:12  INFO             買入點：— 目前無買入信號  進場區：$863.9 ~ $881.3  止損：$842.2
+21:05:14  INFO    [台] 2330.TW      台積電          $  2,585.00  +0.39% 三線多頭
+21:05:14  INFO             買入點：— 目前無買入信號  進場區：$2,338.6 ~ $2,385.6  止損：$2,301.8
+21:05:15  INFO    [美] AMD          AMD          $    649.42  +2.80% 三線多頭
+21:05:15  INFO             買入點：— 目前無買入信號  進場區：$470.1 ~ $479.5  止損：$465.9
+21:05:16  INFO    [美] TSM          台積電ADR       $    482.30  -0.72% 三線多頭
+21:05:16  INFO             買入點：— 目前無買入信號  進場區：$402.8 ~ $410.9  止損：$399.1
+21:05:17  INFO    [台] 2317.TW      鴻海           $    256.00  +0.79% 多空分歧
+21:05:17  INFO             買入點：— 目前無買入信號  進場區：$242.3 ~ $247.2  止損：$236.2
+21:05:18  INFO    [台] 2530.TW      華建           $     19.80  -0.25% 多空分歧
+21:05:18  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$18.9 ~ $19.2  止損：$18.4
+21:05:20  INFO    [美] MU           美光           $  1,045.56  -1.73% 多空分歧
+21:05:20  INFO             買入點：— 目前無買入信號  進場區：$898.1 ~ $916.1  止損：$875.5
+21:05:21  INFO    [美] LRCX         科林研發         $    333.89  -3.44% 多空分歧
+21:05:21  INFO             買入點：— 目前無買入信號  進場區：$256.7 ~ $261.8  止損：$257.1
+21:05:22  INFO    [台] 00631L.TW    元大台灣50正2     $       nan   +nan% 三線多頭
+21:05:22  INFO             買入點：— 目前無買入信號  進場區：$34.7 ~ $35.4  止損：$33.8
+21:05:23  INFO    [台] 00910.TW     第一金太空衛星      $       nan   +nan% 多空分歧
+21:05:23  INFO             買入點：— 目前無買入信號  進場區：$55.0 ~ $56.1  止損：$53.6
+21:05:25  INFO    [台] 2308.TW      台達電          $  2,050.00  +2.24% 多空分歧
+21:05:25  INFO             買入點：— 目前無買入信號  進場區：$1,552.2 ~ $1,583.4  止損：$1,513.2
+21:05:26  INFO    ✅ 股票 20 筆
+21:05:26  INFO  
+③ 🌟  生活熱門趨勢
+21:05:26  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+21:05:28  INFO    [食品飲料] 熱度:6 動能:-42% 最熱關鍵字：美食 ❄️
+21:05:30  INFO    [服飾美妝] 熱度:28 動能:-15% 最熱關鍵字：穿搭 ❄️
+21:05:33  INFO    [居家生活] 熱度:24 動能:-19% 最熱關鍵字：家具 ❄️
+21:05:36  INFO    [娛樂3C] 熱度:38 動能:+4% 最熱關鍵字：手機 🔥
+21:05:38  INFO    [健康運動] 熱度:28 動能:-25% 最熱關鍵字：健身 ❄️
+21:05:41  INFO    [旅遊交通] 熱度:31 動能:-12% 最熱關鍵字：機票 ❄️
+21:05:43  INFO    💬 Dcard 熱門...
+21:05:43  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+21:05:43  INFO    📋 PTT 熱門...
+21:05:43  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Gossiping/index.html
+21:05:43  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Stock/index.html
+21:05:43  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/beauty/index.html
+21:05:44  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/movie/index.html
+21:05:44  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/food/index.html
+21:05:44  INFO    📺 YouTube 台灣熱門...
+21:05:44  INFO    🎵 TikTok...
+21:05:55  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=tiktok+trending+products+taiwan&hl=zh-TW&gl=TW&ceid=TW:zh-Hant&tbs=qdr:d
+21:05:55  INFO    🛍️  Shopee 台灣熱銷...
+21:05:59  INFO    💬 Reddit 熱賣（本週）...
+21:05:59  INFO    ✅ 生活趨勢完成
+21:05:59  INFO  
+④ 📰  消息面
+21:06:09  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+21:06:19  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja
+21:06:27  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko
+21:06:32  WARNING      ⚠️  news.google.com → 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+21:06:34  WARNING      ⚠️  apnews.com → 403 Client Error: Forbidden for url: https://apnews.com/business
+21:06:46  INFO  
+🖥️  產生 HTML 報告...
+21:06:46  INFO  
+✅  HTML：報告_20261006_2106.html
+21:06:46  INFO  ✅  CSV：機會分析_20261006_2106.csv
+21:06:46  INFO  📝  Log：logs/scan_20261006_210454.log
