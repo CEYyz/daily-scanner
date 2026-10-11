@@ -1,0 +1,1219 @@
+<!DOCTYPE html>
+<html lang="zh-TW"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>每日機會分析 2026-10-11 15:25</title>
+<style>
+:root{--bg:#0f1117;--card:#1a1d27;--card2:#22263a;--text:#e8eaf0;--muted:#8890a4;--border:#2e3450;--green:#1a9e5c;--red:#d9534f;--yellow:#f0ad4e;--blue:#3a7bd5;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI','PingFang TC',sans-serif;padding:20px;max-width:1400px;margin:0 auto;}
+h1{font-size:1.6rem;font-weight:800;margin-bottom:4px;}
+h2{font-size:1.05rem;font-weight:700;color:var(--muted);margin:28px 0 12px;border-left:3px solid var(--blue);padding-left:10px;text-transform:uppercase;letter-spacing:0.05em;}
+h3{font-size:0.88rem;font-weight:600;color:var(--muted);margin:14px 0 8px;}
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;padding-bottom:16px;border-bottom:1px solid var(--border);}
+.date{color:var(--muted);font-size:0.85rem;}
+.table-wrap{overflow-x:auto;}
+table{width:100%;border-collapse:collapse;font-size:0.85rem;}
+th{background:var(--card2);color:var(--muted);padding:10px 12px;text-align:left;font-weight:600;white-space:nowrap;}
+td{padding:9px 12px;border-bottom:1px solid var(--border);vertical-align:middle;}
+tr:hover td{background:var(--card2);}
+.tl-badge{display:inline-block;padding:2px 8px;border-radius:10px;color:#fff;font-size:0.75rem;font-weight:600;white-space:nowrap;}
+.rating-badge{display:inline-block;padding:2px 10px;border-radius:10px;color:#fff;font-size:0.78rem;font-weight:700;}
+.rsi-badge{display:inline-block;padding:2px 8px;border-radius:8px;font-size:0.75rem;font-weight:600;}
+.rsi-overbought{background:#d9534f22;color:#d9534f;border:1px solid #d9534f44;}
+.rsi-oversold{background:#1a9e5c22;color:#1a9e5c;border:1px solid #1a9e5c44;}
+.rsi-normal{background:#88888822;color:#aaa;border:1px solid #88888844;}
+.crypto-row{display:flex;gap:12px;flex-wrap:wrap;}
+.crypto-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px;min-width:140px;flex:1;text-align:center;}
+.crypto-name{font-weight:800;font-size:1.05rem;}
+.crypto-price{color:var(--muted);font-size:0.85rem;margin:3px 0;}
+.stock-detail{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px;margin-bottom:12px;}
+.stock-detail-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px;}
+.stock-code{font-size:1.05rem;font-weight:800;margin-right:6px;}
+.stock-name{color:var(--muted);margin-right:6px;font-size:0.9rem;}
+.entry-box{background:var(--card2);border:1px solid;border-radius:8px;padding:12px;margin-bottom:12px;}
+.analysis-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;}
+.analysis-card{background:var(--card2);border-radius:8px;padding:12px;}
+.analysis-face{font-weight:700;margin-bottom:8px;color:var(--blue);font-size:0.85rem;}
+.analysis-row{font-size:0.8rem;margin-bottom:5px;display:flex;gap:6px;line-height:1.4;}
+.al{color:var(--muted);min-width:28px;flex-shrink:0;}
+.trend-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;}
+.trend-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:12px;}
+.trend-header{display:flex;justify-content:space-between;margin-bottom:6px;font-size:0.88rem;}
+.trend-cat{font-weight:700;}
+.trend-bar-bg{background:#2e3450;border-radius:4px;height:5px;margin:5px 0;}
+.trend-bar{height:5px;border-radius:4px;}
+.shopee-cat{font-weight:700;color:var(--yellow);margin:10px 0 5px;font-size:0.85rem;}
+.shopee-item{display:flex;gap:8px;align-items:center;padding:5px 0;border-bottom:1px solid var(--border);font-size:0.8rem;}
+.shopee-rank{color:var(--muted);min-width:22px;}
+.shopee-name{flex:1;}
+.shopee-price{color:var(--green);font-weight:600;}
+.shopee-sold{color:var(--muted);min-width:55px;text-align:right;}
+.social-item{display:flex;gap:8px;align-items:flex-start;padding:6px 0;border-bottom:1px solid var(--border);font-size:0.82rem;line-height:1.4;}
+.social-src{display:inline-block;padding:1px 7px;border-radius:8px;background:var(--blue);color:#fff;font-size:0.7rem;white-space:nowrap;flex-shrink:0;margin-top:1px;}
+.news-item{display:flex;gap:8px;align-items:flex-start;padding:7px 0;border-bottom:1px solid var(--border);font-size:0.83rem;}
+.news-src{display:inline-block;padding:2px 8px;border-radius:8px;color:#fff;font-size:0.7rem;white-space:nowrap;flex-shrink:0;}
+.news-title{line-height:1.4;}
+.hot-row{display:flex;align-items:center;gap:10px;margin-bottom:7px;font-size:0.85rem;}
+.hot-cat{min-width:90px;font-weight:600;}
+.hot-bar-bg{flex:1;background:#2e3450;border-radius:4px;height:7px;}
+.hot-bar{height:7px;border-radius:4px;background:var(--blue);}
+.hot-n{color:var(--muted);min-width:40px;text-align:right;}
+.deal-item{display:flex;gap:8px;align-items:flex-start;padding:6px 0;border-bottom:1px solid var(--border);font-size:0.8rem;}
+.deal-score{color:var(--green);font-weight:700;min-width:60px;flex-shrink:0;}
+.deal-sub{color:var(--blue);min-width:90px;flex-shrink:0;}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+.three-col{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px;}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px;}
+@media(max-width:900px){.two-col,.three-col{grid-template-columns:1fr;}}
+</style></head><body>
+
+<div class="header">
+  <div><h1>📊 每日機會分析報告</h1><div class="date">2026-10-11 15:25</div></div>
+</div>
+
+<h2>🌕 Crypto 三線 + 買入點</h2>
+<div class="crypto-row"></div>
+
+<h2>📈 股票評級總表</h2>
+<div class="table-wrap"><table>
+  <thead><tr><th>標的</th><th>價格</th><th>漲跌</th><th>三線</th><th>RSI</th><th>外資</th><th>量能</th><th>評級</th><th>買入點</th></tr></thead>
+  <tbody>
+        <tr>
+          <td><b>3293.TWO</b><br><small style="color:#888">鈊象電子</small></td>
+          <td>$788.00</td>
+          <td style="color:#5cb85c;font-weight:700">+1.03%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 74</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.5x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>GEV</b><br><small style="color:#888">GE Vernova</small></td>
+          <td>$1,004.73</td>
+          <td style="color:#5cb85c;font-weight:700">+0.54%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 68</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.4x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>2530.TW</b><br><small style="color:#888">華建</small></td>
+          <td>$20.05</td>
+          <td style="color:#5cb85c;font-weight:700">+0.25%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 55</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.4x</td>
+          <td><span class="rating-badge" style="background:#e8834a">偏弱</span></td>
+          <td style="color:#f0ad4e;font-size:0.8rem">🎯🎯 兩條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>00713.TW</b><br><small style="color:#888">元大高息低波</small></td>
+          <td>$63.25</td>
+          <td style="color:#5cb85c;font-weight:700">+0.00%</td>
+          <td><span class="tl-badge" style="background:#5cb85c">偏多</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 52</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.4x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>0056.TW</b><br><small style="color:#888">元大高股息</small></td>
+          <td>$58.30</td>
+          <td style="color:#e8834a;font-weight:700">-0.26%</td>
+          <td><span class="tl-badge" style="background:#1a9e5c">三線多頭</span></td>
+          <td><span class="rsi-badge rsi-overbought">RSI 80</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#ccc">0.7x</td>
+          <td><span class="rating-badge" style="background:#5cb85c">稍強★★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>NVDA</b><br><small style="color:#888">NVIDIA</small></td>
+          <td>$229.28</td>
+          <td style="color:#e8834a;font-weight:700">-0.52%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 53</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.5x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>LRCX</b><br><small style="color:#888">科林研發</small></td>
+          <td>$318.84</td>
+          <td style="color:#e8834a;font-weight:700">-0.55%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 60</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.4x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>00878.TW</b><br><small style="color:#888">國泰永續高股息</small></td>
+          <td>$34.99</td>
+          <td style="color:#e8834a;font-weight:700">-0.65%</td>
+          <td><span class="tl-badge" style="background:#5cb85c">偏多</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 65</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#ccc">0.6x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>MU</b><br><small style="color:#888">美光</small></td>
+          <td>$1,029.00</td>
+          <td style="color:#e8834a;font-weight:700">-0.66%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 48</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.5x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>00919.TW</b><br><small style="color:#888">群益台灣精選高息</small></td>
+          <td>$31.65</td>
+          <td style="color:#e8834a;font-weight:700">-0.91%</td>
+          <td><span class="tl-badge" style="background:#5cb85c">偏多</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 42</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#ccc">0.8x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>6111.TWO</b><br><small style="color:#888">6111擎亞</small></td>
+          <td>$35.50</td>
+          <td style="color:#e8834a;font-weight:700">-0.98%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 58</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.2x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>TSM</b><br><small style="color:#888">台積電ADR</small></td>
+          <td>$453.31</td>
+          <td style="color:#e8834a;font-weight:700">-1.02%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 55</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#ccc">0.7x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>2317.TW</b><br><small style="color:#888">鴻海</small></td>
+          <td>$249.00</td>
+          <td style="color:#e8834a;font-weight:700">-1.19%</td>
+          <td><span class="tl-badge" style="background:#e8834a">偏空</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 52</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#ccc">0.6x</td>
+          <td><span class="rating-badge" style="background:#e8834a">偏弱</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>2308.TW</b><br><small style="color:#888">台達電</small></td>
+          <td>$1,965.00</td>
+          <td style="color:#e8834a;font-weight:700">-1.26%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 69</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.4x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>2330.TW</b><br><small style="color:#888">台積電</small></td>
+          <td>$2,550.00</td>
+          <td style="color:#e8834a;font-weight:700">-1.35%</td>
+          <td><span class="tl-badge" style="background:#1a9e5c">三線多頭</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 74</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#ccc">0.6x</td>
+          <td><span class="rating-badge" style="background:#1a9e5c">強勢★★★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>AMD</b><br><small style="color:#888">AMD</small></td>
+          <td>$608.10</td>
+          <td style="color:#e8834a;font-weight:700">-2.03%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 47</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.4x</td>
+          <td><span class="rating-badge" style="background:#f0ad4e">中性★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>00631L.TW</b><br><small style="color:#888">元大台灣50正2</small></td>
+          <td>$40.90</td>
+          <td style="color:#e8834a;font-weight:700">-2.04%</td>
+          <td><span class="tl-badge" style="background:#1a9e5c">三線多頭</span></td>
+          <td><span class="rsi-badge rsi-overbought">RSI 80</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#ccc">0.8x</td>
+          <td><span class="rating-badge" style="background:#5cb85c">稍強★★</span></td>
+          <td style="color:#555;font-size:0.8rem"></td>
+        </tr>
+        <tr>
+          <td><b>00909.TW</b><br><small style="color:#888">國泰智能電動車ETF</small></td>
+          <td>$46.41</td>
+          <td style="color:#e8834a;font-weight:700">-2.46%</td>
+          <td><span class="tl-badge" style="background:#f0ad4e">多空分歧</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 53</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.5x</td>
+          <td><span class="rating-badge" style="background:#e8834a">偏弱</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>00910.TW</b><br><small style="color:#888">第一金太空衛星</small></td>
+          <td>$56.05</td>
+          <td style="color:#e8834a;font-weight:700">-2.78%</td>
+          <td><span class="tl-badge" style="background:#e8834a">偏空</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 49</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.4x</td>
+          <td><span class="rating-badge" style="background:#d9534f">迴避</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr>
+        <tr>
+          <td><b>3017.TW</b><br><small style="color:#888">奇鋐</small></td>
+          <td>$3,440.00</td>
+          <td style="color:#e8834a;font-weight:700">-2.96%</td>
+          <td><span class="tl-badge" style="background:#1a9e5c">三線多頭</span></td>
+          <td><span class="rsi-badge rsi-normal">RSI 60</span></td>
+          <td style="color:#888"></td>
+          <td style="color:#888">0.6x</td>
+          <td><span class="rating-badge" style="background:#5cb85c">稍強★★</span></td>
+          <td style="color:#3a7bd5;font-size:0.8rem">🎯 一條件滿足</td>
+        </tr></tbody>
+</table></div>
+
+<h2>📝 個股詳細分析（技術/基本/籌碼 + 買入點）</h2>
+
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">3293.TWO</span>
+              <span class="stock-name">鈊象電子</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#5cb85c">+1.03%  $788.00</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.5x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：⚠️ RSI超買（74），不宜追買</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$662.9 ~ $676.2</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$666.4</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$819.0</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↑，多頭排列，52W位置83%，RSI 74</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 18.5，EPS 42.56，營收 15%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，穩定成長15%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 1.3，中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.5x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">GEV</span>
+              <span class="stock-name">GE Vernova</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#5cb85c">+0.54%  $1,004.73</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.4x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：RSI 68</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$863.9 ~ $881.3</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$842.2</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$1,052.8</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日─週↑月↓，多頭排列，52W位置71%，RSI 68</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 28.8，EPS 34.88，營收 22%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，穩定成長22%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 1.3，中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.4x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">2530.TW</span>
+              <span class="stock-name">華建</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#5cb85c">+0.25%  $20.05</div>
+              <span class="rating-badge" style="background:#e8834a">偏弱</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#f0ad4e">
+            <div style="font-weight:700;color:#f0ad4e;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $20.0（距離0.1%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.05）</div><div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>RSI穿越50</b>：🎯 RSI剛突破50（47→55），動能轉強</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#f0ad4e">$18.9 ~ $19.2</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$18.4</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$21.2</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日─週─月↑，MA20上方，52W位置22%，RSI 55</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 31.8，EPS 0.63，營收 -99%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，營收衰退-99%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.4x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">00713.TW</span>
+              <span class="stock-name">元大高息低波</span>
+              <span class="tl-badge" style="background:#5cb85c">偏多</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#5cb85c">+0.00%  $63.25</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $63.1（距離0.2%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.13）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（52），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$61.8 ~ $63.1</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$60.3</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$64.0</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↑週─月↑，MA20上方，52W位置96%，RSI 52</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>接近52週高點，追高謹慎</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 19.0，EPS --，營收 無</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.4x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">0056.TW</span>
+              <span class="stock-name">元大高股息</span>
+              <span class="tl-badge" style="background:#1a9e5c">三線多頭</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-0.26%  $58.30</div>
+              <span class="rating-badge" style="background:#5cb85c">稍強★★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.7x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：⚠️ RSI超買（80），不宜追買</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$54.3 ~ $55.4</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$52.9</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$58.7</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↑週↑月↑，多頭排列，52W位置99%，RSI 80</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>三線同向向上，RSI超買(80)，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>接近52週高點，追高謹慎</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">觀察量能確認</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 22.8，EPS --，營收 無</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.7x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>量能正常</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">NVDA</span>
+              <span class="stock-name">NVIDIA</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-0.52%  $229.28</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.5x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（53），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$207.9 ~ $212.1</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$202.7</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$243.4</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↑，MA20上方，52W位置82%，RSI 53</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 29.0，EPS 7.91，營收 106%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，高速成長106%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 0.3，便宜</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.5x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">LRCX</span>
+              <span class="stock-name">科林研發</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-0.55%  $318.84</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.4x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：RSI 60</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$258.9 ~ $264.1</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$257.1</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$352.6</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↓，MA20上方，52W位置61%，RSI 60</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 55.4，EPS 5.76，營收 30%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，穩定成長30%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 1.8，中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.4x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">00878.TW</span>
+              <span class="stock-name">國泰永續高股息</span>
+              <span class="tl-badge" style="background:#5cb85c">偏多</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-0.65%  $34.99</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $34.8（距離0.7%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.06）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：RSI 65</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$33.4 ~ $34.1</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$32.6</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$35.5</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日─週↑月↑，MA20上方，52W位置97%，RSI 65</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>接近52週高點，追高謹慎</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 19.7，EPS --，營收 無</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.6x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>量能正常</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">MU</span>
+              <span class="stock-name">美光</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-0.66%  $1,029.00</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $1,038.3（距離-0.9%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -6.32）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（48），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$898.1 ~ $916.1</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$875.5</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$1,108.7</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↑，MA20下方，52W位置79%，RSI 48</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 13.8，EPS 74.33，營收 379%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE偏低估值便宜，高速成長379%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 0.0，便宜</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.5x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">00919.TW</span>
+              <span class="stock-name">群益台灣精選高息</span>
+              <span class="tl-badge" style="background:#5cb85c">偏多</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-0.91%  $31.65</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $31.8（距離-0.5%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.12）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：RSI 42</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$30.9 ~ $31.5</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$30.1</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$32.4</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↑週─月↑，空頭排列，52W位置94%，RSI 42</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>接近52週高點，追高謹慎</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 15.8，EPS --，營收 無</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.8x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>量能正常</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">6111.TWO</span>
+              <span class="stock-name">6111擎亞</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-0.98%  $35.50</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $36.1（距離-1.7%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.01）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：RSI 58</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$32.9 ~ $33.6</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$32.1</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$38.7</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↓，MA20下方，52W位置11%，RSI 58</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 無，EPS -4.25，營收 174%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>高速成長174%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.2x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">TSM</span>
+              <span class="stock-name">台積電ADR</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-1.02%  $453.31</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $450.4（距離0.7%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.24）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（55），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$407.8 ~ $416.0</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$399.1</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$487.5</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↑，MA20上方，52W位置85%，RSI 55</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 32.9，EPS 13.76，營收 36%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，穩定成長36%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 0.9，便宜</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.7x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>量能正常</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">2317.TW</span>
+              <span class="stock-name">鴻海</span>
+              <span class="tl-badge" style="background:#e8834a">偏空</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-1.19%  $249.00</div>
+              <span class="rating-badge" style="background:#e8834a">偏弱</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $251.1（距離-0.8%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.03）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（52），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$242.3 ~ $247.2</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$236.2</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$266.5</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日─週↓月↓，MA20下方，52W位置54%，RSI 52</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 16.5，EPS 15.05，營收 41%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，穩定成長41%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 0.4，便宜</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.6x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>量能正常</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">2308.TW</span>
+              <span class="stock-name">台達電</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-1.26%  $1,965.00</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.4x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：RSI 69</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$1,552.2 ~ $1,583.4</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$1,513.2</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$2,115.0</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↑週↑月↓，MA20上方，52W位置64%，RSI 69</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 62.6，EPS 31.37，營收 48%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE偏高需高成長支撐，穩定成長48%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 1.3，中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.4x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">2330.TW</span>
+              <span class="stock-name">台積電</span>
+              <span class="tl-badge" style="background:#1a9e5c">三線多頭</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-1.35%  $2,550.00</div>
+              <span class="rating-badge" style="background:#1a9e5c">強勢★★★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.6x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：⚠️ RSI超買（74），不宜追買</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$2,332.7 ~ $2,379.6</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$2,301.8</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$2,590.0</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↑週↑月↑，MA20上方，52W位置97%，RSI 74</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>三線同向向上，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>接近52週高點，追高謹慎</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">觀察量能確認</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 29.8，EPS 85.48，營收 36%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，穩定成長36%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 0.8，便宜</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.6x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>量能正常</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">AMD</span>
+              <span class="stock-name">AMD</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-2.03%  $608.10</div>
+              <span class="rating-badge" style="background:#f0ad4e">中性★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -2.27）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（47），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$477.9 ~ $487.5</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$465.9</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$658.5</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↑，MA20上方，52W位置89%，RSI 47</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 155.1，EPS 3.92，營收 50%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE偏高需高成長支撐，高速成長50%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 3.1，偏貴</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.4x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">00631L.TW</span>
+              <span class="stock-name">元大台灣50正2</span>
+              <span class="tl-badge" style="background:#1a9e5c">三線多頭</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-2.04%  $40.90</div>
+              <span class="rating-badge" style="background:#5cb85c">稍強★★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#555">
+            <div style="font-weight:700;color:#555;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>支撐位</b>：None</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：➡️ MACD向上但未放量（0.8x）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：⚠️ RSI超買（80），不宜追買</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#555">$34.0 ~ $34.7</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$33.8</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$41.9</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↑週↑月↑，MA20上方，52W位置96%，RSI 80</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>三線同向向上，RSI超買(80)，MACD金叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>接近52週高點，追高謹慎</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">觀察量能確認</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 無，EPS --，營收 無</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>數據不足</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.8x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>量能正常</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">00909.TW</span>
+              <span class="stock-name">國泰智能電動車ETF</span>
+              <span class="tl-badge" style="background:#f0ad4e">多空分歧</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-2.46%  $46.41</div>
+              <span class="rating-badge" style="background:#e8834a">偏弱</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $48.3（距離-3.9%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.37）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（53），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$44.2 ~ $45.1</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$44.0</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$52.8</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週↑月↓，MA20下方，52W位置69%，RSI 53</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 20.6，EPS --，營收 無</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.5x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">00910.TW</span>
+              <span class="stock-name">第一金太空衛星</span>
+              <span class="tl-badge" style="background:#e8834a">偏空</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-2.78%  $56.05</div>
+              <span class="rating-badge" style="background:#d9534f">迴避</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $57.4（距離-2.3%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -0.02）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：➡️ RSI在50附近（49），方向待確認</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$54.8 ~ $55.9</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$53.6</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$59.5</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↓週─月↓，MA20下方，52W位置38%，RSI 49</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>多空分歧，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>訊號混合</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">等方向明朗</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 22.6，EPS --，營收 無</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>數據不足</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.4x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+        <div class="stock-detail">
+          <div class="stock-detail-header">
+            <div>
+              <span class="stock-code">3017.TW</span>
+              <span class="stock-name">奇鋐</span>
+              <span class="tl-badge" style="background:#1a9e5c">三線多頭</span>
+            </div>
+            <div style="text-align:right">
+              <div style="font-size:1.2rem;font-weight:700;color:#e8834a">-2.96%  $3,440.00</div>
+              <span class="rating-badge" style="background:#5cb85c">稍強★★</span>
+            </div>
+          </div>
+          <div class="entry-box" style="border-color:#3a7bd5">
+            <div style="font-weight:700;color:#3a7bd5;margin-bottom:6px">🎯 買入點分析</div>
+            <div style="color:#1a9e5c;font-size:0.82rem;margin:3px 0">✅ <b>支撐位</b>：👀 貼近MA20支撐 $3,414.8（距離0.7%）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>MACD金叉+放量</b>：❌ MACD向下（histogram -8.20）</div><div style="color:#888;font-size:0.82rem;margin:3px 0">⭕ <b>RSI穿越50</b>：RSI 60</div>
+            <div style="margin-top:8px;font-size:0.82rem">
+              <span style="color:#888">進場參考區間：</span><b style="color:#3a7bd5">$3,084.5 ~ $3,146.5</b>
+              <span style="color:#888;margin-left:12px">止損參考：</span><b style="color:#d9534f">$3,007.0</b>
+              <span style="color:#888;margin-left:12px">近期壓力：</span><b style="color:#f0ad4e">$3,700.0</b>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <div class="analysis-face">📈 技術面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>日↑週↑月↑，MA20上方，52W位置90%，RSI 60</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>三線同向向上，MACD死叉</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>接近52週高點，追高謹慎</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">觀察量能確認</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">💰 基本面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>PE 46.6，EPS 73.89，營收 66%</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>PE合理，高速成長66%</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>PEG 0.7，便宜</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">搭配技術面進出</span></div>
+            </div>
+            <div class="analysis-card">
+              <div class="analysis-face">🔬 籌碼面</div>
+              <div class="analysis-row"><span class="al">情況</span><span>量能0.6x，外資盤後更新</span></div>
+              <div class="analysis-row"><span class="al">分析</span><span>縮量觀望</span></div>
+              <div class="analysis-row"><span class="al">結果</span><span><b>籌碼中性</b></span></div>
+              <div class="analysis-row"><span class="al">建議</span><span style="color:#5cb85c">放量方向可信度高</span></div>
+            </div></div></div>
+
+<h2>🌟 生活熱門趨勢（食衣住行娛樂）</h2>
+<h3>Google Trends 台灣 — 各生活類別搜尋熱度（7天）</h3>
+<div class="trend-grid">
+        <div class="trend-card">
+          <div class="trend-header"><span class="trend-cat">健康運動</span><span style="color:#1a9e5c;font-weight:700">+9%</span></div>
+          <div class="trend-bar-bg"><div class="trend-bar" style="width:44%;background:#1a9e5c"></div></div>
+          <div style="color:#888;font-size:0.78rem">熱度:44  最熱：<b style="color:#fff">健身</b></div>
+        </div>
+        <div class="trend-card">
+          <div class="trend-header"><span class="trend-cat">娛樂3C</span><span style="color:#f0ad4e;font-weight:700">-1%</span></div>
+          <div class="trend-bar-bg"><div class="trend-bar" style="width:36%;background:#f0ad4e"></div></div>
+          <div style="color:#888;font-size:0.78rem">熱度:36  最熱：<b style="color:#fff">手機</b></div>
+        </div>
+        <div class="trend-card">
+          <div class="trend-header"><span class="trend-cat">服飾美妝</span><span style="color:#1a9e5c;font-weight:700">+6%</span></div>
+          <div class="trend-bar-bg"><div class="trend-bar" style="width:35%;background:#1a9e5c"></div></div>
+          <div style="color:#888;font-size:0.78rem">熱度:35  最熱：<b style="color:#fff">穿搭</b></div>
+        </div>
+        <div class="trend-card">
+          <div class="trend-header"><span class="trend-cat">居家生活</span><span style="color:#1a9e5c;font-weight:700">+14%</span></div>
+          <div class="trend-bar-bg"><div class="trend-bar" style="width:35%;background:#1a9e5c"></div></div>
+          <div style="color:#888;font-size:0.78rem">熱度:35  最熱：<b style="color:#fff">家具</b></div>
+        </div>
+        <div class="trend-card">
+          <div class="trend-header"><span class="trend-cat">旅遊交通</span><span style="color:#1a9e5c;font-weight:700">+5%</span></div>
+          <div class="trend-bar-bg"><div class="trend-bar" style="width:35%;background:#1a9e5c"></div></div>
+          <div style="color:#888;font-size:0.78rem">熱度:35  最熱：<b style="color:#fff">機票</b></div>
+        </div>
+        <div class="trend-card">
+          <div class="trend-header"><span class="trend-cat">食品飲料</span><span style="color:#d9534f;font-weight:700">-11%</span></div>
+          <div class="trend-bar-bg"><div class="trend-bar" style="width:10%;background:#d9534f"></div></div>
+          <div style="color:#888;font-size:0.78rem">熱度:10  最熱：<b style="color:#fff">美食</b></div>
+        </div></div>
+
+<div class="three-col" style="margin-top:14px">
+  <div class="card"><h3>💬 Dcard 熱門討論</h3><div style="color:var(--muted)">未取得</div></div>
+  <div class="card"><h3>📋 PTT 熱門</h3><div style="color:var(--muted)">未取得</div></div>
+  <div class="card"><h3>📺 YouTube 台灣熱門</h3><div style="color:var(--muted)">未取得</div></div>
+</div>
+
+<div class="two-col" style="margin-top:14px">
+  <div class="card"><h3>🎵 TikTok 熱門話題</h3><div class="social-item"><span class="social-src">TikTok</span>Short videos overtake social media as top media format in Ta</div><div class="social-item"><span class="social-src">TikTok</span>Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily</div><div class="social-item"><span class="social-src">TikTok</span>Seeing is not believing (part II) - AI videos spread during </div><div class="social-item"><span class="social-src">TikTok</span>Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？</div></div>
+  <div class="card"><h3>💬 Reddit 本週熱賣（真實讚數）</h3><div style="color:var(--muted)">未取得</div></div>
+</div>
+
+<div class="card" style="margin-top:14px"><h3>🛍️ Shopee 台灣熱銷（具體商品）</h3><div style="color:var(--muted)">未取得</div></div>
+
+<h2>🌏 四國消息面</h2>
+<div class="two-col">
+  <div class="card"><h3>四國共同話題熱度</h3><div class="hot-row"><span class="hot-cat">AI/科技</span><div class="hot-bar-bg"><div class="hot-bar" style="width:100.0%"></div></div><span class="hot-n">4/4</span></div><div class="hot-row"><span class="hot-cat">總經/利率</span><div class="hot-bar-bg"><div class="hot-bar" style="width:50.0%"></div></div><span class="hot-n">2/4</span></div></div>
+  <div class="card"><h3>今日重要新聞</h3><div class="news-item"><span class="news-src" style="background:#1a9e5c">🇹🇼 台灣</span><span class="news-title">洋流號擠爆 ！沈伯洋車掃王世堅也來了 「貪食蛇」車流15分鐘才消化完</span></div><div class="news-item"><span class="news-src" style="background:#e8834a">🇯🇵 日本</span><span class="news-title">「政治に携わる者として疑わしい」石破氏が簗農水相問題を痛烈に批判 [鳥取県] [簗和生農林水産大臣]</span></div><div class="news-item"><span class="news-src" style="background:#3a7bd5">🇰🇷 韓國</span><span class="news-title">임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도</span></div><div class="news-item"><span class="news-src" style="background:#5a5a9e">🇺🇸 美國</span><span class="news-title">World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport</span></div><div class="news-item"><span class="news-src" style="background:#1a9e5c">🇹🇼 台灣</span><span class="news-title">快訊／川普突宣布俄烏即刻實施能源停火 強調雙方均已同意不得違反</span></div><div class="news-item"><span class="news-src" style="background:#e8834a">🇯🇵 日本</span><span class="news-title">サウジ首都空港攻撃で１２人死亡 フーシ派への報復宣言―イエメン内戦介入後、最悪被害</span></div><div class="news-item"><span class="news-src" style="background:#3a7bd5">🇰🇷 韓國</span><span class="news-title">미-러 ‘경유 협력’ 비판 확산…트럼프 “우크라에 새 대통령”</span></div><div class="news-item"><span class="news-src" style="background:#5a5a9e">🇺🇸 美國</span><span class="news-title">Trump claims Russia and Ukraine agree to energy ceasefire</span></div><div class="news-item"><span class="news-src" style="background:#1a9e5c">🇹🇼 台灣</span><span class="news-title">蔣萬安質疑昔稱「類殖民」今祝賀國慶　沈伯洋反擊：不是我改變是歷史</span></div><div class="news-item"><span class="news-src" style="background:#e8834a">🇯🇵 日本</span><span class="news-title">ネパールでまた大規模土石流、少なくとも５人行方不明…地滑りで川がせき止められた後に決壊した可能性</span></div><div class="news-item"><span class="news-src" style="background:#3a7bd5">🇰🇷 韓國</span><span class="news-title">민주당 “한동훈 딸 논문 케냐인이 대신 썼나” 대필 의혹 공세…김민석·한동훈·조국 ‘자녀 소환 전쟁’</span></div><div class="news-item"><span class="news-src" style="background:#5a5a9e">🇺🇸 美國</span><span class="news-title">Pope Leo to have surgery after lump found on lung</span></div><div class="news-item"><span class="news-src" style="background:#1a9e5c">🇹🇼 台灣</span><span class="news-title">把握明後好天氣！周三起2地轉濕涼 下周末恐有熱帶擾動發展</span></div><div class="news-item"><span class="news-src" style="background:#e8834a">🇯🇵 日本</span><span class="news-title">奄美大島の海岸で見つかった女性遺体は埼玉の23歳女性 一緒に海に入った知人男性が行方不明 鹿児島・瀬戸内町</span></div><div class="news-item"><span class="news-src" style="background:#3a7bd5">🇰🇷 韓國</span><span class="news-title">후티 반군 "사우디 공항·영공 이용 말라…성지 빼고 전면 타격"(종합)</span></div></div>
+</div>
+
+</body></html>
