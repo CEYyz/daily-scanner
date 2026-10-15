@@ -1,0 +1,114 @@
+14:01:12  INFO  ======================================================================
+14:01:12  INFO  🔥  每日機會分析系統 v10
+14:01:12  INFO  📅  2026-10-15 14:01
+14:01:12  INFO  ======================================================================
+14:01:12  INFO  
+① 🌕  CRYPTO
+14:01:12  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+14:01:13  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+14:01:13  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+14:01:14  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+14:01:15  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+14:01:15  INFO    ✅ Crypto 0 筆
+14:01:15  INFO  
+② 📈  股票
+14:01:16  INFO    [台] 3293.TWO     鈊象電子         $    811.00  +0.00% 三線多頭
+14:01:16  INFO             買入點：— 目前無買入信號  進場區：$687.3 ~ $701.1  止損：$674.1
+14:01:17  INFO    [台] 00909.TW     國泰智能電動車ETF   $     41.64  -6.47% 三線空頭
+14:01:17  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$40.9 ~ $41.7  止損：$39.8
+14:01:18  INFO    [台] 0056.TW      元大高股息        $     58.25  -0.51% 偏多
+14:01:18  INFO             買入點：— 目前無買入信號  進場區：$54.3 ~ $55.4  止損：$52.9
+14:01:18  INFO    [台] 6111.TWO     6111擎亞       $     35.50  +0.57% 多空分歧
+14:01:18  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$32.9 ~ $33.6  止損：$32.1
+14:01:19  INFO    [台] 00878.TW     國泰永續高股息      $     35.09  -0.71% 偏多
+14:01:19  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$33.5 ~ $34.2  止損：$32.7
+14:01:20  INFO    [台] 3017.TW      奇鋐           $  3,085.00  -6.94% 多空分歧
+14:01:20  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$3,034.8 ~ $3,095.7  止損：$2,958.5
+14:01:21  INFO    [台] 00713.TW     元大高息低波       $     65.50  +2.02% 三線多頭
+14:01:21  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$61.8 ~ $63.1  止損：$60.5
+14:01:22  INFO    [台] 00919.TW     群益台灣精選高息     $     32.38  -0.06% 偏多
+14:01:22  INFO             買入點：— 目前無買入信號  進場區：$31.0 ~ $31.6  止損：$30.2
+14:01:23  INFO    [美] NVDA         NVIDIA       $    214.76  -2.96% 多空分歧
+14:01:23  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$211.8 ~ $216.0  止損：$206.5
+14:01:24  INFO    [美] GEV          GE Vernova   $    886.17  -5.90% 多空分歧
+14:01:24  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$866.8 ~ $884.2  止損：$845.0
+14:01:25  INFO    [台] 2330.TW      台積電          $  2,440.00  -2.01% 多空分歧
+14:01:25  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,359.4 ~ $2,406.8  止損：$2,301.8
+14:01:26  INFO    [美] AMD          AMD          $    536.27  -6.05% 多空分歧
+14:01:26  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$527.4 ~ $538.0  止損：$514.2
+14:01:26  INFO    [美] TSM          台積電ADR       $    410.82  -4.46% 多空分歧
+14:01:26  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$405.1 ~ $413.3  止損：$394.9
+14:01:27  INFO    [台] 2317.TW      鴻海           $    239.50  -1.44% 三線空頭
+14:01:27  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$236.8 ~ $241.6  止損：$230.9
+14:01:28  INFO    [台] 2530.TW      華建           $     20.80  +0.00% 三線多頭
+14:01:28  INFO             買入點：— 目前無買入信號  進場區：$19.5 ~ $19.9  止損：$19.1
+14:01:29  INFO    [美] MU           美光           $    871.78  -4.63% 三線空頭
+14:01:29  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$853.7 ~ $870.9  止損：$832.3
+14:01:30  INFO    [美] LRCX         科林研發         $    268.92  -6.27% 多空分歧
+14:01:30  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$266.1 ~ $271.5  止損：$259.4
+14:01:31  INFO    [台] 00631L.TW    元大台灣50正2     $     37.14  -5.50% 多空分歧
+14:01:31  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$34.4 ~ $35.1  止損：$33.8
+14:01:32  INFO    [台] 00910.TW     第一金太空衛星      $     49.90  -5.85% 三線空頭
+14:01:32  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$49.4 ~ $50.4  止損：$48.1
+14:01:33  INFO    [台] 2308.TW      台達電          $  1,630.00  -8.68% 多空分歧
+14:01:33  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,577.1 ~ $1,608.8  止損：$1,537.5
+14:01:33  INFO    ⏰ 14:xx 外資 16:30 後更新
+14:01:33  INFO    ✅ 股票 20 筆
+14:01:33  INFO  
+③ 🌟  生活熱門趨勢
+14:01:33  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+14:01:34  WARNING    [食品飲料] The request failed: Google returned a response with code 429
+14:01:37  WARNING    [服飾美妝] The request failed: Google returned a response with code 429
+14:01:41  INFO    [居家生活] 熱度:26 動能:-14% 最熱關鍵字：家具 ❄️
+14:01:43  WARNING    [娛樂3C] The request failed: Google returned a response with code 429
+14:01:47  WARNING    [健康運動] The request failed: Google returned a response with code 429
+14:01:50  WARNING    [旅遊交通] The request failed: Google returned a response with code 429
+14:01:53  INFO    💬 Dcard 熱門...
+14:01:53  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+14:01:53  INFO    📋 PTT 熱門...
+14:01:53  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Gossiping/index.html
+14:01:53  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Stock/index.html
+14:01:53  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/beauty/index.html
+14:01:53  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/movie/index.html
+14:01:53  WARNING      ⚠️  www.ptt.cc → 403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/food/index.html
+14:01:53  INFO    📺 YouTube 台灣熱門...
+14:01:53  INFO    🎵 TikTok...
+14:01:58  INFO    [TikTok] #1 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+14:01:58  INFO    [TikTok] #2 Seeing is not believing (part II) - AI videos spread during 
+14:01:58  INFO    [TikTok] #3 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+14:01:58  INFO    🛍️  Shopee 台灣熱銷...
+14:02:02  INFO    💬 Reddit 熱賣（本週）...
+14:02:02  INFO    ✅ 生活趨勢完成
+14:02:02  INFO  
+④ 📰  消息面
+14:02:02  INFO    [🇹🇼 台灣] 蔣萬安、沈伯洋首場辯論會確定了！10/31中午12時TVBS與三立聯合舉辦
+14:02:02  INFO    [🇹🇼 台灣] 要賈永婕「穿著純樸」 賴惠員道歉
+14:02:02  INFO    [🇹🇼 台灣] 沒背到拒答？蔣萬安被問松機遷建醫療後送 鄭照新救援代答
+14:02:02  INFO    [🇹🇼 台灣] 又批沈伯洋賺紅錢！他曝1錯誤「國台辦沒用腦」：是中國人賺台獨錢
+14:02:02  INFO    [🇹🇼 台灣] 台大陸生比捏頭手勢喊「小小賴清德拿下」惹怒全網 緊急道歉撤圖
+14:02:02  INFO    [🇹🇼 台灣] 成功嶺營區10/24開放 M1A2T戰車、海馬士等24項裝備陳展
+14:02:03  INFO    [🇯🇵 日本] 新農相に武部新氏が就任、父に続く起用に「培ってきたものを全力で」…前任の簗氏には「説明責任果たして」
+14:02:04  INFO    [🇯🇵 日本] ウクライナがロシア製油所攻撃を再開へ ゼレンスキー氏が英紙に表明、トランプ氏に不満（CNN.co.jp）
+14:02:04  INFO    [🇯🇵 日本] 【速報】米、イランに大規模爆弾使用の可能性検討か
+14:02:05  INFO    [🇯🇵 日本] 台風30号が発生 今後「非常に強い」勢力に発達へ 日本に影響の可能性も(気象予報士 田中 正史 2026年10月15日)
+14:02:05  INFO    [🇯🇵 日本] 死亡男性母親、２．３億円賠償求め提訴 逮捕のユーチューバー「ＫＥＮＺＯ」らに―京都地裁
+14:02:06  INFO    [🇯🇵 日本] 公明が１人８万円給付案、消費税減税の代わり…政調全体会議で取りまとめ
+14:02:06  INFO    [🇰🇷 韓國] [단독] 미국, 전작권 전환 협의 과정서 ‘천무·정찰 무인항공기’ 성능 강화 요구…정부 ‘골대 옮기기’ 반발
+14:02:07  INFO    [🇰🇷 韓國] 이 대통령, 김지용 중수청장 임명…범여권 ‘부적격 논란’ 여전
+14:02:07  INFO    [🇰🇷 韓國] “강훈식과 갈등 빚은 김현지, 말 잘 듣는 비서실장 원했을 것”[법정모독 업앤다운]
+14:02:08  INFO    [🇰🇷 韓國] 8번 경찰에 신고했지만... 결국 남편에게 살해됐다
+14:02:08  INFO    [🇰🇷 韓國] 트럼프 새 대변인, 미국 변호사시험 불합격 확인‥경력 논란
+14:02:09  INFO    [🇰🇷 韓國] 31일 ‘구속 만료’ 김건희 석방되나…특검, 대법에 추가 영장 발부 요청
+14:02:09  INFO    [🇺🇸 美國] ‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts
+14:02:09  INFO    [🇺🇸 美國] Talarico faces voters, but not Paxton, in CNN town hall
+14:02:09  INFO    [🇺🇸 美國] Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems
+14:02:09  INFO    [🇺🇸 美國] For some Christians, Hegseth’s plan for public execution fits a biblical mandate
+14:02:09  INFO    [🇺🇸 美國] Trump suggests those who leak government information should ‘be shot’
+14:02:09  INFO    [🇺🇸 美國] Katie Zacharia Failed Bar Exam In 2011, Report Says—Amid Legal Credentials Controversy
+14:02:11  WARNING      ⚠️  apnews.com → 403 Client Error: Forbidden for url: https://apnews.com/business
+14:02:22  INFO  
+🖥️  產生 HTML 報告...
+14:02:22  INFO  
+✅  HTML：報告_20261015_1402.html
+14:02:22  INFO  ✅  CSV：機會分析_20261015_1402.csv
+14:02:22  INFO  📝  Log：logs/scan_20261015_140112.log
