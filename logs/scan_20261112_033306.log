@@ -1,0 +1,136 @@
+03:33:06  INFO  ======================================================================
+03:33:06  INFO  🔥  每日機會分析系統 v10
+03:33:06  INFO  📅  2026-11-12 03:33
+03:33:06  INFO  ======================================================================
+03:33:06  INFO  
+① 🌕  CRYPTO
+03:33:07  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+03:33:07  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+03:33:08  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+03:33:08  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+03:33:09  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+03:33:09  INFO    ✅ Crypto 0 筆
+03:33:09  INFO  
+② 📈  股票
+03:33:10  INFO    [台] 3293.TWO     鈊象電子         $    776.00  +0.13% 多空分歧
+03:33:10  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$694.5 ~ $708.5  止損：$677.1
+03:33:11  INFO    [台] 00909.TW     國泰智能電動車ETF   $     37.42  +1.16% 三線空頭
+03:33:11  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$34.1 ~ $34.8  止損：$33.8
+03:33:12  INFO    [台] 0056.TW      元大高股息        $     53.60  +2.49% 多空分歧
+03:33:12  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$47.2 ~ $48.1  止損：$46.0
+03:33:12  INFO    [台] 6111.TWO     6111擎亞       $     28.70  -0.86% 三線空頭
+03:33:12  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$25.6 ~ $26.1  止損：$25.0
+03:33:13  INFO    [台] 00878.TW     國泰永續高股息      $     33.49  +1.64% 多空分歧
+03:33:13  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$30.3 ~ $30.9  止損：$29.5
+03:33:14  INFO    [台] 3017.TW      奇鋐           $  3,005.00  -1.15% 多空分歧
+03:33:14  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,298.4 ~ $2,344.6  止損：$2,240.7
+03:33:15  INFO    [台] 00713.TW     元大高息低波       $     63.30  +1.61% 多空分歧
+03:33:15  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$59.8 ~ $61.1  止損：$58.3
+03:33:16  INFO    [台] 00919.TW     群益台灣精選高息     $     31.29  +1.26% 多空分歧
+03:33:16  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$28.5 ~ $29.0  止損：$27.8
+03:33:17  INFO    [美] NVDA         NVIDIA       $    173.73  +2.87% 三線空頭
+03:33:17  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$165.1 ~ $168.4  止損：$160.9
+03:33:18  INFO    [美] GEV          GE Vernova   $    808.24  +1.41% 多空分歧
+03:33:18  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$743.3 ~ $758.2  止損：$724.6
+03:33:19  INFO    [台] 2330.TW      台積電          $  2,380.00  -0.63% 多空分歧
+03:33:19  INFO             買入點：— 目前無買入信號  進場區：$2,009.9 ~ $2,050.3  止損：$1,959.4
+03:33:19  INFO    [美] AMD          AMD          $    552.90  +7.32% 多空分歧
+03:33:19  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$400.1 ~ $408.1  止損：$390.0
+03:33:20  INFO    [美] TSM          台積電ADR       $    413.35  +4.25% 多空分歧
+03:33:20  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$349.4 ~ $356.5  止損：$340.7
+03:33:21  INFO    [台] 2317.TW      鴻海           $    243.00  +0.41% 多空分歧
+03:33:21  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$211.4 ~ $215.7  止損：$206.1
+03:33:22  INFO    [台] 2530.TW      華建           $     18.30  +1.39% 多空分歧
+03:33:22  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$17.2 ~ $17.6  止損：$16.8
+03:33:23  INFO    [美] MU           美光           $    811.30 +11.89% 多空分歧
+03:33:23  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$646.8 ~ $659.7  止損：$630.5
+03:33:24  INFO    [美] LRCX         科林研發         $    235.88  +6.07% 多空分歧
+03:33:24  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$183.3 ~ $187.0  止損：$178.7
+03:33:25  INFO    [台] 00631L.TW    元大台灣50正2     $     32.63  +7.87% 多空分歧
+03:33:25  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$23.7 ~ $24.2  止損：$23.1
+03:33:26  INFO    [台] 00910.TW     第一金太空衛星      $     54.60  +1.02% 多空分歧
+03:33:26  INFO             買入點：— 目前無買入信號  進場區：$44.7 ~ $45.6  止損：$43.6
+03:33:26  INFO    [台] 2308.TW      台達電          $  1,300.00  +0.39% 多空分歧
+03:33:26  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,014.9 ~ $1,035.3  止損：$989.4
+03:33:27  INFO    ⏰ 3:xx 外資 16:30 後更新
+03:33:27  INFO    ✅ 股票 20 筆
+03:33:27  INFO  
+③ 🌟  生活熱門趨勢
+03:33:27  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+03:33:27  INFO    [食品飲料] 熱度:8 動能:-23% 最熱關鍵字：美食 ❄️
+03:33:30  INFO    [服飾美妝] 熱度:21 動能:-20% 最熱關鍵字：穿搭 ❄️
+03:33:32  INFO    [居家生活] 熱度:24 動能:-17% 最熱關鍵字：家具 ❄️
+03:33:35  INFO    [娛樂3C] 熱度:25 動能:-28% 最熱關鍵字：手機 ❄️
+03:33:37  INFO    [健康運動] 熱度:38 動能:-13% 最熱關鍵字：健身 ❄️
+03:33:39  INFO    [旅遊交通] 熱度:24 動能:-26% 最熱關鍵字：機票 ❄️
+03:33:41  INFO    💬 Dcard 熱門...
+03:33:41  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+03:33:41  INFO    📋 PTT 熱門...
+03:33:42  INFO    [PTT/Gossiping] [4] [問卦] 大疆DJI出電輔馬達Avinox；自行車王國？
+03:33:42  INFO    [PTT/Gossiping] [3] [問卦] 楪可憐到底多可憐？？
+03:33:42  INFO    [PTT/Gossiping] [4] [新聞] 國民黨美女議員長文批羅大佑　大批藍白支
+03:33:42  INFO    [PTT/Gossiping] [] [問卦] AB型是不是最無私的血型?
+03:33:42  INFO    [PTT/Gossiping] [5] [新聞] 沈伯洋「破圈」跨世代、職業！學者曝：
+03:33:42  INFO    [PTT/Stock] [2] Re: [請益] 美國為何一直在提防華人？
+03:33:42  INFO    [PTT/Stock] [10] Re: [請益] 美國為何一直在提防華人？
+03:33:42  INFO    [PTT/Stock] [7] Re: [新聞] 星巴克人真的變少！網紅揭6年營收…秒懂
+03:33:42  INFO    [PTT/Stock] [6] [新聞] 輝達晶片轉運中國管制受阻？Axios直指盧
+03:33:42  INFO    [PTT/Stock] [39] [公告] 交易工具異常回報區
+03:33:43  INFO    [PTT/beauty] [6] [正妹] 斑馬
+03:33:43  INFO    [PTT/beauty] [24] [正妹] 40路美魔女 白石茉莉奈
+03:33:43  INFO    [PTT/beauty] [7] [正妹] 貝拉 小龍女
+03:33:43  INFO    [PTT/beauty] [] [正妹] Cosplay 2905 日本 東方
+03:33:43  INFO    [PTT/beauty] [2] [正妹] 蘋什麼
+03:33:44  INFO    [PTT/movie] [13] Re: [新聞]DC新老闆力求新版《正義聯盟》盡快登場！
+03:33:44  INFO    [PTT/movie] [7] Fw: [情報] 康斯坦汀導演:希望現在續集能拍了
+03:33:44  INFO    [PTT/movie] [12] [無雷] 哥吉拉-0.0之演的好用力
+03:33:44  INFO    [PTT/movie] [8] [討論] 泥面人可以好看，莫比斯獵人不行？
+03:33:44  INFO    [PTT/movie] [1] [情報] 【蜘蛛人：重生日】Netflix 11.26上線
+03:33:45  INFO    [PTT/food] [1] [食記] 台北。忠孝敦化-墨賞新鐵板料理~商業午餐
+03:33:45  INFO    [PTT/food] [] [食記] 挪威平價餐廳Egon (Starvanger店)
+03:33:45  INFO    [PTT/food] [] [食記] 挪威平價餐廳Egon (Oslo中央車站店)
+03:33:45  INFO    [PTT/food] [1] [食記] 挪威平價餐廳Egon (Bergen店)
+03:33:45  INFO    [PTT/food] [] [食記] 台北 Restaurant 12
+03:33:45  INFO    📺 YouTube 台灣熱門...
+03:33:45  INFO    🎵 TikTok...
+03:33:50  INFO    [TikTok] #1 Short videos overtake social media as top media format in Ta
+03:33:50  INFO    [TikTok] #2 Taiwan Immigrants' Global News Network-What's ‘sleepmaxxing’
+03:33:50  INFO    [TikTok] #3 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+03:33:50  INFO    [TikTok] #4 Seeing is not believing (part II) - AI videos spread during 
+03:33:50  INFO    [TikTok] #5 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+03:33:50  INFO    🛍️  Shopee 台灣熱銷...
+03:33:54  INFO    💬 Reddit 熱賣（本週）...
+03:33:54  INFO    ✅ 生活趨勢完成
+03:33:54  INFO  
+④ 📰  消息面
+03:33:54  INFO    [🇹🇼 台灣] 羅大佑點名蔡英文、蕭美琴沒生小孩 蔣萬安：不應以此作為判斷標準
+03:33:54  INFO    [🇹🇼 台灣] 把握回暖好天氣 吳德榮：下周三鋒面+東北季風接力 冷空氣恐持續3天
+03:33:54  INFO    [🇹🇼 台灣] 藍白攜手…蔣萬安合體白營小雞 誇柯政績
+03:33:54  INFO    [🇹🇼 台灣] 快訊／挑戰6連霸議長確定夢碎！謝典霖涉貪罪嫌重大 法官裁定續延押2月
+03:33:54  INFO    [🇹🇼 台灣] 敗選找戰犯？美國戰爭部長彈劾案受挫，期中選舉後的共和黨內鬥風暴
+03:33:54  INFO    [🇹🇼 台灣] 義大利300校緊急疏散！炸彈恐嚇信竟來自台灣　大葉大學急發聲明
+03:33:55  INFO    [🇯🇵 日本] ゼレンスキー大統領「不可能だ」 ロシア代表団「我々の土地はすべて戻される」従来主張に反発 ウクライナ和平協議終了
+03:33:55  INFO    [🇯🇵 日本] 長崎県壱岐市 修学旅行生を乗せた遊覧船、定員の１・７倍を乗せ運航…九州運輸局が立ち入り検査
+03:33:56  INFO    [🇯🇵 日本] ヘグセス国防長官ら一行、「無名戦士の墓」で談笑し衛兵から叱責 映像に捉えられる
+03:33:56  INFO    [🇯🇵 日本] 駐米ロシア大使が死亡 ダルチエフ氏（共同通信）
+03:33:56  INFO    [🇯🇵 日本] 消費減税法案棄権で進退窮まる 石破茂前首相ら「造反4人組」 阿比留瑠比の極言御免
+03:33:57  INFO    [🇯🇵 日本] イタリアで6300校に爆破予告 イギリスの学校も標的に
+03:33:58  INFO    [🇰🇷 韓國] 민주당 “한덕수 20일 석방 가능성…조희대 대법원, 내란 세력 부활 시도하나”
+03:33:58  INFO    [🇰🇷 韓國] 김민석, 종부세 논란에 “부동산 정책 기본, 일관되는 게 좋다 정리”
+03:33:59  INFO    [🇰🇷 韓國] "몰살시킬 것" 유럽 학교 7000곳 폭파 위협... 伊총리까지 협박
+03:33:59  INFO    [🇰🇷 韓國] 나경원 "당나라 군대냐" 지적에 강신철 "말씀 취소하라" 반발
+03:34:00  INFO    [🇰🇷 韓國] 이 대통령 “충청 392조원 투자에 23조6000억원 추가…중소기업 성장 지원”
+03:34:00  INFO    [🇰🇷 韓國] “미국 밴스 부통령, 이란 군부 강경파와 대면협상 검토”
+03:34:00  INFO    [🇺🇸 美國] Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction
+03:34:00  INFO    [🇺🇸 美國] Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier
+03:34:00  INFO    [🇺🇸 美國] SS United States live updates: Ship slowly sinking off Florida coast
+03:34:00  INFO    [🇺🇸 美國] Dangerous search for survivors continues after deadly building collapse in Brooklyn
+03:34:00  INFO    [🇺🇸 美國] Democrats Face Backlash After Missing Hegseth Impeachment Vote
+03:34:00  INFO    [🇺🇸 美國] House Democrat responds to White House warning: ‘Come at me, bro’
+03:34:02  WARNING      ⚠️  apnews.com → 403 Client Error: Forbidden for url: https://apnews.com/business
+03:34:14  INFO  
+🖥️  產生 HTML 報告...
+03:34:14  INFO  
+✅  HTML：報告_20261112_0334.html
+03:34:14  INFO  ✅  CSV：機會分析_20261112_0334.csv
+03:34:14  INFO  📝  Log：logs/scan_20261112_033306.log
