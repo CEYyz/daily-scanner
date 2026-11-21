@@ -1,0 +1,135 @@
+16:39:13  INFO  ======================================================================
+16:39:13  INFO  🔥  每日機會分析系統 v10
+16:39:13  INFO  📅  2026-11-21 16:39
+16:39:13  INFO  ======================================================================
+16:39:13  INFO  
+① 🌕  CRYPTO
+16:39:14  ERROR    BTC-USD: float() argument must be a string or a real number, not 'Series'
+16:39:15  ERROR    ETH-USD: float() argument must be a string or a real number, not 'Series'
+16:39:16  ERROR    SOL-USD: float() argument must be a string or a real number, not 'Series'
+16:39:16  ERROR    BNB-USD: float() argument must be a string or a real number, not 'Series'
+16:39:17  ERROR    XRP-USD: float() argument must be a string or a real number, not 'Series'
+16:39:17  INFO    ✅ Crypto 0 筆
+16:39:17  INFO  
+② 📈  股票
+16:39:18  INFO    [台] 3293.TWO     鈊象電子         $    754.00  -4.80% 多空分歧
+16:39:18  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$694.5 ~ $708.5  止損：$677.1
+16:39:19  INFO    [台] 00909.TW     國泰智能電動車ETF   $     30.92  -6.70% 三線空頭
+16:39:19  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$30.7 ~ $31.3  止損：$30.0
+16:39:20  INFO    [台] 0056.TW      元大高股息        $     44.31  -6.54% 多空分歧
+16:39:20  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$44.0 ~ $44.9  止損：$42.9
+16:39:21  INFO    [台] 6111.TWO     6111擎亞       $     30.00  +5.08% 三線空頭
+16:39:21  INFO             買入點：🎯🎯 兩條件滿足 — 觀察買入點  進場區：$25.6 ~ $26.1  止損：$25.0
+16:39:22  INFO    [台] 00878.TW     國泰永續高股息      $     28.03  -5.88% 多空分歧
+16:39:22  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$27.7 ~ $28.3  止損：$27.0
+16:39:24  INFO    [台] 3017.TW      奇鋐           $  2,205.00  -9.82% 多空分歧
+16:39:24  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$2,190.0 ~ $2,234.1  止損：$2,138.8
+16:39:25  INFO    [台] 00713.TW     元大高息低波       $     58.00  -4.61% 多空分歧
+16:39:25  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$57.5 ~ $58.7  止損：$56.1
+16:39:26  INFO    [台] 00919.TW     群益台灣精選高息     $     27.49  -5.69% 多空分歧
+16:39:26  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$27.1 ~ $27.6  止損：$26.4
+16:39:27  INFO    [美] NVDA         NVIDIA       $    125.53 -14.01% 三線空頭
+16:39:27  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$123.9 ~ $126.4  止損：$120.8
+16:39:28  INFO    [美] GEV          GE Vernova   $    699.33  -7.53% 三線空頭
+16:39:28  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$688.3 ~ $702.1  止損：$671.0
+16:39:29  INFO    [台] 2330.TW      台積電          $  2,000.00  -4.76% 三線空頭
+16:39:29  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$1,960.2 ~ $1,999.5  止損：$1,910.9
+16:39:30  INFO    [美] AMD          AMD          $    424.39 -13.25% 多空分歧
+16:39:30  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$400.1 ~ $408.1  止損：$390.0
+16:39:31  INFO    [美] TSM          台積電ADR       $    318.71  -9.48% 三線空頭
+16:39:31  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$316.9 ~ $323.3  止損：$308.9
+16:39:32  INFO    [台] 2317.TW      鴻海           $    210.00  -4.76% 三線空頭
+16:39:32  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$207.0 ~ $211.1  止損：$201.8
+16:39:33  INFO    [台] 2530.TW      華建           $     17.50  -3.31% 偏空
+16:39:33  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$17.0 ~ $17.3  止損：$16.5
+16:39:34  INFO    [美] MU           美光           $    594.51 -13.89% 三線空頭
+16:39:34  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$574.7 ~ $586.3  止損：$567.7
+16:39:35  INFO    [美] LRCX         科林研發         $    183.27 -10.02% 三線空頭
+16:39:35  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$180.9 ~ $184.5  止損：$176.3
+16:39:36  INFO    [台] 00631L.TW    元大台灣50正2     $     21.24 -13.55% 三線空頭
+16:39:36  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$20.9 ~ $21.3  止損：$20.4
+16:39:37  INFO    [台] 00910.TW     第一金太空衛星      $     44.92  -5.39% 三線空頭
+16:39:37  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$44.7 ~ $45.6  止損：$43.6
+16:39:38  INFO    [台] 2308.TW      台達電          $    900.00 -10.00% 三線空頭
+16:39:38  INFO             買入點：🎯 一條件滿足 — 待確認  進場區：$862.4 ~ $879.7  止損：$873.0
+16:39:41  INFO    ✅ 股票 20 筆
+16:39:41  INFO  
+③ 🌟  生活熱門趨勢
+16:39:41  INFO    📊 Google Trends 台灣（生活/食衣住行）...
+16:39:42  INFO    [食品飲料] 熱度:10 動能:-9% 最熱關鍵字：美食 ❄️
+16:39:44  INFO    [服飾美妝] 熱度:26 動能:+9% 最熱關鍵字：穿搭 🔥🔥
+16:39:47  INFO    [居家生活] 熱度:29 動能:-1% 最熱關鍵字：家具 ❄️
+16:39:50  INFO    [娛樂3C] 熱度:39 動能:+13% 最熱關鍵字：遊戲 🔥🔥
+16:39:52  INFO    [健康運動] 熱度:38 動能:-4% 最熱關鍵字：健身 ❄️
+16:39:54  INFO    [旅遊交通] 熱度:34 動能:-8% 最熱關鍵字：機票 ❄️
+16:39:56  INFO    💬 Dcard 熱門...
+16:39:57  WARNING      ⚠️  www.dcard.tw → 403 Client Error: Forbidden for url: https://www.dcard.tw/f/trending
+16:39:57  INFO    📋 PTT 熱門...
+16:39:57  INFO    [PTT/Gossiping] [6] [問卦] line門檻為何高
+16:39:57  INFO    [PTT/Gossiping] [4] [問卦] 韓國藝人很少會飛到松山機場
+16:39:57  INFO    [PTT/Gossiping] [2] [問卦] 有些事還來不及做，就老了?
+16:39:57  INFO    [PTT/Gossiping] [] [問卦] GTA6可以不當89好好上班嗎?
+16:39:57  INFO    [PTT/Gossiping] [3] [問卦] 小雪了因該放假
+16:39:58  INFO    [PTT/Stock] [33] [請益] 請問版上的高手如何判斷停損點
+16:39:58  INFO    [PTT/Stock] [33] [新聞] 記憶體NAND Flash供過於求！集邦：明年Q
+16:39:58  INFO    [PTT/Stock] [12] [請益] 中長期投資 面對股災的風控機制為何
+16:39:58  INFO    [PTT/Stock] [98] [請益] 下周一23號的推測和應對
+16:39:58  INFO    [PTT/Stock] [28] [新聞] 黃仁勳在輝達「握手協議」背後的危機
+16:39:58  INFO    [PTT/beauty] [] [正妹] Cosplay 2923 日本 檔案
+16:39:58  INFO    [PTT/beauty] [1] [正妹] 希望みう 肉感I CUP
+16:39:58  INFO    [PTT/beauty] [] [公告] 不願上表特 ＆ 優文推薦 ＆ 檢舉建議專區
+16:39:58  INFO    [PTT/beauty] [] [公告] 口罩文會退文
+16:39:58  INFO    [PTT/beauty] [] [公告] 表特板板規(2022.10.22) 2022.10.30後執行
+16:39:59  INFO    [PTT/movie] [] [贈送] 高雄電影《大搜查線 N.E.W.》11/22(日)10
+16:39:59  INFO    [PTT/movie] [] [新聞] 《星際救援》廣受好評 導演卻不滿多年！
+16:39:59  INFO    [PTT/movie] [] [公告] 電影板板規 2021/9/4
+16:39:59  INFO    [PTT/movie] [9] [公告] 政治電影新聞張貼規範
+16:39:59  INFO    [PTT/movie] [99] [公告] 版主一事
+16:40:00  INFO    [PTT/food] [] [食記] 馬來西亞吉隆坡—Old West Coffee｜隱身甘榜巴魯的復古美式
+16:40:00  INFO    [PTT/food] [] [食記] 新北市板橋區。關仔嶺桶仔雞
+16:40:00  INFO    [PTT/food] [6] [食記] 台北 萬家福重慶店沙拉吧吃到飽
+16:40:00  INFO    [PTT/food] [] [食記] 桃園市桃園區。VENTO GELATO
+16:40:00  INFO    [PTT/food] [] [情報] 台北 Talking Bar 推薦｜5 間聊天與主題
+16:40:00  INFO    📺 YouTube 台灣熱門...
+16:40:00  INFO    🎵 TikTok...
+16:40:04  INFO    [TikTok] #1 Short videos overtake social media as top media format in Ta
+16:40:04  INFO    [TikTok] #2 Beyond Pop-Culture: Towards Integrating Taiwanese Into Daily
+16:40:04  INFO    [TikTok] #3 Taiwan Immigrants' Global News Network-What's ‘sleepmaxxing’
+16:40:04  INFO    [TikTok] #4 Seeing is not believing (part II) - AI videos spread during 
+16:40:04  INFO    [TikTok] #5 Threads在紅什麼，台灣人超瘋「脆」引起祖克柏關注？
+16:40:04  INFO    🛍️  Shopee 台灣熱銷...
+16:40:08  INFO    💬 Reddit 熱賣（本週）...
+16:40:08  INFO    ✅ 生活趨勢完成
+16:40:08  INFO  
+④ 📰  消息面
+16:40:08  INFO    [🇹🇼 台灣] 不只爭台北市長　郭璽政見會前重磅表態：絕對參加2028總統大選
+16:40:08  INFO    [🇹🇼 台灣] 蔣萬安柯文哲同台藍白合！民眾黨大造勢 柯喊投給善良正直 不要認知作戰搞仇恨對立
+16:40:08  INFO    [🇹🇼 台灣] 蘇巧慧沈伯洋三重造勢爆場逾2萬人 賴清德現身力挺喊「雙北雙贏」
+16:40:08  INFO    [🇹🇼 台灣] 「高雄有BTS也有北漂」 柯志恩鳳山造勢酸賴瑞隆：我沒派系能獨立做主
+16:40:08  INFO    [🇹🇼 台灣] 秦慧珠感恩之夜 李傅中武喊「我們都是黃復興、黃國樑出身」
+16:40:08  INFO    [🇹🇼 台灣] 明天天氣清晨竹苗下探10℃以下低溫 氣象署發布低溫特報
+16:40:09  INFO    [🇯🇵 日本] 世界の核９割保有する米中露で「責任」議論、トランプ氏「日本などは少し取り残された」（読売新聞オンライン）
+16:40:09  INFO    [🇯🇵 日本] 統一選で自民系推薦せず 公明方針
+16:40:10  INFO    [🇯🇵 日本] 愛子さま シンガポールから帰国「シンガポールとの友好親善の歩みを、私も受け継いでいくことができれば」国際親善の旅を振り返られる
+16:40:10  INFO    [🇯🇵 日本] 「もっとできたことなかったか」大阪・3歳暴行死で園関係者が自問
+16:40:11  INFO    [🇯🇵 日本] 【警報級の大雨おそれ】24日（火）は広く雨、東日本の日本海側で警報級大雨か【26日までの雨シミュレーションと全国週間天気予報】気象庁
+16:40:11  INFO    [🇯🇵 日本] 首相の中国到着時タラップ段差、官房長官「最大限の安全配慮で対応」
+16:40:12  INFO    [🇰🇷 韓國] 미 중 러 정상회담, ‘얄타 2.0’ 아니라, ‘짝퉁 얄타’인 이유
+16:40:13  INFO    [🇰🇷 韓國] 경부선 화물열차 탈선 '일반열차 운행중지'…내일 첫차부터 재개(종합2보)
+16:40:13  INFO    [🇰🇷 韓國] 李 “수능 부정행위 포상금 건당 ‘최소’ 1억…행위자 수만큼 가산”
+16:40:14  INFO    [🇰🇷 韓國] 추미애 “한덕수 판결 순억지···조희대 탄핵, 좌고우면하면 안 돼”
+16:40:14  INFO    [🇰🇷 韓國] 국힘 “조희대 탄핵하면 이재명 정권 붕괴” 대구서 장외집회
+16:40:14  INFO    [🇰🇷 韓國] "조울증에 과대망상"…이수정이 본 '리트 만점' 이진우 심리
+16:40:15  INFO    [🇺🇸 美國] Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+16:40:15  INFO    [🇺🇸 美國] New forecast shows how El Niño will shape winter weather in US
+16:40:15  INFO    [🇺🇸 美國] Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts
+16:40:15  INFO    [🇺🇸 美國] GOP set to block Trump Pentagon picks as other military moves face headwinds
+16:40:15  INFO    [🇺🇸 美國] Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil
+16:40:15  INFO    [🇺🇸 美國] Millions could lose paid benefits due to Congress ignoring decades of Social Security warnings: experts
+16:40:18  WARNING      ⚠️  apnews.com → 403 Client Error: Forbidden for url: https://apnews.com/business
+16:40:30  INFO  
+🖥️  產生 HTML 報告...
+16:40:30  INFO  
+✅  HTML：報告_20261121_1640.html
+16:40:30  INFO  ✅  CSV：機會分析_20261121_1640.csv
+16:40:30  INFO  📝  Log：logs/scan_20261121_163913.log
